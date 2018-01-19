@@ -7,6 +7,12 @@ navbar:
       href: index.html
     - text: "Syllabus"
       href: syllabus.html
+    - text: "Schedule"
+      href: schedule.html
+    - text: "Moodle"
+      href: https://moodle.smith.edu/course/view.php?id=27776
+    - text: "Slack"
+      href: csc250-s18.slack.com
 output:
   html_document:
     theme: flatly

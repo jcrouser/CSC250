@@ -2,6 +2,11 @@
 title: "Syllabus"
 ---
 <hr>
+
+## Course Communication and Announcements
+This website will serve as the primary syllabus for this course. All course-related announcements, as well as electronic communication between students and the professor, will happen using the course's dedicated [Slack](https://csc250-s18.slack.com) team.
+
+<hr>
 ## Course Materials
 There is no required textbook for the course. However, there are three recommended books that some students may find helpful:
 
@@ -11,7 +16,7 @@ There is no required textbook for the course. However, there are three recommend
 
 <hr>
 ## Assignments
-There will be 8 problem sets assigned during the semester. Problem sets will be due by 5pm on Thursday evenings. These problem sets will often ask you to prove theorems, but it is more important to demonstrate understanding than to employ rigor for rigor's sake. For example: a brief description of an algorithm including an illustrative diagram is better than complicated spaghetti code. Additionally, a clear explanation of how you tried to solve a problem and were unsuccessful will receive partial credit. All assignment submissions must be in PDF format, and must be organized and legible (typed is preferable). A [LaTeX template](https://moodle.smith.edu/mod/resource/view.php?id=285193) is available for typesetting your assignments.
+There will be 8 problem sets assigned during the semester. Problem sets will be due on [Moodle](https://moodle.smith.edu/course/view.php?id=27776) by 5pm on Thursday evenings. These problem sets will often ask you to prove theorems, but it is more important to demonstrate understanding than to employ rigor for rigor's sake. For example: a brief description of an algorithm including an illustrative diagram is better than complicated spaghetti pseudocode. Additionally, a clear explanation of how you tried to solve a problem and were unsuccessful will receive partial credit. All assignment submissions must be in PDF format, and must be organized and legible. A [LaTeX template](https://moodle.smith.edu/mod/resource/view.php?id=285193) is available for typesetting your assignments.
 
 <hr>
 ## Collaboration and Academic Integrity
