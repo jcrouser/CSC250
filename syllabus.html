@@ -15,7 +15,7 @@
 
 <script src="site_libs/jquery-1.11.3/jquery.min.js"></script>
 <meta name="viewport" content="width=device-width, initial-scale=1" />
-<link href="site_libs/bootstrap-3.3.5/css/bootstrap.min.css" rel="stylesheet" />
+<link href="site_libs/bootstrap-3.3.5/css/flatly.min.css" rel="stylesheet" />
 <script src="site_libs/bootstrap-3.3.5/js/bootstrap.min.js"></script>
 <script src="site_libs/bootstrap-3.3.5/shim/html5shiv.min.js"></script>
 <script src="site_libs/bootstrap-3.3.5/shim/respond.min.js"></script>
@@ -68,6 +68,7 @@ h6 {
 }
 </style>
 
+<link rel="stylesheet" href="style.css" type="text/css" />
 
 </head>
 
@@ -99,34 +100,34 @@ button.code-folding-btn:focus {
 <style type="text/css">
 /* padding for bootstrap navbar */
 body {
-  padding-top: 51px;
+  padding-top: 60px;
   padding-bottom: 40px;
 }
 /* offset scroll position for anchor links (for fixed navbar)  */
 .section h1 {
-  padding-top: 56px;
-  margin-top: -56px;
+  padding-top: 65px;
+  margin-top: -65px;
 }
 
 .section h2 {
-  padding-top: 56px;
-  margin-top: -56px;
+  padding-top: 65px;
+  margin-top: -65px;
 }
 .section h3 {
-  padding-top: 56px;
-  margin-top: -56px;
+  padding-top: 65px;
+  margin-top: -65px;
 }
 .section h4 {
-  padding-top: 56px;
-  margin-top: -56px;
+  padding-top: 65px;
+  margin-top: -65px;
 }
 .section h5 {
-  padding-top: 56px;
-  margin-top: -56px;
+  padding-top: 65px;
+  margin-top: -65px;
 }
 .section h6 {
-  padding-top: 56px;
-  margin-top: -56px;
+  padding-top: 65px;
+  margin-top: -65px;
 }
 </style>
 
@@ -200,7 +201,84 @@ $(document).ready(function () {
 </div>
 
 
-<p>About this course.</p>
+<hr>
+<div id="course-materials" class="section level2">
+<h2>Course Materials</h2>
+<p>There is no required textbook for the course. However, there are three recommended books that some students may find helpful:</p>
+<ul>
+<li>Sipser, Michael. <a href="https://aax-us-east.amazon-adsystem.com/x/c/QhYlQi-p9AqgtohzJT0Rkn4AAAFg-5p2XwEAAAFKAUjvpWs/http:/www.amazon.com/exec/obidos/ASIN/0534950973/ref=as_at/mitopencourse-20/?linkCode=w61&amp;imprToken=aXmPU--soOtYvvJ0LmwB2g&amp;slotNum=1">Introduction to the Theory of Computation</a>. Course Technology, 2005. ISBN: 9780534950972. (<strong>Note:</strong> <em>there is a newer edition available, but it is not necessary - the 2nd edition will suffice.</em>)</li>
+<li>Moore, Cristopher and Stephan Mertens. <a href="https://www.amazon.com/exec/obidos/ASIN/0199233217/ref=as_at/mitopencourse-20/?linkCode=w61&amp;imprToken=aXmPU--soOtYvvJ0LmwB2g&amp;slotNum=0">The Nature of Computation</a>. Oxford University Press, 2011. ISBN: 9780199233212.</li>
+<li>Arora, Sanjeev and Boaz Barak. <a href="https://www.amazon.com/exec/obidos/ASIN/0521424267/ref=as_at/mitopencourse-20/?linkCode=w61&amp;imprToken=aXmPU--soOtYvvJ0LmwB2g&amp;slotNum=2">Computational Complexity: A Modern Approach</a>. Cambridge University Press, 2009. ISBN: 9780521424264.</li>
+</ul>
+<hr>
+</div>
+<div id="assignments" class="section level2">
+<h2>Assignments</h2>
+<p>There will be 8 problem sets assigned during the semester. Problem sets will be due by 5pm on Thursday evenings. These problem sets will often ask you to prove theorems, but it is more important to demonstrate understanding than to employ rigor for rigor’s sake. For example: a brief description of an algorithm including an illustrative diagram is better than complicated spaghetti code. Additionally, a clear explanation of how you tried to solve a problem and were unsuccessful will receive partial credit. All assignment submissions must be in PDF format, and must be organized and legible (typed is preferable). A <a href="https://moodle.smith.edu/mod/resource/view.php?id=285193">LaTeX template</a> is available for typesetting your assignments.</p>
+<hr>
+</div>
+<div id="collaboration-and-academic-integrity" class="section level2">
+<h2>Collaboration and Academic Integrity</h2>
+<p>Students are strongly encouraged to form study groups and to collaborate on problem sets, though each student will be required to write up and submit their solutions independently. The following information is required for all submitted work:</p>
+<ol style="list-style-type: decimal">
+<li>The names of all collaborating students be listed at the top of the submission. If you worked alone, please state: “<em>I did not collaborate with anyone on this assignment.</em>”</li>
+<li>A “<strong>References</strong>” section, with in-line citations to any resources you used. Citations should include page numbers (if a printed resource) or a direct URL (if an online resource). If you did not use any resources in completing the assignment, please state: “<em>I did not utilize any external resources in completing this assignment.</em>”</li>
+</ol>
+<hr>
+</div>
+<div id="examinations-and-projects" class="section level2">
+<h2>Examinations and Projects</h2>
+<p>There will be one take-home examination and one final group project in this course.</p>
+<hr>
+</div>
+<div id="grading" class="section level2">
+<h2>Grading</h2>
+<table>
+<thead>
+<tr class="header">
+<th><strong>Component</strong></th>
+<th align="center"><strong>Weight</strong></th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td>Problem sets</td>
+<td align="center">40%</td>
+</tr>
+<tr class="even">
+<td>Midterm exam</td>
+<td align="center">20%</td>
+</tr>
+<tr class="odd">
+<td>Final project</td>
+<td align="center">20%</td>
+</tr>
+<tr class="even">
+<td>Class participation</td>
+<td align="center">20%</td>
+</tr>
+<tr class="odd">
+<td>TOTAL</td>
+<td align="center">100%</td>
+</tr>
+</tbody>
+</table>
+<hr>
+</div>
+<div id="late-policy" class="section level2">
+<h2>Late Policy</h2>
+<p>Late submissions will be assessed a penalty of <strong>20% per day</strong>, and submissions more than 5 days late are ineligible for credit. Extensions must be requested <strong>at least 48 hours in advance</strong>, or with notification from a student’s class dean.</p>
+<hr>
+</div>
+<div id="accommodation" class="section level2">
+<h2>Accommodation</h2>
+<p>Smith is committed to providing support services and reasonable accommodations to all students with disabilities. To request an accommodation, please register with the Disability Services Office at the beginning of the semester. To do so, call (413) 585-2071 to arrange an appointment with Laura Rauscher, Director of Disability Services.</p>
+<hr>
+</div>
+<div id="acknowledgement" class="section level2">
+<h2>Acknowledgement</h2>
+<p>Some of the materials used in this course are derived from lectures, notes, or similar courses taught at other institutions. Appropriate references will be included on all such material.</p>
+</div>
 
 
 

@@ -3,7 +3,9 @@ title: "CSC250 - Theory of Computation"
 ---
 
 **Instructor:** R. Jordan Crouser
+
 **Course meeting times:** Tuesday and Thursday 9am - 10:20am
+
 **Location:** McConnell 103
 
 ## Course Description:
