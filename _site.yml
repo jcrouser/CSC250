@@ -1,7 +1,7 @@
 name: "CSC250-website"
 output_dir: "."
 navbar:
-  title: "Spring 2017"
+  title: "CSC250 - Spring 2017"
   left:
     - text: "Home"
       href: index.html
