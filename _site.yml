@@ -1,7 +1,7 @@
 name: "CSC250-website"
 output_dir: "."
 navbar:
-  title: "CSC250 - Theory of Computation"
+  title: "Spring 2017"
   left:
     - text: "Home"
       href: index.html
