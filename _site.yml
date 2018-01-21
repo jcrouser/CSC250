@@ -12,7 +12,7 @@ navbar:
     - text: "Moodle"
       href: https://moodle.smith.edu/course/view.php?id=27776
     - text: "Slack"
-      href: csc250-s18.slack.com
+      href: www.csc250-s18.slack.com
 output:
   html_document:
     theme: flatly
