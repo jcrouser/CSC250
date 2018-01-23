@@ -1,15 +1,15 @@
 ---
-title: "CSC220 - Advanced Programming"
+title: "CSC250 - Theory of Computation"
 ---
 
 **Instructor:** R. Jordan Crouser
 
-**Course meeting times:** Tuesday and Thursday 1pm - 2:50pm
+**Course meeting times:** Tuesday and Thursday 9am - 10:20am
 
-**Location:** Ford 240
+**Location:** McConnell 103
 
 ## Course Description:
-This course will serve as an opportunity to gain hands-on experince with multiple programming languages through a series of challenging programming exercises. We will explore various techniques and using multiple programming languages including python, JS, Java and Julia. Along the way, we also will discuss important attributes of these languages, such as synchrony vs. asynchrony, dynamic vs. static typing, scalability, expressiveness, and more. While it is not necessary to have familiarity in all of these languages, it is strongly recommended that students be familiar with at least two from this list. Students will also develop good working knowledge of version control, collaborative programming techniques, coding conventions, and documentation.
+This course provides a challenging introduction to some of the core theoretical ideas that underlie the computational sciences. The objective of this course is to develop an understanding of "computer science outside the box" -- to begin to think of CS not only as the science of computers, but as the science of what can be computed. We'll begin with very simple computational machinery (automata and finite state machines, regular sets context-free languages). We'll then move on to Turing machines and computability, efficient algorithms and reducibility, NP-completeness, the P versus NP problem, the power of randomness. We'll draw on real world examples from the domains of cryptography, machine learning, and more. Finally, we'll talk about the present and future of computing theory, with potential topics including interactive proofs, quantum computing and the physical limits of computation. Class participation is important, as the class will include discussion and debate about many of these topics.
 
 ## Prerequisites:
-CSC212, or permission of the instructor. Most importantly, I will assume you have basic "computational maturity": i.e., that you are comfortable writing and debugging code, that you have a solid working knowledge of data structures, and that you enjoy getting your hands dirty.
+CSC111 and MTH153. The latter may be taken concurrently with permission of the instructor. Most importantly, I will assume you have basic "mathematical maturity": i.e., that you are comfortable both reading and writing mathematical proofs.
