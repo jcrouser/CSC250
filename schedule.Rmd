@@ -17,7 +17,7 @@ The following schedule is subject to change at any time.
 | 2/27/18  | Enumerability ||
 | 3/1/18   | Mapping reducibility | A4 due |
 | 3/6/18   | Self-reference and the Recursion Theorem ||
-| 3/8/18   | Application: Cryptography | Midterm 1 due |
+| 3/8/18   | Application: Cryptography | Midterm 1 Due |
 | 3/13/18  | SPRING ||
 | 3/15/18  | BREAK ||
 | 3/20/18  | Computational complexity ||
@@ -27,9 +27,9 @@ The following schedule is subject to change at any time.
 | 4/3/18   | Probabilistic TMs ||
 | 4/5/18   | Trapdoor one-way functions | A7 due |
 | 4/10/18  | Zero-knowledge proofs ||
-| 4/12/18  | Application: probably approximately correct (PAC) learning | Midterm 2 due |
+| 4/12/18  | Application: probably approximately correct (PAC) learning | A8 due |
 | 4/17/18  | Introduction to quantum computing ||
-| 4/19/18  | Quantum algorithms | A8 due |
+| 4/19/18  | Quantum algorithms ||
 | 4/24/18  | Student Presentations ||
 | 4/26/18  | Student Presentations ||
 | 5/1/18   | Student Presentations ||
