@@ -29,7 +29,7 @@ The following schedule is subject to change at any time.
 | 4/10/18  | Zero-knowledge proofs ||
 | 4/12/18  | Application: PAC learning | Midterm 2 due |
 | 4/17/18  | Introduction to quantum computing ||
-| 4/19/18  | Quantum algorithms ||
+| 4/19/18  | Quantum algorithms | A8 due |
 | 4/24/18  | Student Presentations ||
 | 4/26/18  | Student Presentations ||
 | 5/1/18   | Student Presentations ||
