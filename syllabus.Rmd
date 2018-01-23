@@ -4,39 +4,39 @@ title: "Syllabus"
 <hr>
 
 ## Course Communication and Announcements
-This website will serve as the primary syllabus for this course. All course-related announcements, as well as electronic communication between students and the professor, will happen using the course's dedicated [Slack](https://csc250-s18.slack.com) team.
+This website will serve as the primary syllabus for this course. All course-related announcements, as well as electronic communication between students and the professor, will happen using the course's dedicated [Slack](https://csc220-s18.slack.com) team.
 
 <hr>
 ## Course Materials
-There is no required textbook for the course. However, there are three recommended books that some students may find helpful:
+There is no required textbook for the course. However, there are many online resources that some students may find helpful, e.g.:
 
-- Sipser, Michael. [Introduction to the Theory of Computation](https://aax-us-east.amazon-adsystem.com/x/c/QhYlQi-p9AqgtohzJT0Rkn4AAAFg-5p2XwEAAAFKAUjvpWs/http:/www.amazon.com/exec/obidos/ASIN/0534950973/ref=as_at/mitopencourse-20/?linkCode=w61&imprToken=aXmPU--soOtYvvJ0LmwB2g&slotNum=1). Course Technology, 2005. ISBN: 9780534950972. (**Note:** *there is a newer edition available, but it is not necessary - the 2nd edition will suffice.*)
--	Moore, Cristopher and Stephan Mertens. [The Nature of Computation](https://www.amazon.com/exec/obidos/ASIN/0199233217/ref=as_at/mitopencourse-20/?linkCode=w61&imprToken=aXmPU--soOtYvvJ0LmwB2g&slotNum=0). Oxford University Press, 2011. ISBN: 9780199233212.
--	Arora, Sanjeev and Boaz Barak. [Computational Complexity: A Modern Approach](https://www.amazon.com/exec/obidos/ASIN/0521424267/ref=as_at/mitopencourse-20/?linkCode=w61&imprToken=aXmPU--soOtYvvJ0LmwB2g&slotNum=2). Cambridge University Press, 2009. ISBN: 9780521424264. Free PDF draft available from the (http://theory.cs.princeton.edu/complexity/book.pdf)[author's website]. 
+- [Advanced Python (Python Academy)](http://www.python-academy.com/courses/specialtopics/python_course_advanced.html)
+-	[The Modern JavaScript Tutorial](https://javascript.info/)
+- [Intermediate Java Programming (IBM DeveloperWorks)](https://www.ibm.com/developerworks/java/tutorials/j-intermed/j-intermed.html)
+- [An Introduction to Julia (EngineersGarage)](https://www.engineersgarage.com/guest-posts/overview-julia-high-performance-scientific-computation-language)
 
 <hr>
-## Assignments
-There will be 8 problem sets assigned during the semester. Problem sets will be due on [Moodle](https://moodle.smith.edu/course/view.php?id=27776) by 5pm on Thursday evenings. These problem sets will often ask you to prove theorems, but it is more important to demonstrate understanding than to employ rigor for rigor's sake. For example: a brief description of an algorithm including an illustrative diagram is better than complicated spaghetti pseudocode. Additionally, a clear explanation of how you tried to solve a problem and were unsuccessful will receive partial credit. All assignment submissions must be in PDF format, and must be organized and legible. A [LaTeX template](https://moodle.smith.edu/mod/resource/view.php?id=285193) is available for typesetting your assignments.
+## Coding Challenges
+There will be weekly coding challenges throughout the semester, and will be started in class. These will be completed in groups of 3 students, and will be due on [Moodle](https://moodle.smith.edu/course/view.php?id=27778) by 5pm on Friday evenings. 
 
 <hr>
 ## Collaboration and Academic Integrity
-Students are strongly encouraged to form study groups and to collaborate on problem sets, though each student will be required to write up and submit their solutions independently. The following information is required for all submitted work:
+The following information is required for all submitted work:
 
-1.	The names of all collaborating students be listed at the top of the submission. If you worked alone, please state: "*I did not collaborate with anyone on this assignment.*"
+1.	The names of all collaborating students be listed at the top of the submission. Each team is required to submit only once.
 2. A "**References**" section, with in-line citations to any resources you used. Citations should include page numbers (if a printed resource) or a direct URL (if an online resource). If you did not use any resources in completing the assignment, please state: "*I did not utilize any external resources in completing this assignment.*"
 
 <hr>
-## Examinations and Projects
-There will be two take-home examinations and one final group project in this course.
+## Final Project
+There will be one final group project in this course.
 
 <hr>
 ## Grading	
 | **Component**        | **Weight**  |
 | ------------------- |:---:|
-| Problem sets	      | 40% | 
-| Midterm exams	      | 30% | 
+| Coding challenges   | 60% | 
 | Final project	      | 20% | 
-| Class participation	| 10% |
+| Class participation	| 20% |
 | TOTAL               | 100%|
 
 <hr>
