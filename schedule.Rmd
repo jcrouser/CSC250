@@ -27,7 +27,7 @@ The following schedule is subject to change at any time.
 | 4/3/18   | Probabilistic TMs ||
 | 4/5/18   | Trapdoor one-way functions | A7 due |
 | 4/10/18  | Zero-knowledge proofs ||
-| 4/12/18  | Application: probably approximately correct (PAC) learning | Midterm 2 due |
+| 4/12/18  | Application: PAC learning | Midterm 2 due |
 | 4/17/18  | Introduction to quantum computing ||
 | 4/19/18  | Quantum algorithms ||
 | 4/24/18  | Student Presentations ||
