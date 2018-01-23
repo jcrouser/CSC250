@@ -16,13 +16,8 @@ There is no required textbook for the course. However, there are many online res
 - [An Introduction to Julia (EngineersGarage)](https://www.engineersgarage.com/guest-posts/overview-julia-high-performance-scientific-computation-language)
 
 <hr>
-<<<<<<< HEAD
 ## Assignments
 There will be 8 problem sets assigned during the semester. Problem sets will be due on [Moodle](https://moodle.smith.edu/course/view.php?id=27776) by 5pm on Tuesday evenings. These problem sets will often ask you to prove theorems, but it is more important to demonstrate understanding than to employ rigor for rigor's sake. For example: a brief description of an algorithm including an illustrative diagram is better than complicated spaghetti pseudocode. Additionally, a clear explanation of how you tried to solve a problem and were unsuccessful will receive partial credit. All assignment submissions must be in PDF format, and must be organized and legible. A [LaTeX template](https://moodle.smith.edu/mod/resource/view.php?id=285193) is available for typesetting your assignments.
-=======
-## Coding Challenges
-There will be weekly coding challenges throughout the semester, and will be started in class. These will be completed in groups of 3 students, and will be due on [Moodle](https://moodle.smith.edu/course/view.php?id=27778) by 5pm on Friday evenings. 
->>>>>>> b4aaba2d7e4272c794801b8e96fc7bd6c8f74f4c
 
 <hr>
 ## Collaboration and Academic Integrity
@@ -39,9 +34,10 @@ There will be one final group project in this course.
 ## Grading	
 | **Component**        | **Weight**  |
 | ------------------- |:---:|
-| Coding challenges   | 60% | 
+| Assignments         | 40% |
+| Midterms            | 30% |
 | Final project	      | 20% | 
-| Class participation	| 20% |
+| Class participation	| 10% |
 | TOTAL               | 100%|
 
 <hr>

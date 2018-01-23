@@ -5,7 +5,6 @@ The following schedule is subject to change at any time.
 
 | **Date** | **Topic**  | **Assignment** |
 | ---------|------------|----------------|
-<<<<<<< HEAD
 | 1/25/18  | Introduction| |
 | 1/30/18  | Logic and Proofs ||
 | 2/1/18   | Regular languages and expressions |A1 due|
@@ -35,34 +34,3 @@ The following schedule is subject to change at any time.
 | 4/26/18  | Student Presentations ||
 | 5/1/18   | Student Presentations ||
 | 5/3/18   | Student Presentations ||
-=======
-| 1/25/18  | Introduction ||
-| 1/30/18  | Python: language overview ||
-| 2/1/18   | Comprehensions, iterators, and generators ||
-| 2/6/18   | Decorators and wrappers ||
-| 2/8/18   | Dynamic programming ||
-| 2/13/18  | Multiprocessing ||
-| 2/15/18  | The Great Python Race ||
-| 2/20/18  | JavaScript: language overview ||
-| 2/22/18  | JS objects ||
-| 2/27/18  | Working with functions ||
-| 3/1/18   | Events ||
-| 3/6/18   | Promises ||
-| 3/8/18   | JS + Python = :-) ||
-| 3/13/18  | SPRING ||
-| 3/15/18  | BREAK ||
-| 3/20/18  | Java: language overview ||
-| 3/22/18  | Streams and MapReduce ||
-| 3/27/18  | Hadoop ||
-| 3/29/18  | Parallel sorts and joins ||
-| 4/3/18   | Julia: language overview ||
-| 4/5/18   | Metaprogramming ||
-| 4/10/18  | JIT complation  ||
-| 4/12/18  | Distributed computation  ||
-| 4/17/18  | Student Project Workshop ||
-| 4/19/18  | Student Project Workshop ||
-| 4/24/18  | Student Project Demos ||
-| 4/26/18  | Student Project Demos ||
-| 5/1/18   | Student Project Demos ||
-| 5/3/18   | Student Project Demos ||
->>>>>>> b4aaba2d7e4272c794801b8e96fc7bd6c8f74f4c
