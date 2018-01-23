@@ -1,4 +1,4 @@
-name: "CSC220-website"
+name: "CSC250-website"
 output_dir: "."
 navbar:
   title: "CSC250 - Spring 2018"
@@ -10,9 +10,9 @@ navbar:
     - text: "Schedule"
       href: schedule.html
     - text: "Moodle"
-      href: https://moodle.smith.edu/course/view.php?id=27778
+      href: https://moodle.smith.edu/course/view.php?id=27776
     - text: "Slack"
-      href: http://www.csc250-s18.slack.com
+      href: http://csc250-s18.slack.com
 output:
   html_document:
     theme: flatly
