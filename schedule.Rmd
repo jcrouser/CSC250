@@ -6,7 +6,7 @@ The following schedule is subject to change at any time.
 | **Date** | **Topic**  | **Scribes** |  **Assignment** |
 | ---------|------------|-------------|-----------------|
 | 1/25/18  | Introduction |||
-| 1/30/18  | Logic and Proofs |Jemimah||
+| 1/30/18  | Logic and Proofs |J. Charles, E. Donaher||
 | 2/1/18   | Regular languages and expressions |||
 | 2/6/18   | Finite Automata (DFAs and NFAs) ||A1 due|
 | 2/8/18   | NFAs and RegEx |||
