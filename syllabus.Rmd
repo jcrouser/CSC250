@@ -29,9 +29,9 @@ There will be two take-home examinations and one final group project in this cou
 | **Component**       | **Weight**  |
 | ------------------- |:---:|
 | Problem sets	      | 40% | 
-| Midterm exam	      | 20% | 
+| Midterm exams	      | 30% | 
 | Final project	      | 20% | 
-| Class participation	| 20% |
+| Class participation	| 10% |
 | TOTAL               | 100%|
 
 <hr>
