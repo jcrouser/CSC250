@@ -3,11 +3,12 @@ title: "Syllabus"
 ---
 <hr>
 ## Course Materials
-There is no required textbook for the course. However, there are three recommended books that some students may find helpful:
+There is no required textbook for the course. However, there are several recommended books that some students may find helpful:
 
 - Sipser, Michael. [Introduction to the Theory of Computation](https://aax-us-east.amazon-adsystem.com/x/c/QhYlQi-p9AqgtohzJT0Rkn4AAAFg-5p2XwEAAAFKAUjvpWs/http:/www.amazon.com/exec/obidos/ASIN/0534950973/ref=as_at/mitopencourse-20/?linkCode=w61&imprToken=aXmPU--soOtYvvJ0LmwB2g&slotNum=1). Course Technology, 2005. ISBN: 9780534950972. (**Note:** *there is a newer edition available, but it is not necessary - the 2nd edition will suffice.*)
 -	Moore, Cristopher and Stephan Mertens. [The Nature of Computation](https://www.amazon.com/exec/obidos/ASIN/0199233217/ref=as_at/mitopencourse-20/?linkCode=w61&imprToken=aXmPU--soOtYvvJ0LmwB2g&slotNum=0). Oxford University Press, 2011. ISBN: 9780199233212.
 -	Arora, Sanjeev and Boaz Barak. [Computational Complexity: A Modern Approach](https://www.amazon.com/exec/obidos/ASIN/0521424267/ref=as_at/mitopencourse-20/?linkCode=w61&imprToken=aXmPU--soOtYvvJ0LmwB2g&slotNum=2). Cambridge University Press, 2009. ISBN: 9780521424264. 
+- Critchlow, Carol and David Eck. [Foundations of Computation](http://math.hws.edu/FoundationsOfComputation/). Available free online.
 
 <hr>
 ## Assignments

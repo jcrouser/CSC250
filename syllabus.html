@@ -20,8 +20,8 @@
 <script src="site_libs/bootstrap-3.3.5/shim/html5shiv.min.js"></script>
 <script src="site_libs/bootstrap-3.3.5/shim/respond.min.js"></script>
 <script src="site_libs/navigation-1.1/tabsets.js"></script>
-<link href="site_libs/highlightjs-9.12.0/default.css" rel="stylesheet" />
-<script src="site_libs/highlightjs-9.12.0/highlight.js"></script>
+<link href="site_libs/highlightjs-1.1/default.css" rel="stylesheet" />
+<script src="site_libs/highlightjs-1.1/highlight.js"></script>
 
 <style type="text/css">code{white-space: pre;}</style>
 <style type="text/css">
@@ -30,12 +30,10 @@
   }
 </style>
 <script type="text/javascript">
-if (window.hljs) {
-  hljs.configure({languages: []});
-  hljs.initHighlightingOnLoad();
-  if (document.readyState && document.readyState === "complete") {
-    window.setTimeout(function() { hljs.initHighlighting(); }, 0);
-  }
+if (window.hljs && document.readyState && document.readyState === "complete") {
+   window.setTimeout(function() {
+      hljs.initHighlighting();
+   }, 0);
 }
 </script>
 
@@ -213,11 +211,12 @@ $(document).ready(function () {
 <hr>
 <div id="course-materials" class="section level2">
 <h2>Course Materials</h2>
-<p>There is no required textbook for the course. However, there are three recommended books that some students may find helpful:</p>
+<p>There is no required textbook for the course. However, there are several recommended books that some students may find helpful:</p>
 <ul>
 <li>Sipser, Michael. <a href="https://aax-us-east.amazon-adsystem.com/x/c/QhYlQi-p9AqgtohzJT0Rkn4AAAFg-5p2XwEAAAFKAUjvpWs/http:/www.amazon.com/exec/obidos/ASIN/0534950973/ref=as_at/mitopencourse-20/?linkCode=w61&amp;imprToken=aXmPU--soOtYvvJ0LmwB2g&amp;slotNum=1">Introduction to the Theory of Computation</a>. Course Technology, 2005. ISBN: 9780534950972. (<strong>Note:</strong> <em>there is a newer edition available, but it is not necessary - the 2nd edition will suffice.</em>)</li>
 <li>Moore, Cristopher and Stephan Mertens. <a href="https://www.amazon.com/exec/obidos/ASIN/0199233217/ref=as_at/mitopencourse-20/?linkCode=w61&amp;imprToken=aXmPU--soOtYvvJ0LmwB2g&amp;slotNum=0">The Nature of Computation</a>. Oxford University Press, 2011. ISBN: 9780199233212.</li>
 <li>Arora, Sanjeev and Boaz Barak. <a href="https://www.amazon.com/exec/obidos/ASIN/0521424267/ref=as_at/mitopencourse-20/?linkCode=w61&amp;imprToken=aXmPU--soOtYvvJ0LmwB2g&amp;slotNum=2">Computational Complexity: A Modern Approach</a>. Cambridge University Press, 2009. ISBN: 9780521424264.</li>
+<li>Critchlow, Carol and David Eck. <a href="http://math.hws.edu/FoundationsOfComputation/">Foundations of Computation</a>. Available free online.</li>
 </ul>
 <hr>
 </div>
