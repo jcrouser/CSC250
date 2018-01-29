@@ -10,7 +10,7 @@ The following schedule is subject to change at any time.
 | 2/1/18   | Regular languages and expressions |K. Santamaria||
 | 2/6/18   | Finite Automata (DFAs and NFAs) |E. Donaher|A1 due|
 | 2/8/18   | NFAs and RegEx |A. Luna||
-| 2/13/18  | Non-regular languages, pumping lemma ||A2 due|
+| 2/13/18  | Non-regular languages, pumping lemma |E. Rogers|A2 due|
 | 2/15/18  | Turing Machines ||
 | 2/20/18  | Decidability ||A3 due|
 | 2/22/18  | Undecidable problems |||
