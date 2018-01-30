@@ -20,8 +20,8 @@
 <script src="site_libs/bootstrap-3.3.5/shim/html5shiv.min.js"></script>
 <script src="site_libs/bootstrap-3.3.5/shim/respond.min.js"></script>
 <script src="site_libs/navigation-1.1/tabsets.js"></script>
-<link href="site_libs/highlightjs-1.1/default.css" rel="stylesheet" />
-<script src="site_libs/highlightjs-1.1/highlight.js"></script>
+<link href="site_libs/highlightjs-9.12.0/default.css" rel="stylesheet" />
+<script src="site_libs/highlightjs-9.12.0/highlight.js"></script>
 
 <style type="text/css">code{white-space: pre;}</style>
 <style type="text/css">
@@ -30,10 +30,12 @@
   }
 </style>
 <script type="text/javascript">
-if (window.hljs && document.readyState && document.readyState === "complete") {
-   window.setTimeout(function() {
-      hljs.initHighlighting();
-   }, 0);
+if (window.hljs) {
+  hljs.configure({languages: []});
+  hljs.initHighlightingOnLoad();
+  if (document.readyState && document.readyState === "complete") {
+    window.setTimeout(function() { hljs.initHighlighting(); }, 0);
+  }
 }
 </script>
 
@@ -264,13 +266,13 @@ $(document).ready(function () {
 <tr class="even">
 <td>2/20/18</td>
 <td>Decidability</td>
-<td></td>
+<td>F. Sabry</td>
 <td>A3 due</td>
 </tr>
 <tr class="odd">
 <td>2/22/18</td>
 <td>Undecidable problems</td>
-<td></td>
+<td>D. Ujiji</td>
 <td></td>
 </tr>
 <tr class="even">
@@ -282,7 +284,7 @@ $(document).ready(function () {
 <tr class="odd">
 <td>3/1/18</td>
 <td>Mapping reducibility</td>
-<td></td>
+<td>H. Cao</td>
 <td></td>
 </tr>
 <tr class="even">
@@ -294,7 +296,7 @@ $(document).ready(function () {
 <tr class="odd">
 <td>3/8/18</td>
 <td>Application: Cryptography</td>
-<td></td>
+<td>M. Wegbreit</td>
 <td>Midterm 1 Due</td>
 </tr>
 <tr class="even">
@@ -312,7 +314,7 @@ $(document).ready(function () {
 <tr class="even">
 <td>3/20/18</td>
 <td>Computational complexity</td>
-<td></td>
+<td>Z. Cai</td>
 <td></td>
 </tr>
 <tr class="odd">
