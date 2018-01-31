@@ -16,13 +16,13 @@ The following schedule is subject to change at any time.
 | 2/22/18  | Undecidable problems |D. Ujiji||
 | 2/27/18  | Enumerability ||A4 due|
 | 3/1/18   | Mapping reducibility |H. Cao||
-| 3/6/18   | Self-reference and the Recursion Theorem ||
+| 3/6/18   | Self-reference and the Recursion Theorem |Y. Tang ||
 | 3/8/18   | Application: Cryptography |M. Wegbreit| Midterm 1 Due |
 | 3/13/18  | SPRING ||
 | 3/15/18  | BREAK ||
 | 3/20/18  | Computational complexity |Z. Cai||
-| 3/22/18  | Pseudorandom generators and one-way functions |||
-| 3/27/18  | Application: public-key cryptography ||A5 due|
+| 3/22/18  | Pseudorandom generators and one-way functions |J. Chen||
+| 3/27/18  | Application: public-key cryptography |R. Vushe|A5 due|
 | 3/29/18  | More complexity theory |||
 | 4/3/18   | Probabilistic TMs ||A6 due|
 | 4/5/18   | Trapdoor one-way functions |||
