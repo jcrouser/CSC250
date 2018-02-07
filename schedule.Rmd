@@ -9,7 +9,7 @@ The following schedule is subject to change at any time.
 | 1/30/18  | Logic and Proofs |J. Charles||
 | 2/1/18   | Regular languages and expressions |K. Santamaria||
 | 2/6/18   | Finite Automata (DFAs and NFAs) |E. Donaher|A1 due|
-| 2/8/18   | NFAs and RegEx |A. Luna, T. Phan||
+| 2/8/18   | DFAs, NFAs and Regular Expressions |A. Luna, T. Phan||
 | 2/13/18  | Non-regular languages, pumping lemma |E. Rogers, B. Miller|A2 due|
 | 2/15/18  | Turing Machines |E. Muirhead, J. Kim||
 | 2/20/18  | Decidability |F. Sabry, G. Moore|A3 due|
