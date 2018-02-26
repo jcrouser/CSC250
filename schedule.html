@@ -20,8 +20,8 @@
 <script src="site_libs/bootstrap-3.3.5/shim/html5shiv.min.js"></script>
 <script src="site_libs/bootstrap-3.3.5/shim/respond.min.js"></script>
 <script src="site_libs/navigation-1.1/tabsets.js"></script>
-<link href="site_libs/highlightjs-1.1/default.css" rel="stylesheet" />
-<script src="site_libs/highlightjs-1.1/highlight.js"></script>
+<link href="site_libs/highlightjs-9.12.0/default.css" rel="stylesheet" />
+<script src="site_libs/highlightjs-9.12.0/highlight.js"></script>
 
 <style type="text/css">code{white-space: pre;}</style>
 <style type="text/css">
@@ -30,10 +30,12 @@
   }
 </style>
 <script type="text/javascript">
-if (window.hljs && document.readyState && document.readyState === "complete") {
-   window.setTimeout(function() {
-      hljs.initHighlighting();
-   }, 0);
+if (window.hljs) {
+  hljs.configure({languages: []});
+  hljs.initHighlightingOnLoad();
+  if (document.readyState && document.readyState === "complete") {
+    window.setTimeout(function() { hljs.initHighlighting(); }, 0);
+  }
 }
 </script>
 
@@ -258,7 +260,7 @@ $(document).ready(function () {
 <tr class="odd">
 <td>2/15/18</td>
 <td>Turing Machines</td>
-<td>E. Muirhead, J. Kim</td>
+<td>E. Muirhead</td>
 <td></td>
 </tr>
 <tr class="even">
@@ -270,13 +272,13 @@ $(document).ready(function () {
 <tr class="odd">
 <td>2/22/18</td>
 <td>Undecidable problems</td>
-<td>D. Ujiji</td>
+<td>D. Ujiji, A. Dawson</td>
 <td></td>
 </tr>
 <tr class="even">
 <td>2/27/18</td>
 <td>Enumerability</td>
-<td>E. Jordan</td>
+<td>E. Jordan, L. Wang</td>
 <td>A4 due</td>
 </tr>
 <tr class="odd">
@@ -288,7 +290,7 @@ $(document).ready(function () {
 <tr class="even">
 <td>3/6/18</td>
 <td>Self-reference and the Recursion Theorem</td>
-<td>Y. Tang</td>
+<td>Y. Tang, H. Zhang</td>
 <td></td>
 </tr>
 <tr class="odd">
@@ -312,7 +314,7 @@ $(document).ready(function () {
 <tr class="even">
 <td>3/20/18</td>
 <td>Computational complexity</td>
-<td>Z. Cai</td>
+<td>Z. Cai, J. Li</td>
 <td></td>
 </tr>
 <tr class="odd">
@@ -324,13 +326,13 @@ $(document).ready(function () {
 <tr class="even">
 <td>3/27/18</td>
 <td>Application: public-key cryptography</td>
-<td>R. Vushe</td>
+<td>R. Vushe, A. Dem</td>
 <td>A5 due</td>
 </tr>
 <tr class="odd">
 <td>3/29/18</td>
 <td>More complexity theory</td>
-<td>D. Cao</td>
+<td>D. Cao, J. Kim</td>
 <td></td>
 </tr>
 <tr class="even">
@@ -342,7 +344,7 @@ $(document).ready(function () {
 <tr class="odd">
 <td>4/5/18</td>
 <td>Trapdoor one-way functions</td>
-<td>F. He</td>
+<td>F. He, M. Kulke</td>
 <td></td>
 </tr>
 <tr class="even">
@@ -360,7 +362,7 @@ $(document).ready(function () {
 <tr class="even">
 <td>4/17/18</td>
 <td>Introduction to quantum computing</td>
-<td>M. Jaiteh</td>
+<td>M. Jaiteh, B. Martin</td>
 <td></td>
 </tr>
 <tr class="odd">
