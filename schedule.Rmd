@@ -26,7 +26,7 @@ The following schedule is subject to change at any time.
 | 3/29/18  | More complexity theory |D. Cao, J. Kim||
 | 4/3/18   | Probabilistic TMs |E. Chang, K. Fares|A6 due|
 | 4/5/18   | Trapdoor one-way functions |F. He, M. Kulke||
-| 4/10/18  | Zero-knowledge proofs |Y. Hua|A7 due|
+| 4/10/18  | Zero-knowledge proofs |Y. Hua, N. Nawaz|A7 due|
 | 4/12/18  | Application: PAC learning |H. Hanif||
 | 4/17/18  | Introduction to quantum computing |M. Jaiteh, B. Martin||
 | 4/19/18  | Quantum algorithms |G. Xu| Midterm 2 due |
