@@ -6,31 +6,31 @@ The following schedule is subject to change at any time.
 | **Date** | **Topic**  | **Scribes** |  **Assignment** |
 | ---------|------------|-------------|-----------------|
 | 1/25/18  | Introduction |||
-<!-- | 1/30/18  | Logic and Proofs |J. Charles|| -->
-<!-- | 2/1/18   | Regular languages and expressions |K. Santamaria|| -->
-<!-- | 2/6/18   | Finite Automata (DFAs and NFAs) |E. Donaher|A1 due| -->
-<!-- | 2/8/18   | DFAs, NFAs and Regular Expressions |A. Luna, T. Phan|| -->
-<!-- | 2/13/18  | Non-regular languages, pumping lemma |E. Rogers, B. Miller|A2 due| -->
-<!-- | 2/15/18  | Turing Machines |E. Muirhead|| -->
-<!-- | 2/20/18  | Decidability |F. Sabry, G. Moore|A3 due| -->
-<!-- | 2/22/18  | Undecidable problems |D. Ujiji, A. Dawson|| -->
-<!-- | 2/27/18  | Enumerability |E. Jordan, L. Wang|A4 due| -->
-<!-- | 3/1/18   | More on enumerators |H. Cao, A. Mu|| -->
-<!-- | 3/6/18   | Mapping reducibility |Y. Tang, H. Zhang || -->
-<!-- | 3/8/18   | Self-reference and the Recursion Theorem |M. Wegbreit, S. Alicea| Midterm 1 Due | -->
-<!-- | 3/13/18  | SPRING || -->
-<!-- | 3/15/18  | BREAK || -->
-<!-- | 3/20/18  | Computational complexity |Z. Cai, J. Li|| -->
-<!-- | 3/22/18  | Pseudorandom generators and one-way functions |J. Chen, Q. Ji|| -->
-<!-- | 3/27/18  | Application: public-key cryptography |R. Vushe, A. Dem|A5 due| -->
-<!-- | 3/29/18  | More complexity theory |D. Cao, J. Kim|| -->
-<!-- | 4/3/18   | Probabilistic TMs |E. Chang, K. Fares|A6 due| -->
-<!-- | 4/5/18   | Trapdoor one-way functions |F. He, M. Kulke|| -->
-<!-- | 4/10/18  | Zero-knowledge proofs |Y. Hua, N. Nawaz|A7 due| -->
-<!-- | 4/12/18  | Application: PAC learning |H. Hanif, C. He|| -->
-<!-- | 4/17/18  | Introduction to quantum computing |M. Jaiteh, B. Martin|| -->
-<!-- | 4/19/18  | Quantum algorithms |G. Xu| Midterm 2 due | -->
-<!-- | 4/24/18  | Student Presentations |C. Crandall, A. Meredith|| -->
-<!-- | 4/26/18  | Student Presentations |E. Moseley, F. Kim|| -->
-<!-- | 5/1/18   | Student Presentations |M. Ngo|A8 due| -->
-<!-- | 5/3/18   | Student Presentations |A. Gautam|| -->
+| 1/30/18  | Logic and Proofs |J. Charles||
+| 2/1/18   | Regular languages and expressions |K. Santamaria||
+| 2/6/18   | Finite Automata (DFAs and NFAs) |E. Donaher|A1 due|
+| 2/8/18   | DFAs, NFAs and Regular Expressions |A. Luna, T. Phan||
+| 2/13/18  | Non-regular languages, pumping lemma |E. Rogers, B. Miller|A2 due|
+| 2/15/18  | Turing Machines |E. Muirhead||
+| 2/20/18  | Decidability |F. Sabry, G. Moore|A3 due|
+| 2/22/18  | Undecidable problems |D. Ujiji, A. Dawson||
+| 2/27/18  | Enumerability |E. Jordan, L. Wang|A4 due|
+| 3/1/18   | More on enumerators |H. Cao, A. Mu||
+| 3/6/18   | Mapping reducibility |Y. Tang, H. Zhang ||
+| 3/8/18   | The Recursion Theorem |M. Wegbreit, S. Alicea| Midterm 1 Due |
+| 3/13/18  | SPRING |||
+| 3/15/18  | BREAK |||
+| 3/20/18  | Computational complexity |Z. Cai, J. Li||
+| 3/22/18  | Pseudorandom generators and one-way functions |J. Chen, Q. Ji||
+| 3/27/18  | Application: public-key cryptography |R. Vushe, A. Dem|A5 due|
+| 3/29/18  | More complexity theory |D. Cao, J. Kim||
+| 4/3/18   | Probabilistic TMs |E. Chang, K. Fares|A6 due|
+| 4/5/18   | Trapdoor one-way functions |F. He, M. Kulke||
+| 4/10/18  | Zero-knowledge proofs |Y. Hua, N. Nawaz|A7 due|
+| 4/12/18  | Application: PAC learning |H. Hanif, C. He||
+| 4/17/18  | Introduction to quantum computing |M. Jaiteh, B. Martin||
+| 4/19/18  | Quantum algorithms |G. Xu| Midterm 2 due |
+| 4/24/18  | Student Presentations |C. Crandall, A. Meredith||
+| 4/26/18  | Student Presentations |E. Moseley, F. Kim||
+| 5/1/18   | Student Presentations |M. Ngo|A8 due|
+| 5/3/18   | Student Presentations |A. Gautam||
