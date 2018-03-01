@@ -6,18 +6,18 @@ The following schedule is subject to change at any time.
 | **Date** | **Topic**  | **Scribes** |  **Assignment** |
 | ---------|------------|-------------|-----------------|
 | 1/25/18  | Introduction |||
-| 1/30/18  | Logic and Proofs |J. Charles||
-| 2/1/18   | Regular languages and expressions |K. Santamaria||
-| 2/6/18   | Finite Automata (DFAs and NFAs) |E. Donaher|A1 due|
-| 2/8/18   | DFAs, NFAs and Regular Expressions |A. Luna, T. Phan||
-| 2/13/18  | Non-regular languages, pumping lemma |E. Rogers, B. Miller|A2 due|
-| 2/15/18  | Turing Machines |E. Muirhead||
-| 2/20/18  | Decidability |F. Sabry, G. Moore|A3 due|
-| 2/22/18  | Undecidable problems |D. Ujiji, A. Dawson||
-| 2/27/18  | Enumerability |E. Jordan, L. Wang|A4 due|
-| 3/1/18   | More on enumerators |H. Cao, A. Mu||
-| 3/6/18   | Mapping reducibility |Y. Tang, H. Zhang ||
-| 3/8/18   | Self-reference and the Recursion Theorem |M. Wegbreit, S. Alicea| Midterm 1 Due |
+<!-- | 1/30/18  | Logic and Proofs |J. Charles|| -->
+<!-- | 2/1/18   | Regular languages and expressions |K. Santamaria|| -->
+<!-- | 2/6/18   | Finite Automata (DFAs and NFAs) |E. Donaher|A1 due| -->
+<!-- | 2/8/18   | DFAs, NFAs and Regular Expressions |A. Luna, T. Phan|| -->
+<!-- | 2/13/18  | Non-regular languages, pumping lemma |E. Rogers, B. Miller|A2 due| -->
+<!-- | 2/15/18  | Turing Machines |E. Muirhead|| -->
+<!-- | 2/20/18  | Decidability |F. Sabry, G. Moore|A3 due| -->
+<!-- | 2/22/18  | Undecidable problems |D. Ujiji, A. Dawson|| -->
+<!-- | 2/27/18  | Enumerability |E. Jordan, L. Wang|A4 due| -->
+<!-- | 3/1/18   | More on enumerators |H. Cao, A. Mu|| -->
+<!-- | 3/6/18   | Mapping reducibility |Y. Tang, H. Zhang || -->
+<!-- | 3/8/18   | Self-reference and the Recursion Theorem |M. Wegbreit, S. Alicea| Midterm 1 Due | -->
 <!-- | 3/13/18  | SPRING || -->
 <!-- | 3/15/18  | BREAK || -->
 <!-- | 3/20/18  | Computational complexity |Z. Cai, J. Li|| -->
