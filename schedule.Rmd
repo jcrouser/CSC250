@@ -15,9 +15,9 @@ The following schedule is subject to change at any time.
 | 2/20/18  | Decidability |F. Sabry, G. Moore|A3 due|
 | 2/22/18  | Undecidable problems |D. Ujiji, A. Dawson||
 | 2/27/18  | Enumerability |E. Jordan, L. Wang|A4 due|
-| 3/1/18   | Mapping reducibility |H. Cao, A. Mu||
-| 3/6/18   | Self-reference and the Recursion Theorem |Y. Tang, H. Zhang ||
-| 3/8/18   | Application: Cryptography |M. Wegbreit, S. Alicea| Midterm 1 Due |
+| 3/1/18   | More on enumerators |H. Cao, A. Mu||
+| 3/6/18   | Mapping reducibility |Y. Tang, H. Zhang ||
+| 3/8/18   | Self-reference and the Recursion Theorem |M. Wegbreit, S. Alicea| Midterm 1 Due |
 | 3/13/18  | SPRING ||
 | 3/15/18  | BREAK ||
 | 3/20/18  | Computational complexity |Z. Cai, J. Li||
@@ -27,10 +27,10 @@ The following schedule is subject to change at any time.
 | 4/3/18   | Probabilistic TMs |E. Chang, K. Fares|A6 due|
 | 4/5/18   | Trapdoor one-way functions |F. He, M. Kulke||
 | 4/10/18  | Zero-knowledge proofs |Y. Hua, N. Nawaz|A7 due|
-| 4/12/18  | Application: PAC learning |H. Hanif||
+| 4/12/18  | Application: PAC learning |H. Hanif, C. He||
 | 4/17/18  | Introduction to quantum computing |M. Jaiteh, B. Martin||
 | 4/19/18  | Quantum algorithms |G. Xu| Midterm 2 due |
-| 4/24/18  | Student Presentations |C. Crandall||
-| 4/26/18  | Student Presentations |E. Moseley||
+| 4/24/18  | Student Presentations |C. Crandall, A. Meredith||
+| 4/26/18  | Student Presentations |E. Moseley, F. Kim||
 | 5/1/18   | Student Presentations |M. Ngo|A8 due|
 | 5/3/18   | Student Presentations |A. Gautam||
