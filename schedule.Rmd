@@ -22,4 +22,3 @@ The following schedule is subject to change at any time.
 | 3/15/18  | BREAK |||
 | 3/20/18  | Computational complexity |Z. Cai, J. Li||
 | 3/22/18  | Application: introduction to cryptography |J. Chen, Q. Ji||
-| 3/27/18  | Pseudorandom generators and one-way functions |R. Vushe, A. Dem|A5 due|
