@@ -22,4 +22,15 @@ The following schedule is subject to change at any time.
 | 3/15/18  | BREAK |||
 | 3/20/18  | Computational complexity |Z. Cai, J. Li||
 | 3/22/18  | Application: introduction to cryptography |J. Chen, Q. Ji||
-| 3/27/18  | Pseudorandom generators |R. Vushe, A. Dem|A5 due|
+| 3/27/18  | Pseudorandom generators, 1-way functions |R. Vushe, A. Dem|A5 due|
+| 3/29/18  | More complexity theory |D. Cao, J. Kim||
+| 4/3/18   | Application: public-key cryptography |E. Chang, K. Fares|A6 due|
+| 4/5/18   | Probabilistic TMs |F. He, M. Kulke||
+| 4/10/18  | Trapdoor one-way functions |Y. Hua, N. Nawaz|A7 due|
+| 4/12/18  | Zero-knowledge proofs |H. Hanif, C. He, S. Ko||
+| 4/17/18  | Application: PAC learning |M. Jaiteh, B. Martin||
+| 4/19/18  | Shor's algorithm (J. O'Rourke) |G. Xu, A. Mu| Midterm 2 due |
+| 4/24/18  | Student Presentations |C. Crandall, A. Meredith||
+| 4/26/18  | Student Presentations |E. Moseley, F. Kim||
+| 5/1/18   | Student Presentations |M. Ngo, Z. Li|A8 due|
+| 5/3/18   | Student Presentations |A. Gautam, Z. Shen||
