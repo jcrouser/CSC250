@@ -29,8 +29,8 @@ The following schedule is subject to change at any time.
 | 4/10/18  | Trapdoor one-way functions |Y. Hua, N. Nawaz|A7 due|
 | 4/12/18  | Zero-knowledge proofs |H. Hanif, C. He, S. Ko||
 | 4/17/18  | Application: PAC learning |M. Jaiteh, B. Martin||
-| 4/19/18  | Shor's algorithm (J. O'Rourke) |G. Xu, A. Mu| Midterm 2 due |
+| 4/19/18  | Shor's algorithm (J. O'Rourke) |G. Xu, A. Mu| Midterm 2 due|
 | 4/24/18  | Student Presentations |C. Crandall, A. Meredith||
 | 4/26/18  | Student Presentations |E. Moseley, F. Kim||
-| 5/1/18   | Student Presentations |M. Ngo, Z. Li|A8 due|
-| 5/3/18   | Student Presentations |A. Gautam, Z. Shen||
+| 5/1/18   | Student Presentations |M. Ngo, Z. Li||
+| 5/3/18   | Student Presentations |A. Gautam, Z. Shen|Final Project Post Due|
