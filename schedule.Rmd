@@ -27,7 +27,7 @@ The following schedule is subject to change at any time.
 | 4/3/18   | NP-completeness |E. Chang, K. Fares|A6 due|
 | 4/5/18   | CLASS CANCELLED |M. Kulke||
 | 4/10/18  | Probabilistic TMs |Y. Hua, N. Nawaz|A7 due|
-| 4/12/18  | Zero-knowledge proofs |H. Hanif, C. He, S. Ko||
+| 4/12/18  | Zero-knowledge proofs |H. Hanif, F. He, S. Ko||
 | 4/17/18  | Application: PAC learning |M. Jaiteh, B. Martin||
 | 4/19/18  | Shor's algorithm (J. O'Rourke) |G. Xu, A. Mu| Midterm 2 due|
 | 4/24/18  | Student Presentations |C. Crandall, A. Meredith||
