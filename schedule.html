@@ -20,8 +20,8 @@
 <script src="site_libs/bootstrap-3.3.5/shim/html5shiv.min.js"></script>
 <script src="site_libs/bootstrap-3.3.5/shim/respond.min.js"></script>
 <script src="site_libs/navigation-1.1/tabsets.js"></script>
-<link href="site_libs/highlightjs-1.1/default.css" rel="stylesheet" />
-<script src="site_libs/highlightjs-1.1/highlight.js"></script>
+<link href="site_libs/highlightjs-9.12.0/default.css" rel="stylesheet" />
+<script src="site_libs/highlightjs-9.12.0/highlight.js"></script>
 
 <style type="text/css">code{white-space: pre;}</style>
 <style type="text/css">
@@ -30,10 +30,12 @@
   }
 </style>
 <script type="text/javascript">
-if (window.hljs && document.readyState && document.readyState === "complete") {
-   window.setTimeout(function() {
-      hljs.initHighlighting();
-   }, 0);
+if (window.hljs) {
+  hljs.configure({languages: []});
+  hljs.initHighlightingOnLoad();
+  if (document.readyState && document.readyState === "complete") {
+    window.setTimeout(function() { hljs.initHighlighting(); }, 0);
+  }
 }
 </script>
 
@@ -342,7 +344,7 @@ $(document).ready(function () {
 <tr class="odd">
 <td>4/5/18</td>
 <td>CLASS CANCELLED</td>
-<td>M. Kulke</td>
+<td></td>
 <td></td>
 </tr>
 <tr class="even">
@@ -354,13 +356,13 @@ $(document).ready(function () {
 <tr class="odd">
 <td>4/12/18</td>
 <td>Zero-knowledge proofs</td>
-<td>H. Hanif, F. He, S. Ko</td>
+<td>H. Hanif, C. He, F. He, S. Ko, M. Kulke</td>
 <td></td>
 </tr>
 <tr class="even">
 <td>4/17/18</td>
 <td>Application: PAC learning</td>
-<td>M. Jaiteh, B. Martin</td>
+<td>M. Jaiteh, B. Martin, H. Tsang</td>
 <td></td>
 </tr>
 <tr class="odd">
