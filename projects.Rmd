@@ -3,8 +3,8 @@ title: "Final Projects"
 ---
 The following schedule is subject to change at any time.
 
-| **Date** | **Number**  | **Team** |  **Topic** | **Article/Link**
-| ---------|------------|-------------|-----------------|
+| **Date** | **Number**  | **Team** |  **Topic** | **Article/Link**|
+| ---------|------------|-------------|-----------------|----------|
 | 4/24/18  | 1 | Qiaomei, Jiamin, and Emmely | The Candy Crush Problem is NP-Complete ||
 || 2 | Audrey, Grace | Predictive Coding and Artificial Neural Networks ||
 || 3 | Mariama and Karen | Computational Theory of Mind ||
