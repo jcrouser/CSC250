@@ -3,7 +3,7 @@ title: "Final Projects"
 ---
 
 <hr>
-### TUESDAY 4/24: DAY 1 REQUESTS and COOL SCIENCE-Y APPLICATIONS 
+*TUESDAY 4/24: DAY 1 REQUESTS and COOL SCIENCE-Y APPLICATIONS*
 <hr>
 1. Qiaomei, Jiamin, and Emmely Rogers: _The Candy Crush Problem is NP-Complete_ (12 min)
 2. Audrey and Grace: _Predictive Coding and Artificial Neural Networks_ (10 min)
@@ -13,7 +13,7 @@ title: "Final Projects"
 6. Khadidja and Faith: _Computing Machinery and Intelligence in Computer Game Bots_ (10 min)
 
 <hr>
-### THURSDAY 4/26: REAL WORLD PROBLEMS THAT ARE PROBVABLY HARD
+*THURSDAY 4/26: REAL WORLD PROBLEMS THAT ARE PROBVABLY HARD*
 <hr>
 1. Yaqian and Suzie: _Art Gallery Problem_ (10 min)
 2. Angelica, Emily, and Stefany: _Average Case Constant Factor Time and Distance Optimal Multi-Robot Path Planning in Well-Connected Environments_ (12 min)
@@ -23,7 +23,7 @@ title: "Final Projects"
 6. Hening and Ha: _Hospitals/Residents Problem_ (10 min)
 
 <hr>
-### TUESDAY 5/1: HISTORY AND GAMES PT. 1
+*TUESDAY 5/1: HISTORY AND GAMES PT. 1*
 </hr>
 1. Julie, Joarvi, Mae, and Heidi: _Mining Bitcoin is NP-hard_ (14 min)
 2. Fanghui, Yining, and Qiaqia: _Engima Machine in WWII_ (12 min)
@@ -34,7 +34,7 @@ title: "Final Projects"
 7. Hafsah and Georgina: _PushPush 3D is NP-hard_ (10 min)
 
 <hr>
-### THURSDAY 5/3: GAMES PT. 2
+*THURSDAY 5/3: GAMES PT. 2*
 <hr>
 1. Maggie: _The Computational Complexity of the Game of Set and its Theoretical Applications_ (8 min)
 2. Mai, Sarah, Whitney, and Allie Gardiner: _Pokemon is NP-complete_ (14 min)
