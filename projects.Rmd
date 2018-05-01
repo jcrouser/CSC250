@@ -6,11 +6,11 @@ title: "Final Projects"
 **TUESDAY 4/24: DAY 1 REQUESTS and COOL SCIENCE-Y APPLICATIONS**
 <hr>
 1. Qiaomei, Jiamin, and Emmely Rogers: _The Candy Crush Problem is NP-Complete_ ([article](https://arxiv.org/abs/1403.1911))
-2. Audrey and Grace: _Predictive Coding and Artificial Neural Networks_ (10 min)
-3. Mariama and Karen: _Computational Theory of Mind_ (10 min)
-4. Becca: _Analyzing Chemical Reaction Networks_ (8 min)
-5. Katrina, Alice, Max, and Julia Chen: _[Recursive syntactic pattern learning by songbirds](https://granieri.github.io/songbird-syntax/)_ (14 min)
-6. Khadidja and Faith: _Computing Machinery and Intelligence in Computer Game Bots_ (10 min)
+2. Audrey and Grace: _Predictive Coding and Artificial Neural Networks_
+3. Mariama and Karen: _Computational Theory of Mind_ ([article](https://en.wikipedia.org/wiki/Computational_theory_of_mind))
+4. Becca: _Analyzing Chemical Reaction Networks_ ([article](https://jsystchem.springeropen.com/track/pdf/10.1186/1759-2208-3-1))
+5. Katrina, Alice, Max, and Julia Chen: _[Recursive syntactic pattern learning by songbirds](https://granieri.github.io/songbird-syntax/)_ ([article](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2653278/))
+6. Khadidja and Faith: _Computing Machinery and Intelligence in Computer Game Bots_ ([article 1](https://link.springer.com/content/pdf/10.1007%2F978-1-4020-6710-5.pdf), [article 2](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=5247069))
 
 <hr>
 **THURSDAY 4/26: REAL WORLD PROBLEMS THAT ARE PROBVABLY HARD**
