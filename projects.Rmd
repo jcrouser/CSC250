@@ -5,7 +5,7 @@ title: "Final Projects"
 <hr>
 *TUESDAY 4/24: DAY 1 REQUESTS and COOL SCIENCE-Y APPLICATIONS*
 <hr>
-1. Qiaomei, Jiamin, and Emmely Rogers: _The Candy Crush Problem is NP-Complete_ (12 min)
+1. Qiaomei, Jiamin, and Emmely Rogers: _The Candy Crush Problem is NP-Complete_ ([article](https://arxiv.org/abs/1403.1911))
 2. Audrey and Grace: _Predictive Coding and Artificial Neural Networks_ (10 min)
 3. Mariama and Karen: _Computational Theory of Mind_ (10 min)
 4. Becca: _Analyzing Chemical Reaction Networks_ (8 min)
