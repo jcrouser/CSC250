@@ -9,5 +9,5 @@ The following schedule is subject to change at any time.
 || 2 | Audrey, Grace | Predictive Coding and Artificial Neural Networks ||
 || 3 | Mariama and Karen | Computational Theory of Mind ||
 || 4 | Becca | Analyzing Chemical Reaction Networks ||
-|| 5 | Katrina, Alice, Max, and Julia | Recursive syntactic pattern learning by songbirds ||
+|| 5 | Katrina, Alice, Max, and Julia | [Recursive syntactic pattern learning by songbirds](https://granieri.github.io/songbird-syntax/) ||
 || 6 | Khadidja and Faith | Computing Machinery and Intelligence in Computer Game Bots ||
