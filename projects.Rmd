@@ -1,0 +1,13 @@
+---
+title: "Final Projects"
+---
+The following schedule is subject to change at any time.
+
+| **Date** | **Number**  | **Team** |  **Topic** | **Article/Link**
+| ---------|------------|-------------|-----------------|
+| 4/24/18  | 1 | Qiaomei, Jiamin, and Emmely | The Candy Crush Problem is NP-Complete ||
+|| 2 | Audrey, Grace | Predictive Coding and Artificial Neural Networks ||
+|| 3 | Mariama and Karen | Computational Theory of Mind ||
+|| 4 | Becca | Analyzing Chemical Reaction Networks ||
+|| 5 | Katrina, Alice, Max, and Julia | Recursive syntactic pattern learning by songbirds ||
+|| 6 | Khadidja and Faith | Computing Machinery and Intelligence in Computer Game Bots ||
