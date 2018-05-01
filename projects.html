@@ -20,8 +20,8 @@
 <script src="site_libs/bootstrap-3.3.5/shim/html5shiv.min.js"></script>
 <script src="site_libs/bootstrap-3.3.5/shim/respond.min.js"></script>
 <script src="site_libs/navigation-1.1/tabsets.js"></script>
-<link href="site_libs/highlightjs-1.1/default.css" rel="stylesheet" />
-<script src="site_libs/highlightjs-1.1/highlight.js"></script>
+<link href="site_libs/highlightjs-9.12.0/default.css" rel="stylesheet" />
+<script src="site_libs/highlightjs-9.12.0/highlight.js"></script>
 
 <style type="text/css">code{white-space: pre;}</style>
 <style type="text/css">
@@ -30,10 +30,12 @@
   }
 </style>
 <script type="text/javascript">
-if (window.hljs && document.readyState && document.readyState === "complete") {
-   window.setTimeout(function() {
-      hljs.initHighlighting();
-   }, 0);
+if (window.hljs) {
+  hljs.configure({languages: []});
+  hljs.initHighlightingOnLoad();
+  if (document.readyState && document.readyState === "complete") {
+    window.setTimeout(function() { hljs.initHighlighting(); }, 0);
+  }
 }
 </script>
 
@@ -216,7 +218,7 @@ $(document).ready(function () {
 <hr>
 <ol style="list-style-type: decimal">
 <li>Qiaomei, Jiamin, and Emmely: <em>The Candy Crush Problem is NP-Hard</em> (<a href="https://arxiv.org/abs/1403.1911">article</a>)</li>
-<li>Audrey and Grace: <em>Predictive Coding and Artificial Neural Networks</em></li>
+<li>Audrey and Grace: <a href="projects/neural-networks.html"><em>Predictive Coding and Artificial Neural Networks</em></a></li>
 <li>Mariama and Karen: <em>Computational Theory of Mind</em> (<a href="https://en.wikipedia.org/wiki/Computational_theory_of_mind">article</a>)</li>
 <li>Becca: <em>Analyzing Chemical Reaction Networks</em> (<a href="https://jsystchem.springeropen.com/track/pdf/10.1186/1759-2208-3-1">article</a>)</li>
 <li>Katrina, Alice, Max, and Julia Chen: <em><a href="https://granieri.github.io/songbird-syntax/">Recursive syntactic pattern learning by songbirds</a></em> (<a href="https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2653278/">article</a>)</li>
