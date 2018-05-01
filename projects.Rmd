@@ -2,11 +2,11 @@
 title: "Final Projects"
 ---
 
-| **Team** |  **Topic** | **Article/Link**|
-|-------------|-----------------|----------|
+| **Team** |  **Topic&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;** | **Article/Link**|
+|----------|-----------------|----------|
 | Qiaomei, Jiamin, and Emmely | The Candy Crush Problem is NP-Complete ||
 | Audrey, Grace | Predictive Coding and Artificial Neural Networks ||
 | Mariama and Karen | Computational Theory of Mind ||
 | Becca | Analyzing Chemical Reaction Networks ||
-| Katrina, Alice, Max, and Julia | [Pattern learning by songbirds](https://granieri.github.io/songbird-syntax/) ||
-| Khadidja and Faith | Computing Machinery and Intelligence in Computer Game Bots ||
+| Katrina, Alice, Max, and Julia | [Recursive syntactic pattern learning by songbirds](https://granieri.github.io/songbird-syntax/) ||
+<!--| Khadidja and Faith | Computing Machinery and Intelligence in Computer Game Bots ||-->
