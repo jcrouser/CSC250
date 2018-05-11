@@ -20,7 +20,7 @@ title: "Final Projects"
 3. Lucy: _Completion of partial partial latin hypercube designs: NP-completeness and inapproximability_ ([article](https://www.sciencedirect.com/science/article/pii/S0304397518300409))
 4. Ebony, Dominica, and Maddy: [_Computational Complexity of Arranging Music_](https://github.com/jcrouser/CSC250/wiki/Arranging-Music-is-NP-Complete) ([article](https://arxiv.org/pdf/1607.04220.pdf))
 5. Lisa: [_Fraud Detection_](https://npfraud.wordpress.com/) ([article](http://www.cs.tau.ac.il/~milo/projects/modas/papers/rudolf.pdf))
-6. Hening and Ha: _Hospitals/Residents Problem_ ([article 1](https://web.stanford.edu/~alroth/papers/rothperansonaer.PDF), [article2](https://pdfs.semanticscholar.org/8629/806af545d3828a9f70dcf7d379f7cfbd5d32.pdf))
+6. Hening and Ha: [_Hospitals/Residents Problem_](/projects/hospitals-and-residents.html) ([article 1](https://web.stanford.edu/~alroth/papers/rothperansonaer.PDF), [article2](https://pdfs.semanticscholar.org/8629/806af545d3828a9f70dcf7d379f7cfbd5d32.pdf))
 
 <hr>
 **TUESDAY 5/1: HISTORY AND GAMES PT. 1**
