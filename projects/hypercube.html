@@ -1,0 +1,77 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="UTF-8" />
+<title>Final Project Yilin Wang(Lucy)</title>
+<link href="250FinalProject.css" rel="stylesheet">
+</head>
+<body>
+
+<div id="main"> <!-- div for entire webpage contents -->
+<h2 id="mainTitle">The Np-completeness of Partial Latin Hypercube Designs</h2>
+<div class="panel"> <!-- div for entire upper half of webpage -->
+<div class="column very-narrow">
+<h1>Introduction</h1>
+
+<p>&emsp; &emsp;&emsp;Maximum Latin Hypercube Designs are statistical sampling method which are usually used to sample complex systems. In a Latin Hypercube design, no two data points can share the same coordinate on any dimension. Besides that, data points in Latin Hypercube designs should be evenly spread in space. There are two major NP complete problems in the completion of partial Latin Hypercube Designs:<br>
+				1. Partial Maximum Latin Hypercube completion problem.This is an optimization problem which asks for an answer to complete a partial Latin Hypercube Design to obtain a Latin Hypercube Design which the separation distance is the maximum. <br>
+				2. Partial Maximum Latin Hypercube design completion problem. This is also an optimization problem which asks that whether it is possible to complete a partial Latin Hypercube Design such that the result has a separation distance that is greater than the original Latin Hypercube design 
+(Kaourintin Le Guiban, Arpad Rimmel, Marc-Antoine Weisser, Joanna Tomasik, 1).</p>
+</div>
+
+<div  class="column wide">
+<h1>Historical significance of Latin Hypercube design problem</h1>
+
+<p>&emsp; &emsp;&emsp;In 1979, the Latin hypercube sampling was firstly described by McKay. After its first description, in 1981, it was further elaborated by Ronald L. Iman and co-authors. After that,  computer codes and manuals were published. This idea Latin hypercube sampling is the first statistical sampling method that is more representative of the real variability of the original model and in contrast, brute force traditional random sampling method is just an ensemble of random numbers without any guarantees (“Latin Hypercube Sampling.”).</p>
+</div>
+
+<div class="column narrow">
+<h1>Result of the paper</h1>
+
+<p>&emsp;&emsp;&emsp;This paper proves that it is NP-complete and it does not admit any approximation algorithm in most practical cases (Kaourintin Le Guiban, Arpad Rimmel, Marc-Antoine Weisser, Joanna Tomasik, 1). </p>
+</div>
+</div> <!-- end upper half panel -->
+
+<div class="panel"> <!-- div for entire lower half of webpage -->
+
+<div  class="column wide"><h1>My assessment of this paper</h1>
+
+<p>&emsp; &emsp;&emsp;In one part of the paper, the authors used reduction to prove that Partial Maximum Latin Hypercube design completion problem (pLHD-CP) in the two dimensional space with norm L1 is NP-complete. Authors prove pLHD-CP by constructing a transformation function that transform a pLHD-CP problem to a problem that is proven to be NP-complete, partial Latin Square Completion problem (pLS-CP). The design of the gadget of this part of the proof is quite clever since it not only used pythagorean theorem to make sure that the separation distance is at least greater than a constant, but also utilize the properties of the Latin Hypercube to make sure the properties of the Latin hypercube are satisfied. The design of this reduction gadget is quite educational because it shows readers how to connect similar properties of two problems and make sure the outcome is indeed another problem. However, not all of the proofs in this paper are complete, though all of the proofs of NP-completeness give clever designs of gadgets, they do not explicitly states why every problem is NP. The proofs for NP-completeness in this paper only have the part that proves each problem is NP hard. Since proving a problem is NP-complete requires both the proof which proves that problem is NP and the proof which proves that problem is NP hard, proofs in this paper are not clear in this way. </p>
+</div>
+
+<div  class="column wide"><h1>Real world application and future improvement</h1>
+
+<p>&emsp; &emsp;&emsp;In the real world, Latin Hypercube Designs can be used in meta-modeling and maximum Latin Hypercube design can guarantee that the model can accurately represent the probability distribution of the original complex system with the minimum amount of data points from the original complex system. This paper proves that the maximum Latin Hypercube design completion is NP-complete and do not admit any approximation algorithms. Thus, this paper proves that in real world, there is no polynomial algorithm that can generates an accurate probability model for a complex system with the minimum amount of data points from the original complex system when some point in the design are already fixed (Kaourintin Le Guiban, Arpad Rimmel, Marc-Antoine Weisser, Joanna Tomasik, 1). This paper mentioned that for the maximum Latin Hypercube completion problem, polynomial solutions are only found for norm one and norm infinity for the two dimensional space and size of the set n=b^k for norm infinity and set size being n and dimension being k (Kaourintin Le Guiban, Arpad Rimmel, Marc-Antoine Weisser, Joanna Tomasik, 1). In the future, people can keep on working this maximum latin hypercube design construction problem so that a polynomial algorithm can also be found for all the norms, set size and dimensions.  </p>
+</div>
+
+<div  class="column wide">
+<h1>Related resources and link to the original paper</h1>
+
+<p>&emsp;&emsp;&emsp;If you are interested in Latin Hypercube design problem and its completion problems, here is the link to a book which you can acquire more knowledge about Latin Hypercube and a link to the original paper: <br>
+&emsp; &emsp;&emsp;&emsp;&emsp;1. Latin hypercube sampling (program user's guide).<br>&emsp; &emsp;&emsp;&emsp;&emsp;(https://www.osti.gov/biblio/5571631)<br>
+&emsp; &emsp;&emsp;&emsp;&emsp;2. Completion of partial Latin Hypercube Designs: NP-completeness and inapproximability: <br>
+&emsp; &emsp;&emsp;&emsp;&emsp;(https://www.sciencedirect.com/science/article/pii/S0304397518300409)
+</p>
+</div>
+<div  class="column wide"><h1>What I did for this project? </h1>
+
+<p>1. Researched about this paper. 
+<br>2. Researched about related material to help myself understand this topic and proofs in the paper. 
+<br>3. Created the presentation and presented in class. 
+<br>4. Wrote this report. 
+</p>
+</div>
+
+<div  class="column wide"><h1>References</h1>
+
+<p>“Completion of Partial Latin Hypercube Designs: NP-Completeness and Inapproximability.”<br>&emsp; &emsp;&emsp;&emsp;&emsp;
+		Theoretical Computer Science, Elsevier, 31 Jan. 2018, <br>&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;www.sciencedirect.com/science/article/pii/S0304397518300409.<br>
+Iman, Ronald L., et al. Latin Hypercube Sampling (Program User's Guide). Dept. of Energy, <br>&emsp; &emsp;&emsp;&emsp;&emsp;Sandia Laboratories, 1980.<br>
+“Latin Hypercube Sampling.”Wikipedia, Wikimedia Foundation, 10 Apr. 2018, <br>&emsp; &emsp;&emsp;&emsp;&emsp;en.wikipedia.org/wiki/Latin_hypercube_sampling.
+</p>
+</div>
+</div> <!-- end lower half panel -->
+
+</div> <!-- end div for entire webpage id="main" -->
+</body>
+</html>
