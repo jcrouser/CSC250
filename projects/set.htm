@@ -1,0 +1,223 @@
+<!DOCTYPE html>
+<html>
+<head>
+<style>
+
+div {
+        padding: 1em;
+    }
+    .headingColor {
+        background-color: #F08080;
+    }
+    .textblockColor {
+        border-width: 3px;
+        border-style: solid;
+        border-color: #F08080;
+        background-color: white;
+        margin-bottom: 1em;
+    }
+
+header, footer {
+    padding: 1em;
+    color: black;
+    background-color: indianRed;
+    clear: left;
+    text-align: center;
+    margin-bottom: 1em;
+}
+
+article { 
+    overflow: hidden;
+}
+
+
+</style>
+
+</head>
+<body>
+
+<div class="container">
+
+<header>
+   <h1>Computational Complexity of the Game of SET</h1>
+   <h3><i>Maggie Burkart</i></h3>
+</header>
+
+<article>
+<div class="headingColor">
+<h2 style="text-align:center">The Game of SET</h2>
+</div>
+<div class="textblockColor">
+<p><img src="https://www.setgame.com/sites/default/files/styles/galleryformatter_slide/public/products/SETlayout_1.png?itok=aULoYeN3" alt="Game of SET" style="float:right;width:400px;height:275px;">
+SET is a popular pattern-recognition card game, which can either be played as a competitive speed game or a collaborative effort. The goal is to find "sets" of three cards out of all cards on the board. The symbols on the cards have four attributes: <b>color</b>, <b>number</b>, <b>shape</b>, and <b>shade</b>. Each attribute can have one of three possible values, as seen below:
+</p>
+
+<table align="center" cellpadding="1" border="1">
+	<tr>
+    	<th>Attribute</th>
+        <th style="text-align:left">Possible Values</th>
+    </tr>
+    <tr>
+    	<td>Color</td>
+        <td>Red, Green, Purple</td>
+    </tr>
+    <tr>
+    	<td>Number</td>
+        <td>One, Two, Three</td>
+    </tr>
+    <tr>
+    	<td>Shape</td>
+        <td>Oval, Diamond, Squiggle</td>
+    </tr>
+    <tr>
+    	<td>Shade</td>
+        <td>Full, Shaded, Empty</td>
+    </tr>
+</table>
+
+<p>
+A "set" is that for each attribute have either all the same values or all different values.
+</p>
+<p>
+The game of SET poses many interesting computational problems, such as finding a singular set, finding the maximum number of sets, or finding the minimum number of sets possible, which is the problem that I intend to discuss.
+</p>
+
+<div class="headingColor">
+<h3 style="text-align:center">Set Example</h3>
+</div>
+
+<p>
+<img src="https://farm1.staticflickr.com/868/27985392188_b86ae480ae_m.jpg" width="300" height="175" alt="setExample" style="float:right;">
+The image to the right is a set because:<br><br>
+The <b>COLOR</b> of the symbols is all the <b>same</b>:
+&nbsp &nbsp &nbsp &nbsp &nbsp &nbsp PURPLE &nbsp PURPLE &nbsp PURPLE<br><br>
+The <b>NUMBER</b> of the symbols is all the <b>same</b>:
+&nbsp &nbsp &nbsp &nbsp &nbsp &nbsp TWO &nbsp TWO  &nbsp TWO<br><br>
+The <b>SHAPES</b> of the symbols are all <b>different</b>:
+&nbsp &nbsp &nbsp &nbsp &nbsp &nbsp SQUIGGLE &nbsp DIAMOND  &nbspOVAL<br><br>
+The <b>SHADING</b> of the symbols is all <b>different</b>:
+&nbsp &nbsp &nbsp &nbsp &nbsp &nbsp FULL &nbsp SHADED &nbsp EMPTY
+</p>
+</div>
+
+
+<div class="headingColor">
+<h2 style="text-align:center">Problem: MIN 3-VALUE r-SET</h2>
+</div>
+
+<div class="textblockColor">
+<p>
+The problem that I discuss in this post is the <b>MIN 3-VALUE r-SET</b> problem. Given a set of cards, a single player is trying to remove the <b>smallest possible number</b> of sets so that no more sets are left on the table in r rounds. In other words, a single player is trying to ruin the game for everyone else who wants to find a set!
+</p>
+</div>
+
+<div class="headingColor">
+<h2 style="text-align:center">NP-Hardness Proof</h2>
+</div>
+
+<div class="textblockColor">
+<p>
+The <b>MIN 3-VALUE r-SET</b> problem is NP-hard. The proof of this depends on:<br>
+&nbsp &nbsp &nbsp &nbsp &nbsp &nbsp <b>(1)</b> a graphical representation of the set board and<br>
+&nbsp &nbsp &nbsp &nbsp &nbsp &nbsp <b>(2)</b> a reduction from <b>INDEPENDENT EDGE-DOMINATING SET</b>.
+</p>
+
+<div class="headingColor">
+<h3 style="text-align:center">Graphical Representation of SET</h3>
+</div>
+
+<p><img src="https://farm1.staticflickr.com/865/41854061481_ea67a81679_m.jpg" width="240" height="135" alt="setsAsHyperedges" style="float:right;">
+The board can be represented as a graph <i>G</i> (<i>V</i>, <i>E</i>) in which:<br>
+&nbsp &nbsp &nbsp &nbsp &nbsp &nbsp Each card is a vertex<br>
+&nbsp &nbsp &nbsp &nbsp &nbsp &nbsp Each set is an edge (hyper-edge)<br><br>
+The image to the right represents the graph of a SET board.<br><br>
+The blue outlines around gorups of cards represent hyper-edges, or "sets" in the game.
+</p>
+
+<div class="headingColor">
+<h3 style="text-align:center">Independent Edge-Dominating Set</h3>
+</div>
+
+<p>
+<img src="https://farm1.staticflickr.com/945/27990022158_e1589ec639_m.jpg" width="250" height="160" alt="edgeDominatingSet" style="float:right;">
+<img src="https://farm1.staticflickr.com/981/41141706304_bd989162d9_m.jpg" width="250" height="170" alt="indEdgeDominatingSet" style="float:right;">
+An <b>edge dominating set</b> for a graph <i>G</i> = (<i>V</i>,<i>E</i>) is a set of edges <i>M</i> such that all edges in <i>E</i> that are not in <i>M</i> are adjacent to an element of <i>M</i>.<br><br>
+All other sets (not included in <i>M</i>) need one card that is in a set in <i>M</i>. In the SET scenario, once the sets in <i>M</i> are removed, there must be no remaining sets on the board.
+<br><br>
+An <b>independent edge dominating set</b> is an edge dominating set in which no two elements are adjacent.<br><br>
+In terms of the game, none of the sets in <i>M</i> contain any of the same cards.<br><br>
+<b>INDEPENDENT EDGE DOMINATING SET</b> is known to be NP-hard.<br><br>
+</p>
+
+<div class="headingColor">
+<h3 style="text-align:center">Why does this reduction work?</h3>
+</div>
+
+<p><img src="https://farm1.staticflickr.com/962/41141909374_f7a3fb9f00_m.jpg" width="240" height="160" alt="minIndEdgeDomSet" style="float:right;">
+Picking a set of cards eliminates the edge of that set, the vertices of the included cards, and the edges of possible sets that included one of those cards. To eliminate all other possible sets (the edges in the graph), the sets chosen must belong to an indepedent edge-dominating set.<br><br><br>
+Specifically, this subset of chosen sets must be the <b>smallest possible</b>.<br><br><br>
+Therefore, we can see intuitively that the problem looks very similar to <b>MINIMUM INDEPENDENT EDGE-DOMINATING SET</b>.
+
+<div class="headingColor">
+<h3 style="text-align:center">Formal Proof:</h3>
+</div>
+
+<p>
+An independent edge dominating set of size at most <i>r</i> in <i>G</i> corresponds to an equal number of sets that overlap all other sets.<br><br>
+We want the minimum independent edge-dominating set (the smallest number of sets that overlap all other sets).<br><br>
+This means that an instance of the <b>MINIMUM INDEPENDENT EDGE-DOMINATING SET</b> can be reduced to an instance of a <b>MIN 3-VALUE r-SET</b>.<br><br>
+We know that <b>MINIMUM INDEPENDENT EDGE-DOMINATING SET</b> is NP-hard. Therefore, <b>MIN 3-VALUE</b> r-SET is NP-hard.
+</p>
+</div>
+
+<div class="headingColor">
+<h2 style="text-align:center">Proof Evaluation</h2>
+</div>
+
+<div class="textblockColor">
+<p>
+This proof seemed pretty intuitive to me, since a SET board lends itself so well to such a graphical representation. The idea that finding the minimum number of sets possible to destory all other sets is NP-hard also makes sense to me, because it would be necessary to first find all possible sets in the first place. I found it interesting that the paper allowed all cards to be chosen from at once. In a real game, only 12 cards would be visible at a time, and cards would be replaced as sets were found. I would imagine that this would make the problem much harder to solve.
+</p>
+</div>
+
+<div class="headingColor">
+<h2 style="text-align:center">Extras</h2>
+</div>
+
+<div class="textblockColor">
+<p>
+Below are links to some free online set puzzles:<br>
+&nbsp &nbsp &nbsp &nbsp &nbsp &nbsp 
+<a href="https://www.setgame.com/set/puzzle">SET website daily puzzle</a><br>
+&nbsp &nbsp &nbsp &nbsp &nbsp &nbsp 
+<a href="https://www.nytimes.com/crosswords/game/set
+">New York Times website daily puzzles</a>
+</p>
+</div>
+
+<div class="headingColor">
+<h2 style="text-align:center">References</h2>
+</div>
+
+<div class="textblockColor">
+<p>
+Paper by Michael Lampis and Valia Mitsou:<br>
+<a href="https://arxiv.org/pdf/1309.6504.pdf">The Computational Complexity of the Game of Set and its Theoretical Applications</a><br><br>
+
+Source for rules of gameplay and game image:<br>
+<a href="https://www.setgame.com/set">The SET Website</a><br><br>
+
+Source for information on edge dominating sets:<br>
+<a href="http://www.jstor.org/stable/2100648">Edge Dominating Sets in Graphs</a>
+</p>
+</div>
+
+</article>
+
+</div>
+</body>
+</html>
+
+
+
+
