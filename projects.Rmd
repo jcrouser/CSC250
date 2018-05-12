@@ -16,7 +16,7 @@ title: "Final Projects"
 **THURSDAY 4/26: REAL WORLD PROBLEMS THAT ARE PROBVABLY HARD**
 <hr>
 1. Yaqian and Suzie: [_Art Gallery Problem_](https://github.com/YaqianT/csc250-art-gallery-problem/wiki) ([article](https://en.wikipedia.org/wiki/Art_gallery_problem))
-2. Angelica, Emily, and Stefany: [_Average Case O(1) Time and Distance Optimal Multi-Robot Path Planning_](projects/kiva-bots.html) ([article](https://arxiv.org/pdf/1706.07255.pdf))
+2. Angelica, Emily, and Stefany: [_Average Case O(1) Time and Distance Optimal Multi-Robot Path Planning_](http://rpubs.com/aluna11/385332) ([article](https://arxiv.org/pdf/1706.07255.pdf))
 3. Lucy: _Completion of partial partial latin hypercube designs: NP-completeness and inapproximability_ ([article](https://www.sciencedirect.com/science/article/pii/S0304397518300409))
 4. Ebony, Dominica, and Maddy: [_Computational Complexity of Arranging Music_](https://github.com/jcrouser/CSC250/wiki/Arranging-Music-is-NP-Complete) ([article](https://arxiv.org/pdf/1607.04220.pdf))
 5. Lisa: [_Fraud Detection_](https://npfraud.wordpress.com/) ([article](http://www.cs.tau.ac.il/~miloprojects/modas/papers/rudolf.pdf))
