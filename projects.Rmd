@@ -7,27 +7,27 @@ title: "Final Projects"
 <hr>
 1. Qiaomei, Jiamin, and Emmely: [_The Candy Crush Problem is NP-Hard_](projects/candyCrush/candyCrush.html) ([article](https://arxiv.org/abs/1403.1911))
 2. Audrey and Grace: [_Predictive Coding and Artificial Neural Networks_](projects/neural-networks.html) ([article](http://www.academia.edu/download/30992521/125_coginfocom2012x.pdf))
-3. Mariama and Karen: [_Computational Theory of Mind_](/projects/ctmlast.html) ([article](https://en.wikipedia.org/wiki/Computational_theory_of_mind))
+3. Mariama and Karen: [_Computational Theory of Mind_](projects/ctmlast.html) ([article](https://en.wikipedia.org/wiki/Computational_theory_of_mind))
 4. Becca: [_Analyzing Chemical Reaction Networks_](https://github.com/bmillersmithedu/CSC-250/wiki/Analyzing-Chemical-Reaction-Networks-is-NP-Complete) ([article](https://jsystchem.springeropen.com/track/pdf/10.1186/1759-2208-3-1))
 5. Katrina, Alice, Max, and Julia Chen: [_Recursive syntactic pattern learning by songbirds_](https://granieri.github.io/songbird-syntax/) ([article](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2653278/))
-6. Khadidja and Faith: [_Computing Machinery and Intelligence in Computer Game Bots_](/projects/game-bots.html) ([article 1](https://link.springer.com/content/pdf/10.1007%2F978-1-4020-6710-5.pdf), [article 2](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=5247069))
+6. Khadidja and Faith: [_Computing Machinery and Intelligence in Computer Game Bots_](projects/game-bots.html) ([article 1](https://link.springer.com/content/pdf/10.1007%2F978-1-4020-6710-5.pdf), [article 2](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=5247069))
 
 <hr>
 **THURSDAY 4/26: REAL WORLD PROBLEMS THAT ARE PROBVABLY HARD**
 <hr>
 1. Yaqian and Suzie: [_Art Gallery Problem_](https://github.com/YaqianT/csc250-art-gallery-problem/wiki) ([article](https://en.wikipedia.org/wiki/Art_gallery_problem))
-2. Angelica, Emily, and Stefany: [_Average Case O(1) Time and Distance Optimal Multi-Robot Path Planning_](/projects/kiva-bots.html) ([article](https://arxiv.org/pdf/1706.07255.pdf))
+2. Angelica, Emily, and Stefany: [_Average Case O(1) Time and Distance Optimal Multi-Robot Path Planning_](projects/kiva-bots.html) ([article](https://arxiv.org/pdf/1706.07255.pdf))
 3. Lucy: _Completion of partial partial latin hypercube designs: NP-completeness and inapproximability_ ([article](https://www.sciencedirect.com/science/article/pii/S0304397518300409))
 4. Ebony, Dominica, and Maddy: [_Computational Complexity of Arranging Music_](https://github.com/jcrouser/CSC250/wiki/Arranging-Music-is-NP-Complete) ([article](https://arxiv.org/pdf/1607.04220.pdf))
-5. Lisa: [_Fraud Detection_](https://npfraud.wordpress.com/) ([article](http://www.cs.tau.ac.il/~milo/projects/modas/papers/rudolf.pdf))
-6. Hening and Ha: [_Hospitals/Residents Problem_](/projects/hospitals-and-residents.html) ([article 1](https://web.stanford.edu/~alroth/papers/rothperansonaer.PDF), [article2](https://pdfs.semanticscholar.org/8629/806af545d3828a9f70dcf7d379f7cfbd5d32.pdf))
+5. Lisa: [_Fraud Detection_](https://npfraud.wordpress.com/) ([article](http://www.cs.tau.ac.il/~miloprojects/modas/papers/rudolf.pdf))
+6. Hening and Ha: [_Hospitals/Residents Problem_](projects/hospitals-and-residents.html) ([article 1](https://web.stanford.edu/~alroth/papers/rothperansonaer.PDF), [article2](https://pdfs.semanticscholar.org/8629/806af545d3828a9f70dcf7d379f7cfbd5d32.pdf))
 
 <hr>
 **TUESDAY 5/1: HISTORY AND GAMES PT. 1**
 </hr>
 1. Julie, Joarvi, Mae, and Heidi: [_Mining Bitcoin is NP-hard_](https://tsa-heidi.github.io/Bitcoin/) ([article](https://freedom-to-tinker.com/2014/10/27/bitcoin-mining-is-np-hard/))
 2. Fanghui, Yining, and Qiaqia: _Engima Machine in WWII_ ([article](https://en.wikipedia.org/wiki/Cryptanalysis_of_the_Enigma))
-3. Thao: [_The Zodiac Killer_](/projects/Zodiac_Killer.html) ([article](https://www.history.com/news/the-zodiac-ciphers-what-we-know))
+3. Thao: [_The Zodiac Killer_](projects/Zodiac_Killer.html) ([article](https://www.history.com/news/the-zodiac-ciphers-what-we-know))
 4. Carolyn, Emma, and Isabelle: [_Gödel’s Incompleteness Theorem_](https://godelincompleteness.blogspot.com/) ([article](https://en.wikipedia.org/wiki/G%C3%B6del%27s_incompleteness_theorems))
 5. Elizabeth and Eleanor: [_Mastermind is NP-complete_](https://github.com/jcrouser/CSC250/wiki/Mastermind-is-NP-Complete) ([article](https://notendur.hi.is/hh/kennsla/rrr/h06/mastermind.pdf))
 6. Dorcas and Astou: [_Tetris is Hard, Even to Approximate_](https://tetrisnpcomplete.wordpress.com/2018/04/29/the-journey-begins/) ([article](https://link.springer.com/chapter/10.1007/3-540-45071-8_36))
@@ -36,7 +36,7 @@ title: "Final Projects"
 **THURSDAY 5/3: GAMES PT. 2**
 <hr>
 1. Hafsah and Georgina: [_PushPush 3D is NP-hard_](https://github.com/GeorginaXu/CS250FinalProject/wiki/PushPush-It-to-the-Limit)
-2. Maggie: [_The Computational Complexity of the Game of Set and its Theoretical Applications_](/projects/set.html)
+2. Maggie: [_The Computational Complexity of the Game of Set and its Theoretical Applications_](projects/set.html)
 3. Mai, Sarah, Whitney, and Allie Gardiner: _Pokemon is NP-complete_ ([article 1](https://arxiv.org/pdf/1203.1895.pdf), [article 2](https://arxiv.org/pdf/1201.5298v1.pdf))
 4. Sabrina, Jessie, Jemimah, and Blanca: [_Minesweeper is NP-Complete_](https://jemimchcharles.wixsite.com/minesweeper) ([article](http://web.mat.bham.ac.uk/R.W.Kaye/minesw/minesw.htm))
 5. Zhu, Zixian, Chujun, and Xueying: _Sudoku Puzzle Problem_ ([article](http://www2.imm.dtu.dk/pubdb/views/edoc_download.php/5625/pdf/imm5625.pdf))
