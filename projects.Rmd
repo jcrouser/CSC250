@@ -40,5 +40,5 @@ title: "Final Projects"
 3. Mai, Sarah, Whitney, and Allie Gardiner: [_Pokemon is NP-complete_](projects/pokemon.html) ([article 1](https://arxiv.org/pdf/1203.1895.pdf), [article 2](https://arxiv.org/pdf/1201.5298v1.pdf))
 4. Sabrina, Jessie, Jemimah, and Blanca: [_Minesweeper is NP-Complete_](https://jemimchcharles.wixsite.com/minesweeper) ([article](http://web.mat.bham.ac.uk/R.W.Kaye/minesw/minesw.htm))
 5. Zhu, Zixian, Chujun, and Xueying: _Sudoku Puzzle Problem_ ([article](http://www2.imm.dtu.dk/pubdb/views/edoc_download.php/5625/pdf/imm5625.pdf))
-6. Asmita, Joce, Ariana, Nashshaba, and Charlotte: _Computation in Rubik’s Cube_ 
+6. Asmita, Joce, Ariana, Nashshaba, and Charlotte: [_Computation in Rubik’s Cube_](projects/RubiksCube.html)
 7. Farida: [_Spider Solitaire is NP-Complete_](http://www.faridasabry.com/Theory-CSC250/) ([article](https://arxiv.org/abs/1110.1052))
