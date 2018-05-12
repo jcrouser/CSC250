@@ -26,7 +26,7 @@ title: "Final Projects"
 **TUESDAY 5/1: HISTORY AND GAMES PT. 1**
 </hr>
 1. Julie, Joarvi, Mae, and Heidi: [_Mining Bitcoin is NP-hard_](https://tsa-heidi.github.io/Bitcoin/) ([article](https://freedom-to-tinker.com/2014/10/27/bitcoin-mining-is-np-hard/))
-2. Fanghui, Yining, and Qiaqia: _Engima Machine in WWII_ ([article](https://en.wikipedia.org/wiki/Cryptanalysis_of_the_Enigma))
+2. Fanghui, Yining, and Qiaqia: [_Engima Machine in WWII_](projects/enigma.html) ([article](https://en.wikipedia.org/wiki/Cryptanalysis_of_the_Enigma))
 3. Thao: [_The Zodiac Killer_](projects/Zodiac_Killer.html) ([article](https://www.history.com/news/the-zodiac-ciphers-what-we-know))
 4. Carolyn, Emma, and Isabelle: [_Gödel’s Incompleteness Theorem_](https://godelincompleteness.blogspot.com/) ([article](https://en.wikipedia.org/wiki/G%C3%B6del%27s_incompleteness_theorems))
 5. Elizabeth and Eleanor: [_Mastermind is NP-complete_](https://github.com/jcrouser/CSC250/wiki/Mastermind-is-NP-Complete) ([article](https://notendur.hi.is/hh/kennsla/rrr/h06/mastermind.pdf))
