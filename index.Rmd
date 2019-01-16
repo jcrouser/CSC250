@@ -4,9 +4,11 @@ title: "CSC250 - Theory of Computation"
 
 **Instructor:** R. Jordan Crouser
 
+**Grader:** TBD
+
 **Course meeting times:** Tuesday and Thursday 9am - 10:20am
 
-**Location:** McConnell 103
+**Location:** Seelye 301
 
 ## Course Description:
 This course provides a challenging introduction to some of the core theoretical ideas that underlie the computational sciences. The objective of this course is to develop an understanding of "computer science outside the box" -- to begin to think of CS not only as the science of computers, but as the science of what can be computed. We'll begin with very simple computational machinery (automata and finite state machines, regular sets context-free languages). We'll then move on to Turing machines and computability, efficient algorithms and reducibility, NP-completeness, the P versus NP problem, the power of randomness. We'll draw on real world examples from the domains of cryptography, machine learning, and more. Finally, we'll talk about the present and future of computing theory, with potential topics including interactive proofs, quantum computing and the physical limits of computation. Class participation is important, as the class will include discussion and debate about many of these topics.
