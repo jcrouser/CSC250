@@ -5,32 +5,32 @@ The following schedule is subject to change at any time.
 
 | **Date** | **Topic**  | **Scribes** |  **Assignment** |
 | ---------|------------|-------------|-----------------|
-| 1/25/18  | Introduction |||
-| 1/30/18  | Logic and Proofs |J. Charles||
-| 2/1/18   | Regular languages and expressions |K. Santamaria||
-| 2/6/18   | Finite Automata (DFAs and NFAs) |E. Donaher|A1 due|
-| 2/8/18   | DFAs, NFAs and Regular Expressions |A. Luna, T. Phan||
-| 2/13/18  | Non-regular languages, pumping lemma |E. Rogers, B. Miller|A2 due|
-| 2/15/18  | Turing Machines |E. Muirhead||
-| 2/20/18  | Decidability |F. Sabry, G. Moore|A3 due|
-| 2/22/18  | Undecidable problems |D. Ujiji, A. Dawson||
-| 2/27/18  | Enumerability |E. Jordan, L. Wang|A4 due|
-| 3/1/18   | More on enumerators |H. Cao, A. Mu||
-| 3/6/18   | Mapping reducibility |Y. Tang, H. Zhang ||
-| 3/8/18   | Rice's Theorem |M. Wegbreit, S. Alicea| Midterm 1 Due |
-| 3/13/18  | SPRING |||
-| 3/15/18  | BREAK |||
-| 3/20/18  | Computational complexity |Z. Cai, J. Li||
-| 3/22/18  | Application: introduction to cryptography |J. Chen, Q. Ji||
-| 3/27/18  | Pseudorandom generators, one-way functions |R. Vushe, A. Dem|A5 due|
-| 3/29/18  | More complexity theory |D. Cao, J. Kim||
-| 4/3/18   | NP-completeness |E. Chang, K. Fares|A6 due|
-| 4/5/18   | CLASS CANCELLED |||
-| 4/10/18  | Probabilistic TMs |Y. Hua, N. Nawaz|A7 due|
-| 4/12/18  | Zero-knowledge proofs |H. Hanif, C. He, F. He, S. Ko, M. Kulke||
-| 4/17/18  | Application: PAC learning |M. Jaiteh, B. Martin, H. Tsang||
-| 4/19/18  | Shor's algorithm (J. O'Rourke) |G. Xu, A. Mu| Midterm 2 due|
-| 4/24/18  | Student Presentations |C. Crandall, A. Meredith||
-| 4/26/18  | Student Presentations |E. Moseley||
-| 5/1/18   | Student Presentations |M. Ngo, Z. Li||
-| 5/3/18   | Student Presentations |A. Gautam, Z. Shen|Final Project Post Due|
+| 1/24/18  | Introduction |||
+| 1/29/18  | Logic and Proofs ||A1 due|
+| 1/31/18  | Regular languages and expressions |||
+| 2/5/18   | Finite Automata (DFAs and NFAs) ||A2 due|
+| 2/7/18   | DFAs, NFAs and Regular Expressions |||
+| 2/12/18  | Non-regular languages, pumping lemma ||A3 due|
+| 2/14/18  | Context-free languages |||
+| 2/19/18  | Push-down automata ||A4 due|
+| 2/21/18  | Turing Machines |||
+| 2/26/18  | Decidability ||A5 due|
+| 2/28/18  | Undecidable problems |||
+| 3/5/18   | More undecidable problems |||
+| 3/7/18   | Enumerability || Exam 1 Due |
+| 3/12/18  | SPRING |||
+| 3/14/18  | BREAK |||
+| 3/19/18  | More on enumerators |||
+| 3/21/18  | Mapping reducibility |||
+| 3/26/18  | Rice's Theorem ||A6 due|
+| 3/28/18  | Computational complexity |||
+| 4/2/18   | Application: introduction to cryptography ||A7 due|
+| 4/4/18   | Pseudorandom generators, one-way functions |||
+| 4/9/18  | More complexity theory ||A8 due|
+| 4/11/18  | NP-completeness |||
+| 4/16/18  | Probabilistic TMs |||
+| 4/18/18  | Zero-knowledge proofs || Exam 2 due|
+| 4/23/18  | Student Presentations |||
+| 4/25/18  | Student Presentations |||
+| 4/30/18   | Student Presentations |||
+| 5/2/18   | Student Presentations ||Final Project Post Due|
