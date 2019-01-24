@@ -2,9 +2,9 @@
 title: "CSC250 - Theory of Computation"
 ---
 
-**Instructor:** R. Jordan Crouser
+**Instructor:** [R. Jordan Crouser](http://www.science.smith.edu/~jcrouser/)
 
-**Grader:** TBD
+**Grader:** [Ananya Ganesh](https://www.linkedin.com/in/ananyaganesh/)
 
 **Course meeting times:** Tuesday and Thursday 9am - 10:20am
 
