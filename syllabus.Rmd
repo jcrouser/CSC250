@@ -38,10 +38,10 @@ There will be two take-home examinations and one final group project in this cou
 ## Grading	
 | **Component**       | **Weight**  |
 | ------------------- |:---:|
-| Problem sets	      | 40% | 
+| Problem sets	      | 50% | 
 | Exams	      | 30% | 
-| Final project	      | 20% | 
-| Class participation	| 10% |
+| Final project	      | 15% | 
+| Class participation	| 5% |
 | TOTAL               | 100%|
 
 <hr>
