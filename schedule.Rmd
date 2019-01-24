@@ -6,30 +6,30 @@ The following schedule is subject to change at any time.
 | **Date** | **Topic**  | **Scribes** |  **Assignment** |
 | ---------|------------|-------------|-----------------|
 | 1/24/18  | Introduction |||
-| 1/29/18  | Logic and Proofs ||A1 due|
-| 1/31/18  | Regular languages and expressions |||
-| 2/5/18   | Finite Automata (DFAs and NFAs) ||A2 due|
-| 2/7/18   | DFAs, NFAs and Regular Expressions |||
-| 2/12/18  | Non-regular languages, pumping lemma ||A3 due|
-| 2/14/18  | Context-free languages |||
-| 2/19/18  | Push-down automata ||A4 due|
-| 2/21/18  | Turing Machines |||
-| 2/26/18  | Decidability ||A5 due|
-| 2/28/18  | Undecidable problems |||
+| 1/29/18  | Logic and Proofs |||
+| 1/31/18  | Regular languages and expressions ||A1 due|
+| 2/5/18   | Finite Automata (DFAs and NFAs) |||
+| 2/7/18   | DFAs, NFAs and Regular Expressions ||A2 due|
+| 2/12/18  | Non-regular languages, pumping lemma |||
+| 2/14/18  | Context-free languages ||A3 due|
+| 2/19/18  | Push-down automata |||
+| 2/21/18  | Turing Machines ||A4 due|
+| 2/26/18  | Decidability |||
+| 2/28/18  | Undecidable problems ||A5 due|
 | 3/5/18   | More undecidable problems |||
 | 3/7/18   | Enumerability || Exam 1 Due |
 | 3/12/18  | SPRING |||
 | 3/14/18  | BREAK |||
 | 3/19/18  | More on enumerators |||
 | 3/21/18  | Mapping reducibility |||
-| 3/26/18  | Rice's Theorem ||A6 due|
-| 3/28/18  | Computational complexity |||
-| 4/2/18   | Application: introduction to cryptography ||A7 due|
-| 4/4/18   | Pseudorandom generators, one-way functions |||
-| 4/9/18  | More complexity theory ||A8 due|
+| 3/26/18  | Rice's Theorem |||
+| 3/28/18  | Computational complexity ||A6 due|
+| 4/2/18   | Application: introduction to cryptography |||
+| 4/4/18   | Pseudorandom generators, one-way functions ||A7 due|
+| 4/9/18  | More complexity theory |||
 | 4/11/18  | NP-completeness |||
-| 4/16/18  | Probabilistic TMs |||
-| 4/18/18  | Zero-knowledge proofs || Exam 2 due|
+| 4/16/18  | Probabilistic TMs ||A8 due|
+| 4/18/18  | Zero-knowledge proofs |||
 | 4/23/18  | Student Presentations |||
 | 4/25/18  | Student Presentations |||
 | 4/30/18   | Student Presentations |||
