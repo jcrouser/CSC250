@@ -23,7 +23,7 @@ Email is hard to search, response rate is slow, and messages are likely to get l
 
 <hr>
 ## Assignments
-There will be 8 problem sets assigned during the semester. Problem sets will be due by 5pm on Tuesday evenings. These problem sets will often ask you to prove theorems, but it is more important to demonstrate understanding than to employ rigor for rigor's sake. For example: a brief description of an algorithm including an illustrative diagram is better than complicated spaghetti code. Additionally, a clear explanation of how you tried to solve a problem and were unsuccessful will receive partial credit. All assignment submissions must be in PDF format, and must be organized and legible (typed is preferable). A [LaTeX template](https://moodle.smith.edu/mod/resource/view.php?id=399793) is available for typesetting your assignments.
+There will be 8 problem sets assigned during the semester. Problem sets will be due by 5pm on Thursday evenings. These problem sets will often ask you to prove theorems, but it is more important to demonstrate understanding than to employ rigor for rigor's sake. For example: a brief description of an algorithm including an illustrative diagram is better than complicated spaghetti code. Additionally, a clear explanation of how you tried to solve a problem and were unsuccessful will receive partial credit. All assignment submissions must be in PDF format, and must be organized and legible (typed is preferable). A [LaTeX template](https://moodle.smith.edu/mod/resource/view.php?id=399793) is available for typesetting your assignments.
 
 <hr>
 ## Collaboration and Academic Integrity
