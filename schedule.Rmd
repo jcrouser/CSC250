@@ -11,13 +11,13 @@ The following schedule is subject to change at any time.
 | 2/5/18   | Finite Automata (DFAs and NFAs) |B. Tasneem and A. Metaxa ||
 | 2/7/18   | DFAs, NFAs and Regular Expressions |S. Li and K. VanAllen |A2 due|
 | 2/12/18  | Non-regular languages, pumping lemma |E. Kyi and M. Tsai Gomez||
-| 2/14/18  | Context-free languages |C. Gephart and L. Carpenter|A3 due|
-| 2/19/18  | Push-down automata |C. Tan and E. Carney||
-| 2/21/18  | Turing Machines |G. Bratzel|A4 due|
-| 2/26/18  | Decidability |Z. Cai||
-| 2/28/18  | Undecidable problems |L. Leung|A5 due|
-| 3/5/18   | More undecidable problems |||
-| 3/7/18   | Enumerability |T. Xiao| Exam 1 Due |
+| 2/14/18  | Turing Machines |C. Gephart and L. Carpenter|A3 due|
+| 2/19/18  | Decidability |C. Tan and E. Carney||
+| 2/21/18  | Undecidable problems |G. Bratzel|A4 due|
+| 2/26/18  | More undecidable problems |Z. Cai||
+| 2/28/18  | Enumerability |L. Leung|A5 due|
+| 3/5/18   | Midterm review |||
+| 3/7/18   | Context-free languages and push-down automata |T. Xiao| Exam 1 Due |
 | 3/12/18  | SPRING |||
 | 3/14/18  | BREAK |||
 | 3/19/18  | More on enumerators |I. Berrada and N. Majid||
