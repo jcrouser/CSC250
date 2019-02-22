@@ -13,8 +13,8 @@ The following schedule is subject to change at any time.
 | 2/12/18  | Non-regular languages, pumping lemma |E. Kyi and M. Tsai Gomez||
 | 2/14/18  | Turing Machines |C. Gephart and L. Carpenter|A3 due|
 | 2/19/18  | Decidability |C. Tan and E. Carney||
-| 2/21/18  | Undecidable problems |G. Bratzel|A4 due|
-| 2/26/18  | More undecidable problems |Z. Cai||
+| 2/21/18  | More on decidability |G. Bratzel|A4 due|
+| 2/26/18  | Undecidable problems |Z. Cai||
 | 2/28/18  | Enumerability |L. Leung|A5 due|
 | 3/5/18   | Midterm review |||
 | 3/7/18   | Context-free languages and push-down automata |T. Xiao| Exam 1 Due |
