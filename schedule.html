@@ -97,6 +97,9 @@ img {
 button.code-folding-btn:focus {
   outline: none;
 }
+summary {
+  display: list-item;
+}
 </style>
 
 
@@ -111,7 +114,6 @@ body {
   padding-top: 65px;
   margin-top: -65px;
 }
-
 .section h2 {
   padding-top: 65px;
   margin-top: -65px;
@@ -131,6 +133,43 @@ body {
 .section h6 {
   padding-top: 65px;
   margin-top: -65px;
+}
+.dropdown-submenu {
+  position: relative;
+}
+.dropdown-submenu>.dropdown-menu {
+  top: 0;
+  left: 100%;
+  margin-top: -6px;
+  margin-left: -1px;
+  border-radius: 0 6px 6px 6px;
+}
+.dropdown-submenu:hover>.dropdown-menu {
+  display: block;
+}
+.dropdown-submenu>a:after {
+  display: block;
+  content: " ";
+  float: right;
+  width: 0;
+  height: 0;
+  border-color: transparent;
+  border-style: solid;
+  border-width: 5px 0 5px 5px;
+  border-left-color: #cccccc;
+  margin-top: 5px;
+  margin-right: -10px;
+}
+.dropdown-submenu:hover>a:after {
+  border-left-color: #ffffff;
+}
+.dropdown-submenu.pull-left {
+  float: none;
+}
+.dropdown-submenu.pull-left>.dropdown-menu {
+  left: -100%;
+  margin-left: 10px;
+  border-radius: 6px 0 6px 6px;
 }
 </style>
 
@@ -152,18 +191,77 @@ $(document).ready(function () {
 });
 </script>
 
-
 <div class="container-fluid main-container">
 
 <!-- tabsets -->
+
+<style type="text/css">
+.tabset-dropdown > .nav-tabs {
+  display: inline-table;
+  max-height: 500px;
+  min-height: 44px;
+  overflow-y: auto;
+  background: white;
+  border: 1px solid #ddd;
+  border-radius: 4px;
+}
+
+.tabset-dropdown > .nav-tabs > li.active:before {
+  content: "";
+  font-family: 'Glyphicons Halflings';
+  display: inline-block;
+  padding: 10px;
+  border-right: 1px solid #ddd;
+}
+
+.tabset-dropdown > .nav-tabs.nav-tabs-open > li.active:before {
+  content: "&#xe258;";
+  border: none;
+}
+
+.tabset-dropdown > .nav-tabs.nav-tabs-open:before {
+  content: "";
+  font-family: 'Glyphicons Halflings';
+  display: inline-block;
+  padding: 10px;
+  border-right: 1px solid #ddd;
+}
+
+.tabset-dropdown > .nav-tabs > li.active {
+  display: block;
+}
+
+.tabset-dropdown > .nav-tabs > li > a,
+.tabset-dropdown > .nav-tabs > li > a:focus,
+.tabset-dropdown > .nav-tabs > li > a:hover {
+  border: none;
+  display: inline-block;
+  border-radius: 4px;
+}
+
+.tabset-dropdown > .nav-tabs.nav-tabs-open > li {
+  display: block;
+  float: none;
+}
+
+.tabset-dropdown > .nav-tabs > li {
+  display: none;
+}
+</style>
+
 <script>
 $(document).ready(function () {
   window.buildTabsets("TOC");
 });
+
+$(document).ready(function () {
+  $('.tabset-dropdown > .nav-tabs > li').click(function () {
+    $(this).parent().toggleClass('nav-tabs-open')
+  });
+});
 </script>
 
 <!-- code folding -->
-
 
 
 
@@ -214,7 +312,13 @@ $(document).ready(function () {
 
 
 <p>The following schedule is subject to change at any time.</p>
-<table>
+<table style="width:76%;">
+<colgroup>
+<col width="13%" />
+<col width="18%" />
+<col width="19%" />
+<col width="25%" />
+</colgroup>
 <thead>
 <tr class="header">
 <th><strong>Date</strong></th>
@@ -275,31 +379,31 @@ $(document).ready(function () {
 <tr class="odd">
 <td>2/21/18</td>
 <td>More on decidability</td>
-<td>G. Bratzel</td>
+<td>G. Bratzel and I. Warburton</td>
 <td>A4 due</td>
 </tr>
 <tr class="even">
 <td>2/26/18</td>
 <td>Undecidable problems</td>
-<td>Z. Cai</td>
+<td>Z. Cai and R. carr</td>
 <td></td>
 </tr>
 <tr class="odd">
 <td>2/28/18</td>
 <td>Enumerability</td>
-<td>L. Leung</td>
+<td>L. Leung and E. Chang</td>
 <td>A5 due</td>
 </tr>
 <tr class="even">
 <td>3/5/18</td>
 <td>Midterm review</td>
-<td></td>
+<td>M.e Bancilhon and E. Lim</td>
 <td></td>
 </tr>
 <tr class="odd">
 <td>3/7/18</td>
-<td>Context-free languages and push-down automata</td>
-<td>T. Xiao</td>
+<td>Context-free languages</td>
+<td>T. Xiao and O. Ibrahim</td>
 <td>Exam 1 Due</td>
 </tr>
 <tr class="even">
@@ -323,7 +427,7 @@ $(document).ready(function () {
 <tr class="odd">
 <td>3/21/18</td>
 <td>Mapping reducibility</td>
-<td></td>
+<td>S. Ibrahim and Y. Du</td>
 <td></td>
 </tr>
 <tr class="even">
@@ -341,25 +445,25 @@ $(document).ready(function () {
 <tr class="even">
 <td>4/2/18</td>
 <td>Application: introduction to cryptography</td>
-<td>T. Liu</td>
+<td>T. Liu and Y. Lyu</td>
 <td></td>
 </tr>
 <tr class="odd">
 <td>4/4/18</td>
 <td>Pseudorandom generators, one-way functions</td>
-<td>R. Wang</td>
+<td>R. Wang and P. Chaudhary</td>
 <td>A7 due</td>
 </tr>
 <tr class="even">
 <td>4/9/18</td>
 <td>More complexity theory</td>
-<td></td>
+<td>Kristen and R. Ru</td>
 <td></td>
 </tr>
 <tr class="odd">
 <td>4/11/18</td>
 <td>NP-completeness</td>
-<td></td>
+<td>C. Lee</td>
 <td></td>
 </tr>
 <tr class="even">
