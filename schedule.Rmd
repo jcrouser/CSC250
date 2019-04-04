@@ -22,15 +22,15 @@ The following schedule is subject to change at any time.
 | 3/14/18  | BREAK |||
 | 3/19/18  | More on enumerators |I. Berrada and N. Majid||
 | 3/21/18  | Mapping reducibility |S. Ibrahim and Y. Du||
-| 3/26/18  | Rice's Theorem |||
+| 3/26/18  | Rice's Theorem |N. Yu||
 | 3/28/18  | Computational complexity ||A6 due|
 | 4/2/18   | Application: introduction to cryptography |T. Liu and Y. Lyu||
 | 4/4/18   | Pseudorandom generators, one-way functions |R. Wang and P. Chaudhary|A7 due|
 | 4/9/18  | More complexity theory |Kristen and R. Ru||
-| 4/11/18  | NP-completeness |C. Lee||
+| 4/11/18  | NP-completeness |C. Lee and M. Pan||
 | 4/16/18  | Probabilistic TMs ||A8 due|
 | 4/18/18  | Zero-knowledge proofs |R. Vushe||
 | 4/23/18  | Student Presentations |||
 | 4/25/18  | Student Presentations |||
-| 4/30/18   | Student Presentations ||Final Project Post Due|
+| 4/30/18   | Student Presentations | J. Nyoike|Final Project Post Due|
 | 5/2/18   | NO CLASS (WEDNESDAY SCHEDULE) |||
