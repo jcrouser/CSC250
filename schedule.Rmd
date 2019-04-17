@@ -28,7 +28,7 @@ The following schedule is subject to change at any time.
 | 4/4/18   | Pseudorandom generators, one-way functions |R. Wang and P. Chaudhary|A7 due|
 | 4/9/18  | More complexity theory |Kristen and R. Ru||
 | 4/11/18  | NP-completeness |C. Lee and M. Pan||
-| 4/16/18  | Probabilistic TMs ||A8 due|
+| 4/16/18  | Probabilistic TMs | J. Smith and T. Green|A8 due|
 | 4/18/18  | Zero-knowledge proofs |R. Vushe||
 | 4/23/18  | Student Presentations |||
 | 4/25/18  | Student Presentations |||
