@@ -28,7 +28,7 @@ title: "Final Projects"
 8. <strong>Ethereum and Theory of Computation</strong>	Eindra Kyi, Tina Liu
 
 <hr>
-**TUESDAY 4/30: HISTORY AND GAMES PT. 1**
+**TUESDAY 4/30: SECURITY, MUSIC, and OPEN QUESTIONS**
 </hr>
 
 1. <strong>RSA algorithm</strong>	Artemis Metaxa, Melanie Bancilhon
