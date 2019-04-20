@@ -6,36 +6,36 @@ title: "Final Projects"
 **TUESDAY 4/23: DAY 1 REQUESTS, CLASSIC PROBLEMS and COOL APPLICATIONS**
 <hr>
 
-1.	<strong>Evil Regular Expressions (ReDoS)</strong>	Tiffany Xiao, Jingyu Chen, Yun Lyu
-2.	<strong>Art gallery problem</strong>	Sherri Lin and Sherry Cai
-3.	<strong>Travelling Salesman Problem</strong>	Rebecca Wang
-4.	<strong>The Complexity of Checkers on an N x N Board - Preliminary Report</strong>	Maddy Fox, Elizabeth Carney, Josephine Nyoike, Prayasha Chaudhary
-5.	<strong>How DNA can help sovle NP-complete problems</strong> 	Bushra Tasneem, Ratidzo Vushe, Umeyma Ibrahim
-6.	<strong>Dance Choreography is NP complete</strong>	Emily Rhyu and Rowena Balasubramani 
-7.	<strong>"Romace is so complex" (NP-completeness of romance languges)</strong>	Jessica Hernandez, Cathy Lee
+1.	Tiffany Xiao, Jingyu Chen, and Yun Lyu: <strong>Evil Regular Expressions (ReDoS)</strong> ([article](https://msdn.microsoft.com/en-au/magazine/ff646973.aspx)) 
+2.	Sherri Lin and Sherry Cai: <strong>Art gallery problem</strong>	([article](https://en.wikipedia.org/wiki/Art_gallery_problem))
+3.	Rebecca Wang: <strong>Travelling Salesman</strong> ([article](https://en.wikipedia.org/wiki/Travelling_salesman_problem))
+4. Maddy Fox, Elizabeth Carney, Josephine Nyoike, and Prayasha Chaudhary:	<strong>The Complexity of Checkers on an N x N Board</strong> ([article](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=4567962))
+5.	Bushra Tasneem, Ratidzo Vushe, and Umeyma Ibrahim: <strong>How DNA can help sovle NP-complete problems</strong> ([article](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.54.8878&rep=rep1&type=pdf))
+6. Emily Rhyu and Rowena Balasubramani: 	<strong>Dance Choreography is NP complete</strong>	([article](http://dl6.globalstf.org/index.php/joc/article/download/1092/1025))
+7.	Jessica Hernandez and Cathy Lee: <strong>"Romance is so complex" (NP-completeness of romance languages)</strong>	([article](https://nlp.stanford.edu/manning/articles/romance.pdf))
 
 <hr>
 **THURSDAY 4/25: GAMES and CRYPTOCURRENCY**
 <hr>
 
-1. <strong>Computational Hardness of Nintendo Games</strong>	Ester Zhao, Michelle Tsai Gomez, Charlotte Gephart, Sophie Li
-2. <strong>Tetris N-P Hard</strong>	Lola Roberts, Helen Du, Chris Tan
-3. <strong>2048 is NP-Hard</strong>	Alexis Kilayko, Libby Leung
-4. <strong>Sudoku Clues Problem</strong>	Grace Bratzel, Iver Warburton
-5. <strong>Discussing NP-Completeness of Sudoku Game</strong>	Kristen Huang, Nox Yu, Ruby Ru
-6. <strong>Solving Rubik's Cube Optimally is NP-complete</strong>	Nukhbah Majid, Imane Berrada, Wakana Ninohira
-7. <strong>Bitcoin</strong>	Rachel Carr, May, Lisette, Shehrbano
-8. <strong>Ethereum and Theory of Computation</strong>	Eindra Kyi, Tina Liu
+1. Ester Zhao, Michelle Tsai Gomez, Charlotte Gephart, and Sophie Li: <strong>Computational Hardness of Nintendo Games</strong> ([article](https://arxiv.org/pdf/1203.1895.pdf))
+2. Lola Roberts, Helen Du, and Chris Tan: <strong>Tetris is NP-Hard</strong>	([article](http://erikdemaine.org/articles/Tetris))
+3. Alexis Kilayko and Libby Leung: <strong>2048 is NP-Hard</strong>	 ([article 1](http://drops.dagstuhl.de/opus/volltexte/2016/5885/pdf/26.pdf), [article 2](https://www.sciencedirect.com/science/article/pii/S0304397518301798"))
+4. Grace Bratzel and Iver Warburton: <strong>Sudoku Clues Problem</strong> ([article](https://www.degruyter.com/downloadpdf/j/comp.2012.2.issue-2/s13537-012-0011-y/s13537-012-0011-y.pdf))
+5. Kristen Huang, Nox Yu, and Ruby Ru: <strong>Discussing NP-Completeness of Sudoku Game</strong> ([article](http://www.cs.ox.ac.uk/people/paul.goldberg/FCS/sudoku.html))
+6. Nukhbah Majid, Imane Berrada, and Wakana Ninohira: <strong>Solving Rubik's Cube Optimally is NP-complete</strong> ([article](http://drops.dagstuhl.de/opus/volltexte/2018/8533/pdf/LIPIcs-STACS-2018-24.pdf))
+7. Rachel Carr, May Smith, Lizette Carpenter, and Shehrbano Ibrahim: <strong>Bitcoin</strong>
+8. Eindra Kyi and Tina Liu: <strong>Ethereum and Theory of Computation</strong> ([article](https://ethereum.github.io/yellowpaper/paper.pdf))
 
 <hr>
 **TUESDAY 4/30: SECURITY, MUSIC, and OPEN QUESTIONS**
 <hr>
 
-1. <strong>RSA algorithm</strong>	Artemis Metaxa, Melanie Bancilhon
-2. <strong>Cryptography using Lava Lamps</strong> 	Kara Van Allen, Michelle Wong, Claire 
-3. <strong>How Quantum Computing Will Affect Cyber-Security</strong>	Virtue Winter
-4. <strong>Can Elliptic Curve Cryptography be Trusted? A Brief Analysis of the Security of a Popular Cryptosystem</strong>	M Mason
-5. <strong>Computational Complexity of Arranging Music</strong>	Hana Sambora, Isabella Brody-Calixto
-6. <strong>Music Generation with Markov Models</strong>	Ella Chang, Eudora Liu
-7. <strong>P = NP vs. P not = NP</strong>	Tasaday Green and Allie Klump
+1. Artemis Metaxa and Melanie Bancilhon: <strong>RSA algorithm</strong> ([article](https://people.csail.mit.edu/rivest/Rsapaper.pdf))
+2. Kara Van Allen, Michelle Wong, and Claire Tepesch: <strong>Cryptography using Lava Lamps</strong> ([article](https://blog.cloudflare.com/lavarand-in-production-the-nitty-gritty-technical-details/))
+3. Virtue Winter: <strong>How Quantum Computing Will Affect Cyber-Security</strong> ([article](https://www.economist.com/science-and-technology/2018/10/20/quantum-computers-will-break-the-encryption-that-protects-the-internet))
+4. M Mason: <strong>Can Elliptic Curve Cryptography be Trusted? A Brief Analysis of the Security of a Popular Cryptosystem</strong> ([article](https://www.isaca.org/Journal/archives/2016/volume-3/Pages/can-elliptic-curve-cryptography-be-trusted.aspx))
+5. Hana Sambora and Isabella Brody-Calixto: <strong>Computational Complexity of Arranging Music</strong> ([article](https://arxiv.org/pdf/1607.04220.pdf))
+6. Ella Chang and Eudora Liu: <strong>Music Generation with Markov Models</strong> ([article](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=5492670))
+7. Tasaday Green and Allie Klump: <strong>P = NP vs. P != NP</strong>
 
