@@ -29,7 +29,7 @@ title: "Final Projects"
 
 <hr>
 **TUESDAY 4/30: SECURITY, MUSIC, and OPEN QUESTIONS**
-</hr>
+<hr>
 
 1. <strong>RSA algorithm</strong>	Artemis Metaxa, Melanie Bancilhon
 2. <strong>Cryptography using Lava Lamps</strong> 	Kara Van Allen, Michelle Wong, Claire 
