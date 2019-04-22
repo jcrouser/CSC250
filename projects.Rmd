@@ -9,10 +9,11 @@ title: "Final Projects"
 1.	Tiffany Xiao, Jingyu Chen, and Yun Lyu: <strong>Evil Regular Expressions (ReDoS)</strong> ([article](https://msdn.microsoft.com/en-au/magazine/ff646973.aspx)) 
 2.	Sherri Lin and Sherry Cai: <strong>Art gallery problem</strong>	([article](https://en.wikipedia.org/wiki/Art_gallery_problem))
 3.	Rebecca Wang: <strong>Travelling Salesman</strong> ([article](https://en.wikipedia.org/wiki/Travelling_salesman_problem))
-4. Maddy Fox, Elizabeth Carney, Josephine Nyoike, and Prayasha Chaudhary:	<strong>The Complexity of Checkers on an N x N Board</strong> ([article](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=4567962))
-5.	Bushra Tasneem, Ratidzo Vushe, and Umeyma Ibrahim: <strong>How DNA can help sovle NP-complete problems</strong> ([article](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.54.8878&rep=rep1&type=pdf))
-6. Emily Rhyu and Rowena Balasubramani: 	<strong>Dance Choreography is NP complete</strong>	([article](http://dl6.globalstf.org/index.php/joc/article/download/1092/1025))
-7.	Jessica Hernandez and Cathy Lee: <strong>"Romance is so complex" (NP-completeness of romance languages)</strong>	([article](https://nlp.stanford.edu/manning/articles/romance.pdf))
+4. Lillian Jiang and Meredith Pan: <strong>Graph Coloring</strong> ([article](https://brilliant.org/wiki/graph-coloring-and-chromatic-numbers/))
+5. Maddy Fox, Elizabeth Carney, Josephine Nyoike, and Prayasha Chaudhary:	<strong>The Complexity of Checkers on an N x N Board</strong> ([article](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=4567962))
+6.	Bushra Tasneem, Ratidzo Vushe, and Umeyma Ibrahim: <strong>How DNA can help solve NP-complete problems</strong> ([article](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.54.8878&rep=rep1&type=pdf))
+7. Emily Rhyu and Rowena Balasubramani: 	<strong>Dance Choreography is NP complete</strong>	([article](http://dl6.globalstf.org/index.php/joc/article/download/1092/1025))
+8.	Jessica Hernandez and Cathy Lee: <strong>"Romance is so complex" (NP-completeness of romance languages)</strong>	([article](https://nlp.stanford.edu/manning/articles/romance.pdf))
 
 <hr>
 **THURSDAY 4/25: GAMES and CRYPTOCURRENCY**
