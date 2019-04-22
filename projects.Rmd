@@ -25,7 +25,7 @@ title: "Final Projects"
 4. Grace Bratzel and Iver Warburton: <strong>Sudoku Clues Problem</strong> ([article](https://www.degruyter.com/downloadpdf/j/comp.2012.2.issue-2/s13537-012-0011-y/s13537-012-0011-y.pdf))
 5. Kristen Huang, Nox Yu, and Ruby Ru: <strong>Discussing NP-Completeness of Sudoku Game</strong> ([article](http://www.cs.ox.ac.uk/people/paul.goldberg/FCS/sudoku.html))
 6. Nukhbah Majid, Imane Berrada, and Wakana Ninohira: <strong>Solving Rubik's Cube Optimally is NP-complete</strong> ([article](http://drops.dagstuhl.de/opus/volltexte/2018/8533/pdf/LIPIcs-STACS-2018-24.pdf))
-7. Rachel Carr, May Smith, Lizette Carpenter, and Shehrbano Ibrahim: <strong>Bitcoin</strong>
+7. Rachel Carr, May Smith, Lizette Carpenter, and Shehrbano Ibrahim: <strong>Mining Bitcoin is NP-Hard</strong> ([article](https://freedom-to-tinker.com/2014/10/27/bitcoin-mining-is-np-hard/))
 8. Eindra Kyi and Tina Liu: <strong>Ethereum and Theory of Computation</strong> ([article](https://ethereum.github.io/yellowpaper/paper.pdf))
 
 <hr>
@@ -38,5 +38,5 @@ title: "Final Projects"
 4. M Mason: <strong>Can Elliptic Curve Cryptography be Trusted? A Brief Analysis of the Security of a Popular Cryptosystem</strong> ([article](https://www.isaca.org/Journal/archives/2016/volume-3/Pages/can-elliptic-curve-cryptography-be-trusted.aspx))
 5. Hana Sambora and Isabella Brody-Calixto: <strong>Computational Complexity of Arranging Music</strong> ([article](https://arxiv.org/pdf/1607.04220.pdf))
 6. Ella Chang and Eudora Liu: <strong>Music Generation with Markov Models</strong> ([article](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=5492670))
-7. Tasaday Green and Allie Klump: <strong>P = NP vs. P != NP</strong>
+7. Tasaday Green and Allie Klump: <strong>P = NP vs. P != NP</strong> ([article](https://www.scottaaronson.com/papers/pvsnp.pdf))
 
