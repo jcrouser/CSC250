@@ -36,7 +36,7 @@ title: "Final Projects"
 2. Kara Van Allen, Michelle Wong, and Claire Tepesch: <strong>Cryptography using Lava Lamps</strong> ([article](https://blog.cloudflare.com/lavarand-in-production-the-nitty-gritty-technical-details/))
 3. Virtue Winter: <strong>How Quantum Computing Will Affect Cyber-Security</strong> ([article](https://www.economist.com/science-and-technology/2018/10/20/quantum-computers-will-break-the-encryption-that-protects-the-internet))
 4. M Mason: <strong>Can Elliptic Curve Cryptography be Trusted? A Brief Analysis of the Security of a Popular Cryptosystem</strong> ([article](https://www.isaca.org/Journal/archives/2016/volume-3/Pages/can-elliptic-curve-cryptography-be-trusted.aspx))
-5. Hana Sambora and Isabella Brody-Calixto: <strong>Computational Complexity of Arranging Music</strong> ([article](https://arxiv.org/pdf/1607.04220.pdf))
+5. Hana Sambora, Aurora Lopez, and Isabella Brody-Calixto: <strong>Computational Complexity of Arranging Music</strong> ([article](https://arxiv.org/pdf/1607.04220.pdf))
 6. Ella Chang and Eudora Liu: <strong>Music Generation with Markov Models</strong> ([article](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=5492670))
 7. Tasaday Green and Allie Klump: <strong>P = NP vs. P != NP</strong> ([article](https://www.scottaaronson.com/papers/pvsnp.pdf))
 
