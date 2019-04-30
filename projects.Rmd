@@ -20,11 +20,11 @@ title: "Final Projects"
 <hr>
 
 1. Ester Zhao, Michelle Tsai Gomez, Charlotte Gephart, and Sophie Li: <strong>[Computational Hardness of Nintendo Games](projects/nintendo.html)</strong> ([article](https://arxiv.org/pdf/1203.1895.pdf))
-2. Lola Roberts, Helen Du, and Chris Tan: <strong>[Tetris is NP-Hard](projects/tetris)</strong>	([article](http://erikdemaine.org/articles/Tetris))
-3. Alexis Kilayko and Libby Leung: <strong>[2048 is NP-Hard](projects/2018)</strong>	 ([article 1](http://drops.dagstuhl.de/opus/volltexte/2016/5885/pdf/26.pdf), [article 2](https://www.sciencedirect.com/science/article/pii/S0304397518301798"))
+2. Lola Roberts, Helen Du, and Chris Tan: <strong>[Tetris is NP-Hard](projects/tetris/index.html)</strong>	([article](http://erikdemaine.org/articles/Tetris))
+3. Alexis Kilayko and Libby Leung: <strong>[2048 is NP-Hard](projects/2048/index.html)</strong>	 ([article 1](http://drops.dagstuhl.de/opus/volltexte/2016/5885/pdf/26.pdf), [article 2](https://www.sciencedirect.com/science/article/pii/S0304397518301798"))
 4. Grace Bratzel and Iver Warburton: <strong>[Sudoku Clues Problem](https://sites.google.com/smith.edu/csc-250-theory-of-computation/home?authuser=1)</strong> ([article](https://www.degruyter.com/downloadpdf/j/comp.2012.2.issue-2/s13537-012-0011-y/s13537-012-0011-y.pdf))
 5. Kristen Huang, Nox Yu, and Ruby Ru: <strong>Discussing NP-Completeness of Sudoku Game</strong> ([article](http://www.cs.ox.ac.uk/people/paul.goldberg/FCS/sudoku.html))
-6. Nukhbah Majid, Imane Berrada, and Wakana Ninohira: <strong>[Solving Rubik's Cube Optimally is NP-complete](projects/rubiks-cube)</strong> ([article](http://drops.dagstuhl.de/opus/volltexte/2018/8533/pdf/LIPIcs-STACS-2018-24.pdf))
+6. Nukhbah Majid, Imane Berrada, and Wakana Ninohira: <strong>[Solving Rubik's Cube Optimally is NP-complete](projects/rubiks-cube/index.html)</strong> ([article](http://drops.dagstuhl.de/opus/volltexte/2018/8533/pdf/LIPIcs-STACS-2018-24.pdf))
 7. Rachel Carr, May Smith, Lizette Carpenter, and Shehrbano Ibrahim: <strong>Mining Bitcoin is NP-Hard</strong> ([article](https://freedom-to-tinker.com/2014/10/27/bitcoin-mining-is-np-hard/))
 8. Eindra Kyi and Tina Liu: <strong>Ethereum and Theory of Computation</strong> ([article](https://ethereum.github.io/yellowpaper/paper.pdf))
 
