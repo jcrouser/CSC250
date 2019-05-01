@@ -10,10 +10,11 @@ title: "Final Projects"
 2.	Sherri Lin and Sherry Cai: <strong>[Art gallery problem](projects/art-gallery.html)</strong>	([article](https://en.wikipedia.org/wiki/Art_gallery_problem))
 3.	Rebecca Wang: <strong>[Travelling Salesman](projects/TSP.html)</strong> ([article](https://en.wikipedia.org/wiki/Travelling_salesman_problem))
 4. Lillian Jiang and Meredith Pan: <strong>[Graph Coloring](https://github.com/shiqipan/merrrr/wiki/Graph-Coloring)</strong> ([article](https://brilliant.org/wiki/graph-coloring-and-chromatic-numbers/))
-5. Maddy Fox, Elizabeth Carney, Josephine Nyoike, and Prayasha Chaudhary:	<strong>The Complexity of Checkers on an N x N Board</strong> ([article](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=4567962))
-6.	Bushra Tasneem, Ratidzo Vushe, and Umeyma Ibrahim: <strong>How DNA can help solve NP-complete problems</strong> ([article](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.54.8878&rep=rep1&type=pdf))
-7. Emily Rhyu and Rowena Balasubramani: 	<strong>Dance Choreography is NP complete</strong>	([article](http://dl6.globalstf.org/index.php/joc/article/download/1092/1025))
-8.	Jessica Hernandez and Cathy Lee: <strong>"Romance is so complex" (NP-completeness of romance languages)</strong>	([article](https://nlp.stanford.edu/manning/articles/romance.pdf))
+5. Maddy Fox, Elizabeth Carney, Josephine Nyoike, and Prayasha Chaudhary:	<strong>[The Complexity of Checkers on an N x N Board](projects/checkers.html)</strong> ([article](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=4567962))
+6.	Bushra Tasneem, Ratidzo Vushe, and Umeyma Ibrahim: <strong>[How DNA can help solve NP-complete problems](projects/DNA.html)</strong> ([article](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.54.8878&rep=rep1&type=pdf))
+7. Emily Rhyu and Rowena Balasubramani: 	<strong>[Dance Choreography is NP complete](https://unicornofthesea99.github.io/Choreographing-Complexity/)</strong>	([article](http://dl6.globalstf.org/index.php/joc/article/download/1092/1025))
+8.	Jessica Hernandez and Cathy Lee: <strong>[Bejeweled, Candy Crush and other Match-Three
+Games are (NP-)Hard](https://sites.google.com/smith.edu/np-hardnessofmatch-3games/)</strong>	([article](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=6932866&tag=1))
 
 <hr>
 **THURSDAY 4/25: GAMES and CRYPTOCURRENCY**
@@ -23,20 +24,20 @@ title: "Final Projects"
 2. Lola Roberts, Helen Du, and Chris Tan: <strong>[Tetris is NP-Hard](projects/tetris/index.html)</strong>	([article](http://erikdemaine.org/articles/Tetris))
 3. Alexis Kilayko and Libby Leung: <strong>[2048 is NP-Hard](projects/2048/index.html)</strong>	 ([article 1](http://drops.dagstuhl.de/opus/volltexte/2016/5885/pdf/26.pdf), [article 2](https://www.sciencedirect.com/science/article/pii/S0304397518301798"))
 4. Grace Bratzel and Iver Warburton: <strong>[Sudoku Clues Problem](https://sites.google.com/smith.edu/csc-250-theory-of-computation/)</strong> ([article](https://www.degruyter.com/downloadpdf/j/comp.2012.2.issue-2/s13537-012-0011-y/s13537-012-0011-y.pdf))
-5. Kristen Huang, Nox Yu, and Ruby Ru: <strong>Discussing NP-Completeness of Sudoku Game</strong> ([article](http://www.cs.ox.ac.uk/people/paul.goldberg/FCS/sudoku.html))
+5. Kristen Huang, Nox Yu, and Ruby Ru: <strong>[Discussing NP-Completeness of Sudoku Game](projects/sudoku.html)</strong> ([article](http://www.cs.ox.ac.uk/people/paul.goldberg/FCS/sudoku.html))
 6. Nukhbah Majid, Imane Berrada, and Wakana Ninohira: <strong>[Solving Rubik's Cube Optimally is NP-complete](projects/rubiks-cube/index.html)</strong> ([article](http://drops.dagstuhl.de/opus/volltexte/2018/8533/pdf/LIPIcs-STACS-2018-24.pdf))
-7. Rachel Carr, May Smith, Lizette Carpenter, and Shehrbano Ibrahim: <strong>Mining Bitcoin is NP-Hard</strong> ([article](https://freedom-to-tinker.com/2014/10/27/bitcoin-mining-is-np-hard/))
-8. Eindra Kyi and Tina Liu: <strong>Ethereum and Theory of Computation</strong> ([article](https://ethereum.github.io/yellowpaper/paper.pdf))
+7. Rachel Carr, May Smith, Lizette Carpenter, and Shehrbano Ibrahim: <strong>[Mining Bitcoin is NP-Hard](projects/bitcoin.html)</strong> ([article](https://freedom-to-tinker.com/2014/10/27/bitcoin-mining-is-np-hard/))
+8. Eindra Kyi and Tina Liu: <strong>[Ethereum and Theory of Computation](projects/etherium.html)</strong> ([article](https://ethereum.github.io/yellowpaper/paper.pdf))
 
 <hr>
 **TUESDAY 4/30: SECURITY, MUSIC, and OPEN QUESTIONS**
 <hr>
 
 1. Artemis Metaxa and Melanie Bancilhon: <strong>[RSA algorithm](projects/RSA.html)</strong> ([article](https://people.csail.mit.edu/rivest/Rsapaper.pdf))
-2. Kara Van Allen, Michelle Wong, and Claire Tepesch: <strong>[Cryptography using Lava Lamps]](projects/LAVArand.html)</strong> ([article](https://blog.cloudflare.com/lavarand-in-production-the-nitty-gritty-technical-details/))
-3. Virtue Winter: <strong>How Quantum Computing Will Affect Cyber-Security</strong> ([article](https://www.economist.com/science-and-technology/2018/10/20/quantum-computers-will-break-the-encryption-that-protects-the-internet))
-4. M Mason: <strong>Can Elliptic Curve Cryptography be Trusted? A Brief Analysis of the Security of a Popular Cryptosystem</strong> ([article](https://www.isaca.org/Journal/archives/2016/volume-3/Pages/can-elliptic-curve-cryptography-be-trusted.aspx))
+2. Kara Van Allen, Michelle Wong, and Claire Tepesch: <strong>[Cryptography using Lava Lamps](projects/LAVArand.html)</strong> ([article](https://blog.cloudflare.com/lavarand-in-production-the-nitty-gritty-technical-details/))
+3. Virtue Winter: <strong>[How Quantum Computing Will Affect Cyber-Security](projects/qbits.html)</strong> ([article](https://www.economist.com/science-and-technology/2018/10/20/quantum-computers-will-break-the-encryption-that-protects-the-internet))
+4. M Mason: <strong>[Can Elliptic Curve Cryptography be Trusted? A Brief Analysis of the Security of a Popular Cryptosystem](projects/NSA.html)</strong> ([article](https://www.isaca.org/Journal/archives/2016/volume-3/Pages/can-elliptic-curve-cryptography-be-trusted.aspx))
 5. Hana Sambora, Aurora Lopez, and Isabella Brody-Calixto: <strong>[Computational Complexity of Arranging Music](projects/arranging-music.html)</strong> ([article](https://arxiv.org/pdf/1607.04220.pdf))
-6. Ella Chang and Eudora Liu: <strong>Music Generation with Markov Models</strong> ([article](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=5492670))
-7. Tasaday Green and Allie Klump: <strong>P = NP vs. P != NP</strong> ([article](https://www.scottaaronson.com/papers/pvsnp.pdf))
+6. Ella Chang and Eudora Liu: <strong>[Music Generation with Markov Models](https://musicgeneration.home.blog/)</strong> ([article](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=5492670))
+7. Tasaday Green and Allie Klump: <strong>[P = NP vs. P != NP](projects/PvsNP.html)</strong> ([article](https://www.scottaaronson.com/papers/pvsnp.pdf))
 
