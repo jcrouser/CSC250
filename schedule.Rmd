@@ -5,32 +5,32 @@ The following schedule is subject to change at any time.
 
 | **Date** | **Topic**  | **Scribes** |  **Assignment** |
 | ---------|------------|-------------|-----------------|
-| 1/24/18  | Introduction |||
-| 1/29/18  | Logic and Proofs |E. Zhao and V. Winter||
-| 1/31/18  | Regular languages and expressions |E. Rhyu and M |A1 due|
-| 2/5/18   | Finite Automata (DFAs and NFAs) |B. Tasneem and A. Metaxa ||
-| 2/7/18   | DFAs, NFAs and Regular Expressions |S. Li and K. VanAllen |A2 due|
-| 2/12/18  | Non-regular languages, pumping lemma |E. Kyi and M. Tsai Gomez||
-| 2/14/18  | Turing Machines |C. Gephart and L. Carpenter|A3 due|
-| 2/19/18  | Decidability |C. Tan and E. Carney||
-| 2/21/18  | More on decidability |G. Bratzel and I. Warburton|A4 due|
-| 2/26/18  | Undecidable problems |Z. Cai and R. carr||
-| 2/28/18  | Enumerability |L. Leung and E. Chang|A5 due|
-| 3/5/18   | Midterm review |M.e Bancilhon and E. Lim||
-| 3/7/18   | Context-free languages |T. Xiao and O. Ibrahim| Exam 1 Due |
-| 3/12/18  | SPRING |||
-| 3/14/18  | BREAK |||
-| 3/19/18  | More on enumerators |I. Berrada and N. Majid||
-| 3/21/18  | Mapping reducibility |S. Ibrahim and Y. Du||
-| 3/26/18  | Rice's Theorem |N. Yu||
-| 3/28/18  | Computational complexity ||A6 due|
-| 4/2/18   | Application: introduction to cryptography |T. Liu and Y. Lyu||
-| 4/4/18   | Pseudorandom generators, one-way functions |R. Wang and P. Chaudhary|A7 due|
-| 4/9/18  | More complexity theory |Kristen and R. Ru||
-| 4/11/18  | NP-completeness |C. Lee and M. Pan||
-| 4/16/18  | Probabilistic TMs | J. Smith and T. Green|A8 due|
-| 4/18/18  | Semester Review |R. Vushe||
-| 4/23/18  | Student Presentations |||
-| 4/25/18  | Student Presentations |||
-| 4/30/18   | Student Presentations |J. Nyoike|Final Project Post Due|
-| 5/2/18   | NO CLASS (WEDNESDAY SCHEDULE) |||
+| 1/28/20  | Introduction |||
+| 1/20/20  | Logic and Proofs |||
+| 2/4/20   | Regular languages and expressions ||A1 due|
+| 2/6/20   | Finite Automata (DFAs and NFAs) |||
+| 2/11/20  | DFAs, NFAs and Regular Expressions ||A2 due|
+| 2/13/20  | Non-regular languages, pumping lemma |||
+| 2/18/20  | Turing Machines ||A3 due|
+| 2/20/20  | Decidability |||
+| 2/25/20  | More on decidability ||A4 due|
+| 2/27/20  | Undecidable problems |||
+| 3/3/20   | Enumerability ||A5 due|
+| 3/5/20  | More on enumerators |||
+| 3/10/20   | Midterm review |||
+| 3/12/20   | Context-free languages || Exam 1 Due |
+| 3/17/20  | SPRING |||
+| 3/19/20  | BREAK |||
+| 3/24/20  | Mapping reducibility |||
+| 3/26/20  | Rice's Theorem |||
+| 3/31/20  | Computational complexity ||A6 due|
+| 4/2/20   | Application: introduction to cryptography |||
+| 4/4/20   | Pseudorandom generators, one-way functions ||A7 due|
+| 4/7/20  | More complexity theory |||
+| 4/9/20  | NP-completeness |||
+| 4/14/20  | Probabilistic TMs ||A8 due|
+| 4/16/20  | Semester Review |||
+| 4/21/20  | Student Presentations |||
+| 4/23/20  | Student Presentations |||
+| 4/28/20   | Student Presentations |||
+| 4/30/20   | Student Presentations ||Final Project Post Due|
