@@ -7,15 +7,15 @@ The following schedule is subject to change at any time.
 | ---------|------------|-------------|-----------------|
 | 1/28/20  | Introduction |||
 | 1/20/20  | Logic and Proofs |||
-| 2/4/20   | **Regular languages and expressions (activity)** ||A1 due|
+| 2/4/20   | Regular languages and expressions ||A1 due|
 | 2/6/20   | Finite Automata (DFAs and NFAs) |||
 | 2/11/20  | DFAs, NFAs and Regular Expressions ||A2 due|
-| 2/13/20  | **Non-regular languages, pumping lemma (proof)** |||
+| 2/13/20  | Non-regular languages, pumping lemma |||
 | 2/18/20  | Turing Machines ||A3 due|
 | 2/20/20  | Decidability |||
-| 2/25/20  | **More on decidability (activity)** ||A4 due|
-| 2/27/20  | **Undecidable problems (proof)** |||
-| 3/3/20   | **Enumerability (proof)** ||A5 due|
+| 2/25/20  | More on decidability ||A4 due|
+| 2/27/20  | Undecidable problems |||
+| 3/3/20   | Enumerability ||A5 due|
 | 3/5/20   | More on enumerators |||
 | 3/10/20  | Midterm review |||
 | 3/12/20  | Context-free languages || Exam 1 Due |
