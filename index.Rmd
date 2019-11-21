@@ -2,7 +2,7 @@
 title: "CSC250 - Theory of Computation"
 ---
 
-**Instructor:** [R. Jordan Crouser](http://www.science.smith.edu/~jcrouser/)
+**Instructor:** [R. Jordan Crouser](http://jcrouser.github.io/)
 
 <!--**Grader:** [Ananya Ganesh](https://www.linkedin.com/in/ananyaganesh/)-->
 
