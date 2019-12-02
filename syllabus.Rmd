@@ -11,7 +11,7 @@ There is no required textbook for the course. However, there are several recomme
 - Critchlow, Carol and David Eck. [Foundations of Computation](http://math.hws.edu/FoundationsOfComputation/). Available free online.
 
 <hr>
-##Communication expectations
+## Communication expectations
 All written communication regarding this course will take place via [slack](http://csc250-s19.slack.com/) (a cloud-based team
 collaboration tool used by many tech companies for internal communication). This includes:
 
