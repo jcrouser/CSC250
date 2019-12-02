@@ -12,7 +12,7 @@ There is no required textbook for the course. However, there are several recomme
 
 <hr>
 ## Communication expectations
-All written communication regarding this course will take place via [slack](http://csc250-s19.slack.com/) (a cloud-based team
+All written communication regarding this course will take place via [slack](http://www.slack.com/) (a cloud-based team
 collaboration tool used by many tech companies for internal communication). This includes:
 
 - announcements (in the #general channel)
