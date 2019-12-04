@@ -9,10 +9,10 @@ navbar:
       href: syllabus.html
     - text: "Schedule"
       href: schedule.html
-    #- text: "Moodle"
-      #href: https://moodle.smith.edu/course/view.php?id=33002
-    #- text: "Slack"
-      #href: http://csc250-s19.slack.com
+    - text: "Moodle"
+      href: https://moodle.smith.edu/course/view.php?id=36569
+    - text: "Slack"
+      href: http://csc250-s20.slack.com
 output:
   html_document:
     theme: flatly
