@@ -6,7 +6,7 @@ The following schedule is subject to change at any time.
 | **Date** | **Topic**  | **Scribes** |  **Assignment** |
 | ---------|------------|-------------|-----------------|
 | 1/28/20  | Introduction |||
-| 1/20/20  | Logic and Proofs |||
+| 1/30/20  | Logic and Proofs |||
 | 2/4/20   | Regular languages and expressions ||A1 due|
 | 2/6/20   | Finite Automata (DFAs and NFAs) |||
 | 2/11/20  | DFAs, NFAs and Regular Expressions ||A2 due|
@@ -25,12 +25,11 @@ The following schedule is subject to change at any time.
 | 3/26/20  | Rice's Theorem |||
 | 3/31/20  | Computational complexity ||A6 due|
 | 4/2/20   | Application: introduction to cryptography |||
-| 4/4/20   | Pseudorandom generators, one-way functions ||A7 due|
-| 4/7/20  | More complexity theory |||
-| 4/9/20  | NP-completeness |||
-| 4/14/20  | Probabilistic TMs ||A8 due|
-| 4/16/20  | Semester Review |||
-| 4/21/20  | Student Presentations |||
+| 4/7/20   | Pseudorandom generators, one-way functions ||A7 due|
+| 4/9/20  | More complexity theory |||
+| 4/14/20  | NP-completeness |||
+| 4/16/20  | Probabilistic TMs ||A8 due|
+| 4/21/20  | Semester Review |||
 | 4/23/20  | Student Presentations |||
 | 4/28/20   | Student Presentations |||
 | 4/30/20   | Student Presentations ||Final Project Post Due|
