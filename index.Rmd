@@ -4,7 +4,7 @@ title: "CSC250 - Theory of Computation"
 
 **Instructor:** [R. Jordan Crouser](http://jcrouser.github.io/)
 
-<!--**Grader:** [Ananya Ganesh](https://www.linkedin.com/in/ananyaganesh/)-->
+**Grader:** [Ajinkya Ghadge](https://www.linkedin.com/in/ajinkyaghadge/)
 
 **Course meeting times:** Tuesday and Thursday 10:50am - 12:05pm
 
