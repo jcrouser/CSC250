@@ -7,26 +7,26 @@ The following schedule is subject to change at any time.
 | ---------|------------|-------------|-----------------|
 | 1/28/20  | Introduction |||
 | 1/30/20  | Logic and Proofs |||
-| 2/4/20   | Regular languages and expressions ||A1 due|
-| 2/6/20   | Finite Automata (DFAs and NFAs) |||
-| 2/11/20  | DFAs, NFAs and Regular Expressions ||A2 due|
-| 2/13/20  | Non-regular languages, pumping lemma |||
-| 2/18/20  | Context-free languages and Push-down Automata ||A3 due|
-| 2/20/20  | Turing Machines |||
-| 2/25/20  | Decidability ||A4 due|
-| 2/27/20  | More on decidability |||
-| 3/3/20   | Undecidable problems ||A5 due|
-| 3/5/20   | Enumerability |||
+| 2/4/20   | Regular languages and expressions |||
+| 2/6/20   | Finite Automata (DFAs and NFAs) ||A1 due|
+| 2/11/20  | DFAs, NFAs and Regular Expressions |||
+| 2/13/20  | Non-regular languages, pumping lemma ||A2 due|
+| 2/18/20  | Context-free languages and Push-down Automata |||
+| 2/20/20  | Turing Machines ||A3 due|
+| 2/25/20  | Decidability |||
+| 2/27/20  | More on decidability ||A4 due|
+| 3/3/20   | Undecidable problems |||
+| 3/5/20   | Enumerability ||A5 due|
 | 3/10/20  | Midterm review |||
-| 3/12/20  | More on enumerators || Exam 1 Due |
+| 3/12/20  | More on enumerators || Exam 1 Due Friday |
 | 3/17/20  | SPRING |||
 | 3/19/20  | BREAK |||
 | 3/24/20  | Mapping reducibility |||
 | 3/26/20  | Rice's Theorem |||
-| 3/31/20  | Computational complexity ||A6 due|
-| 4/2/20   | Application: introduction to cryptography |||
-| 4/7/20   | Pseudorandom generators, one-way functions ||A7 due|
-| 4/9/20  | More complexity theory |||
+| 3/31/20  | Computational complexity |||
+| 4/2/20   | Application: introduction to cryptography ||A6 due|
+| 4/7/20   | Pseudorandom generators, one-way functions |||
+| 4/9/20  | More complexity theory ||A7 due|
 | 4/14/20  | NP-completeness |||
 | 4/16/20  | Probabilistic TMs ||A8 due|
 | 4/21/20  | Semester Review |||
