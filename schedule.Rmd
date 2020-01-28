@@ -5,7 +5,7 @@ The following schedule is subject to change at any time.
 
 | **Date** | **Topic**  | **Scribes** |  **Assignment** |
 | ---------|------------|-------------|-----------------|
-| 1/28/20  | Introduction |||
+| 1/28/20  | [Introduction](https://moodle.smith.edu/mod/resource/view.php?id=525927) |||
 | 1/30/20  | Logic and Proofs |||
 | 2/4/20   | Regular languages and expressions |||
 | 2/6/20   | Finite Automata (DFAs and NFAs) ||A1 due|
