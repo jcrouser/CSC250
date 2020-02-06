@@ -6,9 +6,9 @@ The following schedule is subject to change at any time.
 | **Date** | **Topic**  | **Scribes** |  **Assignment** |
 | ---------|------------|-------------|-----------------|
 | 1/28/20  | [Introduction](https://moodle.smith.edu/mod/resource/view.php?id=525927) |||
-| 1/30/20  | [Logic and Proofs](https://moodle.smith.edu/mod/resource/view.php?id=527937) |||
-| 2/4/20   | Regular languages and expressions |||
-| 2/6/20   | Finite Automata (DFAs and NFAs) ||A1 due|
+| 1/30/20  | [Logic and Proofs](https://moodle.smith.edu/mod/resource/view.php?id=527937) |T. Huang and E. Partakki||
+| 2/4/20   | [Regular languages and expressions](https://moodle.smith.edu/mod/resource/view.php?id=529716) |S. Nachum and K. Cormier||
+| 2/6/20   | Finite Automata (DFAs and NFAs) |Y.J. Ha and S. Crane|A1 due|
 | 2/11/20  | DFAs, NFAs and Regular Expressions |||
 | 2/13/20  | Non-regular languages, pumping lemma ||A2 due|
 | 2/18/20  | Context-free languages and Push-down Automata |||
