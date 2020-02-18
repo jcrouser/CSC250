@@ -11,14 +11,14 @@ The following schedule is subject to change at any time.
 | 2/6/20   | [Finite Automata (DFAs and NFAs)](https://moodle.smith.edu/mod/resource/view.php?id=530363) |Y.J. Ha and S. Crane|A1 due|
 | 2/11/20  | [DFAs, NFAs and Regular Expressions](https://moodle.smith.edu/mod/resource/view.php?id=531687) |R. Jaime and M. Awaisi||
 | 2/13/20  | [Non-regular languages, pumping lemma](https://moodle.smith.edu/mod/resource/view.php?id=532546) |L. Groves and A. Montoly|A2 due|
-| 2/18/20  | Context-free languages and Push-down Automata |S. Matoussi and C.M. Perez||
-| 2/20/20  | Turing Machines |B. Meji and A. Eshghi|A3 due|
-| 2/25/20  | Decidability |E. Dong and F. Adan||
-| 2/27/20  | More on decidability |T. Goldman|A4 due|
-| 3/3/20   | Undecidable problems |E. Kim||
-| 3/5/20   | Enumerability ||A5 due|
+| 2/18/20  | [Turing Machines](https://moodle.smith.edu/mod/resource/view.php?id=533515) |S. Matoussi and C.M. Perez||
+| 2/20/20  | Decidability |B. Meji and A. Eshghi|A3 due|
+| 2/25/20  | More on decidability |E. Dong and F. Adan||
+| 2/27/20  | Undecidable problems |T. Goldman|A4 due|
+| 3/3/20   | Enumerability |E. Kim||
+| 3/5/20   | More on enumerators ||A5 due|
 | 3/10/20  | Midterm review |||
-| 3/12/20  | More on enumerators || Exam 1 Due Friday |
+| 3/12/20  | Context-free languages and Push-down Automata|| Exam 1 Due Friday |
 | 3/17/20  | SPRING |||
 | 3/19/20  | BREAK |||
 | 3/24/20  | Mapping reducibility |D. Nava||
