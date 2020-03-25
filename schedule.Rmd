@@ -1,8 +1,22 @@
 ---
 title: "Schedule"
 ---
-The following schedule is subject to change at any time.
+The following schedule is subject to change at any time. **NOTE:** This schedule was last updated on 18 March 2020 to account adjust for disruptions caused by COVID-19. It will continue to evolve in the coming weeks.
 
+
+<style>
+.two-axis-table tr:nth-child(15),
+.two-axis-table tr:nth-child(16),
+.two-axis-table tr:nth-child(17),
+.two-axis-table tr:nth-child(18) {
+  background: lightgrey;
+}
+.two-axis-table body {
+  padding: 1rem;
+}
+</style>
+
+<div class="ox-hugo-table two-axis-table">
 | **Date** | **Topic**  | **Scribes** |  **Assignment** |
 | ---------|------------|-------------|-----------------|
 | 1/28/20  | [Introduction](https://moodle.smith.edu/mod/resource/view.php?id=525927) |||
@@ -17,19 +31,20 @@ The following schedule is subject to change at any time.
 | 2/27/20  | [Undecidable problems](https://moodle.smith.edu/mod/resource/view.php?id=536118) |T. Goldman and A. Goswami|A4 due|
 | 3/3/20   | [Enumerability](https://moodle.smith.edu/mod/resource/view.php?id=537077) |E. Kim and M. Snoussi||
 | 3/5/20   | [Midterm Review](https://moodle.smith.edu/mod/resource/view.php?id=537520) |I. Monsanto|A5 due|
-| 3/10/20  | Context-free languages and Push-down Automata |||
-| 3/12/20  | More practice with reductions|Z. Miao and C. Jia| Exam 1 Due Friday |
-| 3/17/20  | SPRING |||
-| 3/19/20  | BREAK |||
-| 3/24/20  | Mapping reducibility |D. Nava and A. Moise||
-| 3/26/20  | Rice's Theorem |M. Phan||
-| 3/31/20  | Computational complexity |||
-| 4/2/20   | Application: introduction to cryptography |R. Warholic and Y. Shangguan|A6 due|
-| 4/7/20   | Pseudorandom generators, one-way functions |E. Schatzki-McCain||
-| 4/9/20  | More complexity theory ||A7 due|
-| 4/14/20  | NP-completeness |S. Ali||
-| 4/16/20  | Probabilistic TMs ||A8 due|
+| 3/10/20  | [Context-free languages and Push-down Automata pt.1](https://moodle.smith.edu/mod/resource/view.php?id=538372) |||
+| 3/12/20  | [Context-free languages and Push-down Automata pt.2](https://moodle.smith.edu/mod/resource/view.php?id=538834)|Z. Miao and C. Jia| Exam 1 Due Friday |
+| 3/17/20  |  |||
+| 3/19/20  | |SPRING||
+| 3/24/20  | |BREAK||
+| 3/26/20  |  |||
+| 3/31/20  | More practice with reductions |D. Nava, A. Moise, M. Phan||
+| 4/2/20   | Mapping reductions |R. Warholic and Y. Shangguan||
+| 4/7/20   | Rice's Theorem |E. Schatzki-McCain||
+| 4/9/20  | Computational complexity ||A6 due|
+| 4/14/20  | Application: introduction to cryptography |S. Ali||
+| 4/16/20  | NP-completeness ||A7 due|
 | 4/21/20  | Semester Review |||
-| 4/23/20  | Student Presentations |||
+| 4/23/20  | Student Presentations ||A8 due|
 | 4/28/20   | Student Presentations |||
 | 4/30/20   | Student Presentations ||Final Project Post Due|
+</div>

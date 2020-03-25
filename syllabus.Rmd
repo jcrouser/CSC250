@@ -34,7 +34,7 @@ Students are strongly encouraged to form study groups and to collaborate on prob
 
 <hr>
 ## Examinations and Projects
-There will be two self-scheduled examinations and one final group project in this course.
+There will be ~two self-scheduled examinations~ **one self-scheduled examination, one take-home final examination**, and one final ~group~ project in this course. The project may be conducted independently, or in a small group.
 
 <hr>
 ## Grading	
@@ -48,7 +48,11 @@ There will be two self-scheduled examinations and one final group project in thi
 
 <hr>
 ## Late Policy
-Due to the number of students enrolled in this course, as well as the pace of the material, **no extensions will be given, and no late assignments will be accepted** without a written request from the student's Dean in the case of extenuating circumstances.
+
+**COVID-19 Policy Update**
+The transition to alternate modes of instruction necessitates an adjustment to our contract regarding late submissions. To facilitate time management, the 3 remaining problem sets will have nominal due dates as originally planned. However, because access to in-person help is limited, all students will be **automatically entitled to unlimited resubmission attempts** on A6, A7, and A8 through **May 1st**. Do your best to submit by the deadline, because that will enable me to get you feedback in a timely manner. However, you don't need to worry about getting everything right the first time; you can revise your solutions using my feedback, and resubmit them as many times as you like without penalty.
+
+~~Due to the number of students enrolled in this course, as well as the pace of the material, **no extensions will be given, and no late assignments will be accepted** without a written request from the student's Dean in the case of extenuating circumstances.~~
 
 <hr>
 ## Accommodation
