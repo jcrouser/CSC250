@@ -12,10 +12,10 @@ title: "CSC250 - Theory of Computation"
 
 ~~**Office hours:** Wednesdays 9am-11am (individual) and Thursdays 1pm-3pm (group) in Bass 107~~
 
-**Virtual Drop-In Classroom:** <br/>
+<mark>**Virtual Drop-In Classroom:** <br/></mark>
 https://smith.zoom.us/j/209592518 (password required, see Slack/Moodle)
 
-**Virtual Drop-In Hours:** <br/>
+<mark>**Virtual Drop-In Hours:** <br/></mark>
 Tuesdays and Thursdays 11am - 12pm EST<br/>
 Wednesdays and Fridays 3pm - 4pm EST
 
