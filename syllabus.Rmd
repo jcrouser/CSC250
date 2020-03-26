@@ -75,7 +75,7 @@ Smith is committed to providing support services and reasonable accommodations t
 I am acutely aware that the mid-semester changes to our mode of instruction may require accommodations that have not previously been verified by Disability Services (e.g. increased screen time may exacerbate eye strain, etc.) Please know that I am committed to figuring this out together. If there's something I can do to make this material more accessible for you and you have the spoons to do so, please bring it to my attention.</mark>
 <hr>
 ## Acknowledgement
-Some of the materials used in this course are derived from lectures, notes, or similar courses taught at other institutions. Appropriate references will be included on all such material.
+Some of the materials used in this course are derived from lectures, notes, or similar courses taught at other institutions. Appropriate references will be included on all such material.<br/>
 
 <mark>**COVID-19 Addendum**<br/>
 Smith's transition to alterate modes of instruction would not be possible without the round-the-clock work of the Covid-19 Digital Support Team.</mark>
