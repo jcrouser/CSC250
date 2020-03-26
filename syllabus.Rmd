@@ -1,6 +1,18 @@
 ---
 title: "Syllabus"
+output:
+  html_document:
+    df_print: paged
 ---
+<hr>
+<mark>**COVID-19 Adjustments / Expectation-(re)Setting**</mark><br/>
+Our transition to the "new normal" after Spring Break requires several adjustments to the syllabus and to our overall expectations regarding participation in this course. Specific changes to various course policies are <mark>highlighted</mark> in the sections below, but first I would like to draw your attention to several major structural changes to how this course will run:
+
+ * The 50+ members of this course community are now spread across thousands of geographic miles, spanning at **least 6 hours of time difference**. Moreover, many of us are adapting to a daily rhythm that is markedly different from how we live during a typical semester. This reality makes synchronous interaction as a full group impractical, if not impossible.
+ * Because of this, we are going to adopt a pseudo-<mark>flipped classroom model</mark> moving forward. What this means in practice:
+    * I will <mark>pre-record lectures for each topic</mark> rather than delivering them in real time to the class as a group. I expect that you will watch each one **within a day or two of it being posted**.
+    * I will hold <mark>4 drop-in sessions per week via Zoom</mark>, which will function much like office hours during the first half of the semester: we will work through problem sets together, discuss the material, ask and answer questions, etc. I would like each of you to commit to attending **at least one** of these sessions per week for the remainder of the semester.
+
 <hr>
 ## Course Materials
 There is no required textbook for the course. However, there are several recommended books that some students may find helpful:
@@ -23,7 +35,7 @@ Email is hard to search, response rate is slow, and messages are likely to get l
 
 <hr>
 ## Assignments
-There will be 8 problem sets assigned during the semester. Problem sets will be due by 5pm on Thursday evenings. These problem sets will often ask you to prove theorems, but it is more important to demonstrate understanding than to employ rigor for rigor's sake. For example: a brief description of an algorithm including an illustrative diagram is better than complicated spaghetti code. Additionally, a clear explanation of how you tried to solve a problem and were unsuccessful will receive partial credit. All assignment submissions must be in PDF format, and must be organized and legible (typed is preferable). A [LaTeX template](https://moodle.smith.edu/mod/resource/view.php?id=498358){target="_blank"} is available for typesetting your assignments.
+There will be 8 problem sets assigned during the semester. Problem sets will be due by 5pm on Thursday evenings (<mark>see adaptation to the [Late Policy] below</mark>). These problem sets will often ask you to prove theorems, but it is more important to demonstrate understanding than to employ rigor for rigor's sake. For example: a brief description of an algorithm including an illustrative diagram is better than complicated spaghetti code. Additionally, a clear explanation of how you tried to solve a problem and were unsuccessful will receive partial credit. All assignment submissions must be in PDF format, and must be organized and legible (typed is preferable). A [LaTeX template](https://moodle.smith.edu/mod/resource/view.php?id=498358){target="_blank"} is available for typesetting your assignments.
 
 <hr>
 ## Collaboration and Academic Integrity
@@ -34,7 +46,7 @@ Students are strongly encouraged to form study groups and to collaborate on prob
 
 <hr>
 ## Examinations and Projects
-There will be ~two self-scheduled examinations~ **one self-scheduled examination, one take-home final examination**, and one final ~group~ project in this course. The project may be conducted independently, or in a small group.
+There will be ~two self-scheduled examinations~ <mark>**one self-scheduled examination, one take-home final examination**</mark>, and one final ~~group~~ project in this course. <mark>The project may be conducted independently, or in a small group.</mark>
 
 <hr>
 ## Grading	
@@ -48,16 +60,23 @@ There will be ~two self-scheduled examinations~ **one self-scheduled examination
 
 <hr>
 ## Late Policy
-
-**COVID-19 Policy Update**
-The transition to alternate modes of instruction necessitates an adjustment to our contract regarding late submissions. To facilitate time management, the 3 remaining problem sets will have nominal due dates as originally planned. However, because access to in-person help is limited, all students will be **automatically entitled to unlimited resubmission attempts** on A6, A7, and A8 through **May 1st**. Do your best to submit by the deadline, because that will enable me to get you feedback in a timely manner. However, you don't need to worry about getting everything right the first time; you can revise your solutions using my feedback, and resubmit them as many times as you like without penalty.
-
 ~~Due to the number of students enrolled in this course, as well as the pace of the material, **no extensions will be given, and no late assignments will be accepted** without a written request from the student's Dean in the case of extenuating circumstances.~~
+
+<mark>**COVID-19 Policy Update**<br/>
+The transition to alternate modes of instruction necessitates an adjustment to our contract regarding late submissions. To facilitate time management, the 3 remaining problem sets will have nominal due dates as originally planned. However, because access to in-person help is limited, all students will be **automatically entitled to unlimited resubmission attempts** on A6, A7, and A8 through **May 1st**.</mark>
+
+<mark>Do your best to submit by the deadline, because that will enable me to get you feedback in a timely manner. However, you don't need to worry about getting everything right the first time; you can revise your solutions using my feedback, and resubmit them as many times as you like without penalty.</mark>
 
 <hr>
 ## Accommodation
 Smith is committed to providing support services and reasonable accommodations to all students with disabilities. To request an accommodation, please register with the Disability Services Office at the beginning of the semester. To do so, call (413) 585-2071 to arrange an appointment with Laura Rauscher, Director of Disability Services. 
 
+<mark>**COVID-19 Policy Update**<br/>
+I am acutely aware that the mid-semester changes to our mode of instruction may require accommodations that have not previously been verified by Disability Services (e.g. increased screen time may exacerbate eye strain, etc.) Please know that I am committed to figuring this out together. If there's something I can do to make this material more accessible for you and you have the spoons to do so, please bring it to my attention.</mark>
 <hr>
 ## Acknowledgement
 Some of the materials used in this course are derived from lectures, notes, or similar courses taught at other institutions. Appropriate references will be included on all such material.
+
+<mark>**COVID-19 Addendum**<br/>
+Smith's transition to alterate modes of instruction would not be possible without the round-the-clock work of the Covid-19 Digital Support Team.</mark>
+
