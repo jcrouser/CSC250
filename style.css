@@ -5,3 +5,9 @@ h2 {
 mark {
 	background-color: #fbc405;
 }
+
+@media print {
+  a[href]:after {
+    content: none !important;
+  }
+}
