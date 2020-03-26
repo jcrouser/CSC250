@@ -46,7 +46,7 @@ Students are strongly encouraged to form study groups and to collaborate on prob
 
 <hr>
 ## Examinations and Projects
-There will be ~two self-scheduled examinations~ <mark>**one self-scheduled examination, one take-home final examination**</mark>, and one final ~~group~~ project in this course. <mark>The project may be conducted independently, or in a small group.</mark>
+There will be ~~two self-scheduled examinations~~ <mark>**one self-scheduled examination, one take-home final examination**</mark>, and one final ~~group~~ project in this course. <mark>The project may be conducted independently, or in a small group.</mark>
 
 <hr>
 ## Grading	
