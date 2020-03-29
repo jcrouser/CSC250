@@ -3,7 +3,7 @@ title: "Final Projects"
 ---
 
 <hr>
-COMING SOON!
+2020 PROJECTS COMING SOON!
 <hr>
 
-Looking for inspiration? Check out the projects from [2018](projects-2018.html) and [2019](projects-2019.html).
+Check out the projects from [2018](projects-2018.html) and [2019](projects-2019.html).
