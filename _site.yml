@@ -9,6 +9,8 @@ navbar:
       href: syllabus.html
     - text: "Schedule"
       href: schedule.html
+    - text: "Projects"
+      href: projects.html
     - text: "Moodle"
       href: https://moodle.smith.edu/course/view.php?id=36569
     - text: "Slack"
