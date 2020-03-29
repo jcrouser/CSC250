@@ -5,3 +5,5 @@ title: "Final Projects"
 <hr>
 COMING SOON!
 <hr>
+
+Looking for inspiration? Check out the projects from [2018](projects-2018.html) and [2019](projects-2019.html).
