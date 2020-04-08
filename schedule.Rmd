@@ -37,9 +37,9 @@ The following schedule is subject to change at any time. **NOTE:** This schedule
 | 3/19/20  | |SPRING||
 | 3/24/20  | |BREAK||
 | 3/26/20  |  |||
-| 3/31/20  | More practice with reductions |D. Nava, A. Moise, M. Phan||
-| 4/2/20   | Mapping reductions |R. Warholic and Y. Shangguan||
-| 4/7/20   | Rice's Theorem |E. Schatzki-McCain||
+| 3/31/20  | [More practice with reductions](https://smith.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=5c4036f9-374a-4324-af03-ab8e00cf4730) |D. Nava, A. Moise, M. Phan||
+| 4/2/20   | [Mapping reductions](https://smith.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=aa00dbf7-ed57-4b43-b8ab-ab90005d34bd) |R. Warholic and Y. Shangguan||
+| 4/7/20   | [Rice's Theorem](https://smith.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=8e6ecb70-69ce-455b-89a1-ab9500420703) |E. Schatzki-McCain||
 | 4/9/20  | Computational complexity ||A6 due|
 | 4/14/20  | Application: introduction to cryptography |S. Ali||
 | 4/16/20  | NP-completeness ||A7 due|
