@@ -40,11 +40,11 @@ The following schedule is subject to change at any time. **NOTE:** This schedule
 | 3/31/20  | [More practice with reductions](https://smith.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=5c4036f9-374a-4324-af03-ab8e00cf4730) |D. Nava, A. Moise, M. Phan||
 | 4/2/20   | [Mapping reductions](https://smith.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=aa00dbf7-ed57-4b43-b8ab-ab90005d34bd) |R. Warholic and Y. Shangguan||
 | 4/7/20   | [Rice's Theorem](https://smith.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=8e6ecb70-69ce-455b-89a1-ab9500420703) |E. Schatzki-McCain||
-| 4/9/20  | Computational complexity ||A6 due|
-| 4/14/20  | Application: introduction to cryptography |S. Ali||
-| 4/16/20  | NP-completeness ||A7 due|
-| 4/21/20  | Semester Review |||
-| 4/23/20  | Student Presentations ||A8 due|
+| 4/9/20  | [Computational complexity](https://smith.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=d35bd38c-9dff-4d8f-a9ea-ab9800643af8) ||A6 due|
+| 4/14/20  | [Application: introduction to cryptography](https://smith.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=359b903f-d657-4093-bd41-ab9d00351f4f) |S. Ali||
+| 4/16/20  | ~~NP-completeness~~ (delayed to next week) ||A7 due|
+| 4/21/20  | NP-completeness |||
+| 4/23/20  | Semester Review ||A8 due|
 | 4/28/20   | Student Presentations |||
 | 4/30/20   | Student Presentations ||Final Project Post Due|
 </div>
