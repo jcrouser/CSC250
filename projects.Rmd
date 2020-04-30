@@ -2,10 +2,6 @@
 title: "Final Projects"
 ---
 
-<hr>
-Final Projects: 2020
-<hr>
-
 [EPISODE 1: Puzzles and Games](https://smith.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=edbbaf2e-fb9a-4cf8-a444-aba9003a8c31)
 
  - Ali, Emily K., Annika, and Rocio:	Soduku and Graph Theory
