@@ -17,6 +17,39 @@ The following schedule is subject to change at any time. **NOTE:** This schedule
 </style>
 
 <div class="ox-hugo-table two-axis-table">
+| **Date** | **Topic**  |  **Assignment** |
+| ---------|------------|-----------------|
+| 1/28/20  | [Introduction](https://moodle.smith.edu/mod/resource/view.php?id=525927) ||
+| 1/30/20  | [Logic and Proofs](https://moodle.smith.edu/mod/resource/view.php?id=527937) ||
+| 2/4/20   | [Regular languages and expressions](https://moodle.smith.edu/mod/resource/view.php?id=529716) ||
+| 2/6/20   | [Finite Automata (DFAs and NFAs)](https://moodle.smith.edu/mod/resource/view.php?id=530363) |A1 due|
+| 2/11/20  | [DFAs, NFAs and Regular Expressions](https://moodle.smith.edu/mod/resource/view.php?id=531687) ||
+| 2/13/20  | [Non-regular languages, pumping lemma](https://moodle.smith.edu/mod/resource/view.php?id=532546) |A2 due|
+| 2/18/20  | [Turing Machines](https://moodle.smith.edu/mod/resource/view.php?id=533515) ||
+| 2/20/20  | [Decidability](https://moodle.smith.edu/mod/resource/view.php?id=534089) |A3 due|
+| 2/25/20  | [More on decidability](https://moodle.smith.edu/mod/resource/view.php?id=535106) ||
+| 2/27/20  | [Undecidable problems](https://moodle.smith.edu/mod/resource/view.php?id=536118) |A4 due|
+| 3/3/20   | [Enumerability](https://moodle.smith.edu/mod/resource/view.php?id=537077) ||
+| 3/5/20   | [Midterm Review](https://moodle.smith.edu/mod/resource/view.php?id=537520) |A5 due|
+| 3/10/20  | [Context-free languages and Push-down Automata pt.1](https://moodle.smith.edu/mod/resource/view.php?id=538372) ||
+| 3/12/20  | [Context-free languages and Push-down Automata pt.2](https://moodle.smith.edu/mod/resource/view.php?id=538834)|Midterm Due Friday |
+| 3/17/20  |  ||
+| 3/19/20  | SPRING||
+| 3/24/20  | BREAK||
+| 3/26/20  |  ||
+| 3/31/20  | [More practice with reductions](https://smith.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=5c4036f9-374a-4324-af03-ab8e00cf4730) ||
+| 4/2/20   | [Mapping reductions](https://smith.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=aa00dbf7-ed57-4b43-b8ab-ab90005d34bd) ||
+| 4/7/20   | [Rice's Theorem](https://smith.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=8e6ecb70-69ce-455b-89a1-ab9500420703) ||
+| 4/9/20  | [Computational complexity](https://smith.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=d35bd38c-9dff-4d8f-a9ea-ab9800643af8) |A6 due|
+| 4/14/20  | [Application: introduction to cryptography](https://smith.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=359b903f-d657-4093-bd41-ab9d00351f4f) ||
+| 4/16/20  | ~~NP-completeness~~ (delayed to next week) |A7 due|
+| 4/21/20  | [NP-completeness](https://smith.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=7396647e-6305-410d-8d7d-aba3011ee876) ||
+| 4/23/20  | Student Presentations||
+| 4/28/20   | Student Presentations ||
+| 4/30/20   | Semester Review |Final Project Post Due|
+</div>
+
+<!--<div class="ox-hugo-table two-axis-table">
 | **Date** | **Topic**  | **Scribes** |  **Assignment** |
 | ---------|------------|-------------|-----------------|
 | 1/28/20  | [Introduction](https://moodle.smith.edu/mod/resource/view.php?id=525927) |||
@@ -47,4 +80,4 @@ The following schedule is subject to change at any time. **NOTE:** This schedule
 | 4/23/20  | Semester Review ||A8 due|
 | 4/28/20   | Student Presentations |||
 | 4/30/20   | Student Presentations ||Final Project Post Due|
-</div>
+</div>-->
