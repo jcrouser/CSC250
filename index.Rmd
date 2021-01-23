@@ -4,43 +4,13 @@ title: "CSC250 - Theory of Computation"
 
 **Instructor:** [R. Jordan Crouser](http://jcrouser.github.io/)
 
-**Grader:** [Ajinkya Ghadge](https://www.linkedin.com/in/ajinkyaghadge/)
+**Grader:** TBD
 
-~~**Course meeting times:** Tuesday and Thursday 10:50am - 12:05pm~~
+**Course meeting times:** Tuesday and Thursday 10:55am - 12:10pm
 
-~~**Course Location:** Ford 240~~
+<!--**Virtual Classroom:** https://smith.zoom.us/j/209592518 (password required, see Slack/Moodle)-->
 
-~~**Office hours:** Wednesdays 9am-11am (individual) and Thursdays 1pm-3pm (group) in Bass 107~~
-
-<mark>**Virtual Drop-In Classroom:** <br/></mark>
-https://smith.zoom.us/j/209592518 (password required, see Slack/Moodle)
-
-<mark>**Virtual Drop-In Hours:** <br/></mark>
-Tuesdays and Thursdays 11am - 12pm EST<br/>
-Wednesdays and Fridays 3pm - 4pm EST
-
-## A Message from Jordan, March 2020
-<i>These are extraordinary times. The COVID-19 pandemic has impacted every aspect of life: how we work, play, move through the environment, and certainly how we learn. Being away from campus, spread across different time zones, many of us caring for family members and children... these evolving circumstances require us to radically rethink how we spend our time together, and we will make a lot of mistakes along the way.
-
-In all of this, I want to you know that **my commitment to you remains unchanged**:
-
-#. To support each of you in ways that help you to learn and grow, **both as computer scientists and as human beings**.
-#. To provide a space where we can learn new tools and language for thinking about computation, especially those that complement our foundation of programming- and hardware-focused studies. 
-
-That said, this endeavor is going to look quite different from the first half of the semester. Remember:
-
-<div style = "text-align:center;">
-<img src = "img/2part.png" style = "width:500px"/>
-</div>
-
-As we move forward with the remainder of this term, I want to acknowledge that these circumstances are unprecedented in our lifetime. This brings with it a lot of firsts: this is my first time moving a course online, and it's probably your first time having all of your courses change the "contract" halfway through the semester. It is also our first time figuring out how to weather a global pandemic, and learning ways to cope with the stress inherent in that process.
-
-I want to be transparent with you: I am giving myself permission to do what I can, and letting go of what I can't. This means acknlowledging (publicly) that what I am able to do right now will likely fall **far short** of my standards for myself during a normal semester. This is true for all of us; right now, accomplishing **anything** related to your academic work is pretty spectacular.
-
-Your health and wellness (physical, mental, and emotional) are to be your top priorities. Isolation and quarantine are extremely hard for humans to tolerate long-term, and being proactive about settling in for what may be a long period of "new normal" is critical. As such, your academic work in this course must necessarily take a distant second (or third, or fourth) place, **after meeting your other needs**. If at any point this becomes an issue, please let me know and we'll figure it out.
-
-In solidarity,<br/>
-Jordan</i>
+**Office hours:** Wednesdays 9-11am EST (CSC250 priority) and 1-3pm EST (CSC/SDS235 priority)
 
 
 ## Course Description:

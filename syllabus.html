@@ -1,12 +1,12 @@
 <!DOCTYPE html>
 
-<html xmlns="http://www.w3.org/1999/xhtml">
+<html>
 
 <head>
 
 <meta charset="utf-8" />
-<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
 <meta name="generator" content="pandoc" />
+<meta http-equiv="X-UA-Compatible" content="IE=EDGE" />
 
 
 
@@ -86,7 +86,6 @@ code {
 }
 img {
   max-width:100%;
-  height: auto;
 }
 .tabbed-pane {
   padding-top: 12px;
@@ -235,6 +234,7 @@ $(document).ready(function () {
   border: none;
   display: inline-block;
   border-radius: 4px;
+  background-color: transparent;
 }
 
 .tabset-dropdown > .nav-tabs.nav-tabs-open > li {
@@ -246,18 +246,6 @@ $(document).ready(function () {
   display: none;
 }
 </style>
-
-<script>
-$(document).ready(function () {
-  window.buildTabsets("TOC");
-});
-
-$(document).ready(function () {
-  $('.tabset-dropdown > .nav-tabs > li').click(function () {
-    $(this).parent().toggleClass('nav-tabs-open')
-  });
-});
-</script>
 
 <!-- code folding -->
 
@@ -282,7 +270,7 @@ $(document).ready(function () {
         <span class="icon-bar"></span>
         <span class="icon-bar"></span>
       </button>
-      <a class="navbar-brand" href="index.html">CSC250 - Spring 2020</a>
+      <a class="navbar-brand" href="index.html">CSC250 - Spring 2021</a>
     </div>
     <div id="navbar" class="navbar-collapse collapse">
       <ul class="nav navbar-nav">
@@ -299,10 +287,10 @@ $(document).ready(function () {
   <a href="projects.html">Projects</a>
 </li>
 <li>
-  <a href="https://moodle.smith.edu/course/view.php?id=36569">Moodle</a>
+  <a href="https://moodle.smith.edu/course/view.php?id=40651">Moodle</a>
 </li>
 <li>
-  <a href="http://csc250-s20.slack.com">Slack</a>
+  <a href="https://smi-csc250-01-202103.slack.com">Slack</a>
 </li>
       </ul>
       <ul class="nav navbar-nav navbar-right">
@@ -322,16 +310,6 @@ $(document).ready(function () {
 
 
 <hr>
-<p><mark><strong>COVID-19 Adjustments / Expectation-(re)Setting</strong></mark><br/> Our transition to the “new normal” after Spring Break requires several adjustments to the syllabus and to our overall expectations regarding participation in this course. Specific changes to various course policies are <mark>highlighted</mark> in the sections below, but first I would like to draw your attention to several major structural changes to how this course will run:</p>
-<ul>
-<li>The 50+ members of this course community are now spread across thousands of geographic miles, spanning at <strong>least 6 hours of time difference</strong>. Moreover, many of us are adapting to a daily rhythm that is markedly different from how we live during a typical semester. This reality makes synchronous interaction as a full group impractical, if not impossible.</li>
-<li>Because of this, we are going to adopt a pseudo-<mark>flipped classroom model</mark> moving forward. What this means in practice:
-<ul>
-<li>I will <mark>pre-record lectures for each topic</mark> rather than delivering them in real time to the class as a group. I expect that you will watch each one <strong>within a day or two of it being posted</strong>.</li>
-<li>I will hold <mark>4 drop-in sessions per week via Zoom</mark>, which will function much like office hours during the first half of the semester: we will work through problem sets together, discuss the material, ask and answer questions, etc. I would like each of you to commit to attending <strong>at least one</strong> of these sessions per week for the remainder of the semester.</li>
-</ul></li>
-</ul>
-<hr>
 <div id="course-materials" class="section level2">
 <h2>Course Materials</h2>
 <p>There is no required textbook for the course. However, there are several recommended books that some students may find helpful:</p>
@@ -345,10 +323,10 @@ $(document).ready(function () {
 </div>
 <div id="communication-expectations" class="section level2">
 <h2>Communication expectations</h2>
-<p>All written communication regarding this course will take place via <a href="https://csc250-s20.slack.com/" target="_blank">slack</a> (a cloud-based team collaboration tool used by many tech companies for internal communication). This includes:</p>
+<p>All written communication regarding this course will take place via <a href="https://smi-csc250-01-202103.slack.com" target="_blank">slack</a> (a cloud-based team collaboration tool used by many tech companies for internal communication). This includes:</p>
 <ul>
-<li>announcements (in the <a href="https://app.slack.com/client/TRC4WCY1L/CR20LPYBT" target="_blank">#general</a> channel)</li>
-<li>questions about the material (in the <a href="https://app.slack.com/client/TRC4WCY1L/CRC50MYK0" target="_blank">#questions</a> channel)</li>
+<li>announcements (in the <a href="https://smi-csc250-01-202103.slack.com/archives/C01JQ49R11V" target="_blank">#general</a> channel)</li>
+<li>questions about the material (in the <a href="https://smi-csc250-01-202103.slack.com/archives/C01KP1BLX1R" target="_blank">#questions</a> channel)</li>
 <li>messages between individual students and the instructor (via DM to <span class="citation">@jordan</span>)</li>
 </ul>
 <p>Email is hard to search, response rate is slow, and messages are likely to get lost. Use slack!</p>
@@ -356,21 +334,21 @@ $(document).ready(function () {
 </div>
 <div id="assignments" class="section level2">
 <h2>Assignments</h2>
-<p>There will be 8 problem sets assigned during the semester. Problem sets will be due by 5pm on Thursday evenings (<mark>see adaptation to the <a href="#late-policy">Late Policy</a> below</mark>). These problem sets will often ask you to prove theorems, but it is more important to demonstrate understanding than to employ rigor for rigor’s sake. For example: a brief description of an algorithm including an illustrative diagram is better than complicated spaghetti code. Additionally, a clear explanation of how you tried to solve a problem and were unsuccessful will receive partial credit. All assignment submissions must be in PDF format, and must be organized and legible (typed is preferable). A <a href="https://moodle.smith.edu/mod/resource/view.php?id=498358" target="_blank">LaTeX template</a> is available for typesetting your assignments.</p>
+<p>There will be 8 problem sets assigned during the semester. Problem sets will be due by 5pm on Thursday evenings. These problem sets will often ask you to prove theorems, but it is more important to demonstrate understanding than to employ rigor for rigor's sake. For example: a brief description of an algorithm including an illustrative diagram is better than complicated spaghetti code. Additionally, a clear explanation of how you tried to solve a problem and were unsuccessful will receive partial credit. All assignment submissions must be in PDF format, and must be organized and legible (typed is preferable). A <a href="https://moodle.smith.edu/mod/resource/view.php?id=682230" target="_blank">LaTeX template</a> is available for typesetting your assignments.</p>
 <hr>
 </div>
 <div id="collaboration-and-academic-integrity" class="section level2">
 <h2>Collaboration and Academic Integrity</h2>
 <p>Students are strongly encouraged to form study groups and to collaborate on problem sets, though each student will be required to write up and submit their solutions independently. The following information is required for all submitted work:</p>
 <ol style="list-style-type: decimal">
-<li>The names of all collaborating students be listed at the top of the submission. If you worked alone, please state: “<em>I did not collaborate with anyone on this assignment.</em>”</li>
-<li>A “<strong>References</strong>” section, with in-line citations to any resources you used. Citations should include page numbers (if a printed resource) or a direct URL (if an online resource). If you did not use any resources in completing the assignment, please state: “<em>I did not utilize any external resources in completing this assignment.</em>”</li>
+<li>The names of all collaborating students be listed at the top of the submission. If you worked alone, please state: &quot;<em>I did not collaborate with anyone on this assignment.</em>&quot;</li>
+<li>A &quot;<strong>References</strong>&quot; section, with in-line citations to any resources you used. Citations should include page numbers (if a printed resource) or a direct URL (if an online resource). If you did not use any resources in completing the assignment, please state: &quot;<em>I did not utilize any external resources in completing this assignment.</em>&quot;</li>
 </ol>
 <hr>
 </div>
 <div id="examinations-and-projects" class="section level2">
 <h2>Examinations and Projects</h2>
-<p>There will be <del>two self-scheduled examinations</del> <mark><strong>one self-scheduled examination, one take-home final examination</strong></mark>, and one final <del>group</del> project in this course. <mark>The project may be conducted independently, or in a small group.</mark></p>
+<p>There will be two take-home final examinations, and one (low-stakes) final project in this course. The project may be conducted independently, or in a small group.</p>
 <hr>
 </div>
 <div id="grading" class="section level2">
@@ -407,23 +385,20 @@ $(document).ready(function () {
 </table>
 <hr>
 </div>
-<div id="late-policy" class="section level2">
-<h2>Late Policy</h2>
-<p><del>Due to the number of students enrolled in this course, as well as the pace of the material, <strong>no extensions will be given, and no late assignments will be accepted</strong> without a written request from the student’s Dean in the case of extenuating circumstances.</del></p>
-<p><mark><strong>COVID-19 Policy Update</strong><br/> The transition to alternate modes of instruction necessitates an adjustment to our contract regarding late submissions. To facilitate time management, the 3 remaining problem sets will have nominal due dates as originally planned. However, because access to in-person help is limited, all students will be <strong>automatically entitled to unlimited resubmission attempts</strong> on A6, A7, and A8 through <strong>May 1st</strong>.</mark></p>
-<p><mark>Do your best to submit by the deadline, because that will enable me to get you feedback in a timely manner. However, you don’t need to worry about getting everything right the first time; you can revise your solutions using my feedback, and resubmit them as many times as you like without penalty.</mark></p>
+<div id="policy-on-late-work" class="section level2">
+<h2>Policy on Late Work</h2>
+<p>Submissions received after the posted deadline will incur a penalty of <strong>-10% per day for up to three days</strong> (after which they will be ineligible for credit). Unless otherwise specified as part of a student's documented accommodations, requests for extensions outside of the three-day grace period will be granted only under the following conditions: the request is made in writing (via Slack DM to the instructor) at least 48 hours in advance of the due date (or) the professor has been notified by the student's dean that the student requires an extension for personal or health reasons.</p>
 <hr>
 </div>
 <div id="accommodation" class="section level2">
 <h2>Accommodation</h2>
 <p>Smith is committed to providing support services and reasonable accommodations to all students with disabilities. To request an accommodation, please register with the Disability Services Office at the beginning of the semester. To do so, call (413) 585-2071 to arrange an appointment with Laura Rauscher, Director of Disability Services.</p>
-<mark><strong>COVID-19 Policy Update</strong><br/> I am acutely aware that the mid-semester changes to our mode of instruction may require accommodations that have not previously been verified by Disability Services (e.g. increased screen time may exacerbate eye strain, etc.) Please know that I am committed to figuring this out together. If there’s something I can do to make this material more accessible for you and you have the spoons to do so, please bring it to my attention.</mark>
+<p><mark><strong>COVID-19 Policy Update</strong><br/> I am acutely aware that the shift to remote instruction may require accommodations that have not previously been verified by Disability Services (e.g. increased screen time may exacerbate eye strain, etc.) Please know that I am committed to figuring this out together. If there's something I can do to make this material more accessible for you and you have the spoons to do so, please bring it to my attention.</mark></p>
 <hr>
 </div>
 <div id="acknowledgement" class="section level2">
 <h2>Acknowledgement</h2>
 <p>Some of the materials used in this course are derived from lectures, notes, or similar courses taught at other institutions. Appropriate references will be included on all such material.<br/></p>
-<p><mark><strong>COVID-19 Addendum</strong><br/> Smith’s transition to alterate modes of instruction would not be possible without the round-the-clock work of the Covid-19 Digital Support Team.</mark></p>
 </div>
 
 
@@ -443,6 +418,23 @@ $(document).ready(function () {
 
 
 </script>
+
+<!-- tabsets -->
+
+<script>
+$(document).ready(function () {
+  window.buildTabsets("TOC");
+});
+
+$(document).ready(function () {
+  $('.tabset-dropdown > .nav-tabs > li').click(function () {
+    $(this).parent().toggleClass('nav-tabs-open')
+  });
+});
+</script>
+
+<!-- code folding -->
+
 
 <!-- dynamically load mathjax for compatibility with self-contained -->
 <script>
