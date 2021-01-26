@@ -15,6 +15,10 @@ The following schedule is subject to change at any time.
   color: white;
 }
 
+.two-axis-table td:nth-child(1){
+  width: 10%;
+}
+
 .two-axis-table td:nth-child(2){
   width: 40%;
 }
@@ -30,7 +34,7 @@ The following schedule is subject to change at any time.
 </style>
 
 <div class="ox-hugo-table two-axis-table">
-| **Date** | **Topic**  | **Scribes** |  **Due by 5pm EST** |
+| **Date** | **Topic**  | **Scribes** |  **Assignment Due** |
 |----------|------------|-------------|-----------------|
 | 2/16 | Introduction | | |
 | 2/18 | Logic & Proofs | | |
@@ -44,17 +48,17 @@ The following schedule is subject to change at any time.
 | 3/18 | Decidability | | A4 |
 | 3/23 | More on decidability | | |
 | 3/25 | Undecidable problems | | A5 |
-| 3/30 | Enumerability | | |
-| 4/1 | Midterm review | | A6 |
+| 3/30 | Midterm review | | |
+| 4/1 | Enumerability | | Midterm (Friday 5pm EST)|
 | 4/6 | NO CLASS - SPRING BREAK| | |
 | 4/8 | Revisiting reductions | | |
 | 4/13 | Mapping reductions | | |
-| 4/15 | Rice's theorem | | A7 |
+| 4/15 | Rice's theorem | | A6 |
 | 4/20 | Computational complexity | | |
-| 4/22 | Application: cryptography | | A8 |
+| 4/22 | Application: cryptography | | A7 |
 | 4/27 | NP-completeness | | |
-| 4/29 | Nonstandard TMs | | Final project video |
-| 5/4 | Student presentations | | |
+| 4/29 | Nonstandard TMs | | A8 |
+| 5/4 | Student presentations | | Final Project Video |
 | 5/6 | Student presentations | | |
 | 5/11 | Student presentations | | |
 | 5/13 | Semester review | | Final project post |
