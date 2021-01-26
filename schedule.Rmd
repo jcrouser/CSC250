@@ -5,9 +5,25 @@ The following schedule is subject to change at any time.
 
 
 <style>
-.two-axis-table tr:nth-child(15) {
-  background: lightgrey;
+
+.two-axis-table tr:nth-child(4n), .two-axis-table tr:nth-child(4n-1) {
+    background: #eeeeee;
 }
+
+.two-axis-table tr:nth-child(15){
+  background: #2c3e50;
+  color: white;
+}
+
+.two-axis-table td:nth-child(2){
+  width: 40%;
+}
+
+.two-axis-table td:nth-child(3), .two-axis-table td:nth-child(4){
+  width: 20%;
+}
+
+
 .two-axis-table body {
   padding: 1rem;
 }
@@ -30,7 +46,7 @@ The following schedule is subject to change at any time.
 | 3/25 | Undecidable problems | | A5 |
 | 3/30 | Enumerability | | |
 | 4/1 | Midterm review | | A6 |
-| 4/6 | NO CLASS | | |
+| 4/6 | NO CLASS - SPRING BREAK| | |
 | 4/8 | Revisiting reductions | | |
 | 4/13 | Mapping reductions | | |
 | 4/15 | Rice's theorem | | A7 |
