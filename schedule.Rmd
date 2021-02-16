@@ -36,7 +36,7 @@ The following schedule is subject to change at any time.
 <div class="ox-hugo-table two-axis-table">
 | **Date** | **Topic**  | **Scribes** |  **Assignment Due** |
 |----------|------------|-------------|-----------------|
-| 2/16 | Introduction | | |
+| 2/16 | [Introduction](https://moodle.smith.edu/mod/resource/view.php?id=707130) | | |
 | 2/18 | Logic & Proofs | | |
 | 2/23 | Regular languages & expressions | | |
 | 2/25 | Finite Automata | | A1 |
