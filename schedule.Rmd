@@ -37,12 +37,12 @@ The following schedule is subject to change at any time.
 | **Date** | **Topic**  | **Scribes** |  **Assignment Due** |
 |----------|------------|-------------|-----------------|
 | 2/16 | [Introduction](https://moodle.smith.edu/mod/resource/view.php?id=707130) | | |
-| 2/18 | Logic & Proofs | | |
-| 2/23 | Regular languages & expressions | | |
-| 2/25 | Finite Automata | | A1 |
+| 2/18 | [Logic & Proofs](https://moodle.smith.edu/mod/lti/view.php?id=710414) | Emma V. | |
+| 2/23 | [Regular languages & expressions](https://moodle.smith.edu/mod/lti/view.php?id=711268) | Sethatevy B. | |
+| 2/25 | Finite Automata | Kathleen H. | A1 |
 | 3/2 | DFAs, NFAs, and REs | | |
-| 3/4 | Non-regular languages and the PL | | A2 |
-| 3/9 | Context-free grammars | | |
+| 3/4 | Non-regular languages and the PL | Glory U. | A2 |
+| 3/9 | Context-free grammars | Rhys V. | |
 | 3/11 | PDAs | | A3 |
 | 3/16 | TMs | | |
 | 3/18 | Decidability | | A4 |
