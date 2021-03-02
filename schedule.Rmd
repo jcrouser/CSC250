@@ -40,7 +40,7 @@ The following schedule is subject to change at any time.
 | 2/18 | [Logic & Proofs](https://moodle.smith.edu/mod/lti/view.php?id=710414) | Emma V. | |
 | 2/23 | [Regular languages & expressions](https://moodle.smith.edu/mod/lti/view.php?id=711268) | | |
 | 2/25 | [Finite Automata](https://moodle.smith.edu/mod/lti/view.php?id=712568) | Kathleen H. | A1 |
-| 3/2 | DFAs, NFAs, and REs | Xiaowen (Winnie) Z.| |
+| 3/2 | [DFAs, NFAs, and REs](https://moodle.smith.edu/mod/lti/view.php?id=714115) | Xiaowen (Winnie) Z.| |
 | 3/4 | Non-regular languages and the PL | Glory U. | A2 |
 | 3/9 | Context-free grammars | Rhys V. and Sethatevy B. | |
 | 3/11 | Push-Down Automata | Yesugen B. | A3 |
