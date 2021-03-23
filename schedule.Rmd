@@ -38,15 +38,15 @@ The following schedule is subject to change at any time.
 |----------|------------|-------------|-----------------|
 | 2/16 | [Introduction](https://moodle.smith.edu/mod/resource/view.php?id=707130) | | |
 | 2/18 | [Logic & Proofs](https://moodle.smith.edu/mod/lti/view.php?id=710414) | Emma V. | |
-| 2/23 | [Regular languages & expressions](https://moodle.smith.edu/mod/lti/view.php?id=711268) | | |
+| 2/23 | [Regular languages & expressions](https://moodle.smith.edu/mod/lti/view.php?id=711268) | Chaia Y. | |
 | 2/25 | [Finite Automata](https://moodle.smith.edu/mod/lti/view.php?id=712568) | Kathleen H. | A1 |
 | 3/2 | [DFAs, NFAs, and REs](https://moodle.smith.edu/mod/lti/view.php?id=714115) | Xiaowen (Winnie) Z.| |
-| 3/4 | Non-regular languages and the PL | Glory U. | A2 |
-| 3/9 | Context-free grammars | Rhys V. and Sethatevy B. | |
-| 3/11 | Push-Down Automata | Yesugen B. | A3 |
-| 3/16 | Turing Machines | | |
-| 3/18 | Decidability | | A4 |
-| 3/23 | More on decidability | | |
+| 3/4 | [Non-regular languages and the PL](https://moodle.smith.edu/mod/lti/view.php?id=715040) | Glory U. and Sara M. | A2 |
+| 3/9 | [Context-free grammars](https://moodle.smith.edu/mod/lti/view.php?id=716734) | Rhys V. and Sethatevy B. | |
+| 3/11 | [Push-Down Automata](https://moodle.smith.edu/mod/lti/view.php?id=717649) | Yesugen B. and Yanning T. | A3 |
+| 3/16 | [Turing Machines](https://moodle.smith.edu/mod/lti/view.php?id=719033) | Addie H. and Yujun S. | |
+| 3/18 | [Decidability](https://moodle.smith.edu/mod/lti/view.php?id=719829) | -- | A4 |
+| 3/23 | Reductions | Allison W. | |
 | 3/25 | Undecidable problems | | A5 |
 | 3/30 | Midterm review | | |
 | 4/1 | Enumerability | | Midterm (Friday 5pm EST)|
