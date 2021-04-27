@@ -56,8 +56,8 @@ The following schedule is subject to change at any time.
 | 4/15 | [Rice's theorem](https://moodle.smith.edu/mod/lti/view.php?id=728850) | | A6 |
 | 4/20 | [Computational complexity](https://moodle.smith.edu/mod/lti/view.php?id=730922) | | |
 | 4/22 | [Application: cryptography](https://moodle.smith.edu/mod/lti/view.php?id=730935) | | A7 |
-| 4/27 | More complexity | | |
-| 4/29 | NP-completeness | | |
+| 4/27 | NP-completeness | | |
+| 4/29 | Pseudorandom Generators and One-Way Functions | | |
 | 5/4 | Nonstandard TMs | | Final Project Video / Post |
 | 5/6 | Student presentations | | |
 | 5/11 | Student presentations | | |
