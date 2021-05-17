@@ -38,20 +38,20 @@ The following schedule is subject to change at any time.
 |----------|------------|-------------|-----------------|
 | 2/16 | [Introduction](https://moodle.smith.edu/mod/resource/view.php?id=707130) | | |
 | 2/18 | [Logic & Proofs](https://moodle.smith.edu/mod/lti/view.php?id=710414) | Emma V. | |
-| 2/23 | [Regular languages & expressions](https://moodle.smith.edu/mod/lti/view.php?id=711268) | [Chaia Y.](https://moodle.smith.edu/pluginfile.php/1096660/mod_folder/content/0/2-23-2021%20-%20Regular%20Expressions.pdf?forcedownload=1) | |
-| 2/25 | [Finite Automata](https://moodle.smith.edu/mod/lti/view.php?id=712568) | [Kathleen H.](https://moodle.smith.edu/pluginfile.php/1096660/mod_folder/content/0/2-25-2021%20-%20Finite%20Automata.pdf?forcedownload=1) | A1 |
-| 3/2 | [DFAs, NFAs, and REs](https://moodle.smith.edu/mod/lti/view.php?id=714115) | Xiaowen (Winnie) Z.| |
-| 3/4 | [Non-regular languages and the PL](https://moodle.smith.edu/mod/lti/view.php?id=715040) | Glory U. and Sara M. | A2 |
-| 3/9 | [Context-free grammars](https://moodle.smith.edu/mod/lti/view.php?id=716734) | [Rhys V. and Sethatevy B.](https://moodle.smith.edu/pluginfile.php/1096660/mod_folder/content/0/3-9-2021%20-%20Context-Free%20Grammars?forcedownload=1) | |
-| 3/11 | [Push-Down Automata](https://moodle.smith.edu/mod/lti/view.php?id=717649) | Yesugen B. and Yanning T. | A3 |
-| 3/16 | [Turing Machines](https://moodle.smith.edu/mod/lti/view.php?id=719033) | Addie H. and Yujun S. | |
-| 3/18 | [Decidability](https://moodle.smith.edu/mod/lti/view.php?id=719829) | -- | A4 |
+| 2/23 | [Regular languages & expressions](https://moodle.smith.edu/mod/lti/view.php?id=711268) | [Chaia Y.](https://moodle.smith.edu/pluginfile.php/1096660/mod_folder/content/0/02-23-2021%20-%20Regular%20Expressions.pdf?forcedownload=1) | |
+| 2/25 | [Finite Automata](https://moodle.smith.edu/mod/lti/view.php?id=712568) | [Kathleen H.](https://moodle.smith.edu/pluginfile.php/1096660/mod_folder/content/0/02-25-2021%20-%20Finite%20Automata.pdf?forcedownload=1) | A1 |
+| 3/2 | [DFAs, NFAs, and REs](https://moodle.smith.edu/mod/lti/view.php?id=714115) | [Xiaowen (Winnie) Z.](https://moodle.smith.edu/pluginfile.php/1096660/mod_folder/content/0/03-02-2021%20-%20DFAs%2C%20NFAs%2C%20and%20REs.pdf?forcedownload=1)| |
+| 3/4 | [Non-regular languages and the PL](https://moodle.smith.edu/mod/lti/view.php?id=715040) | [Glory U. and Sara M.](https://moodle.smith.edu/pluginfile.php/1096660/mod_folder/content/0/03-04-2021%20-%20Nonregular%20Languages%20and%20the%20PL.pdf?forcedownload=1) | A2 |
+| 3/9 | [Context-free grammars](https://moodle.smith.edu/mod/lti/view.php?id=716734) | [Rhys V. and Sethatevy B.](https://moodle.smith.edu/pluginfile.php/1096660/mod_folder/content/0/03-09-2021%20-%20Context-Free%20Grammars.pdf?forcedownload=1) | |
+| 3/11 | [Push-Down Automata](https://moodle.smith.edu/mod/lti/view.php?id=717649) | [Yesugen B. and Yanning T.](https://moodle.smith.edu/pluginfile.php/1096660/mod_folder/content/0/03-11-2021%20-%20Push-Down%20Automata.pdf?forcedownload=1) | A3 |
+| 3/16 | [Turing Machines](https://moodle.smith.edu/mod/lti/view.php?id=719033) | [Addie H. and Yujun S.](https://moodle.smith.edu/pluginfile.php/1096660/mod_folder/content/0/03-16-2021%20-%20Turing%20Machines.pdf?forcedownload=1) | |
+| 3/18 | [Decidability](https://moodle.smith.edu/mod/lti/view.php?id=719829) | [Addie](https://moodle.smith.edu/pluginfile.php/1096660/mod_folder/content/0/03-18-2021%20-%20Decidability.pdf?forcedownload=1) | A4 |
 | 3/23 | [Reductions](https://moodle.smith.edu/mod/lti/view.php?id=721167) | Allison W. | |
 | 3/25 | [Undecidable problems](https://moodle.smith.edu/mod/lti/view.php?id=721971) | | A5 |
 | 3/30 | [Midterm review](https://moodle.smith.edu/mod/lti/view.php?id=725509) | Jessica A. | |
 | 4/1 | Office Hours - No New Topic | | Midterm (Monday 5pm EST)|
 | 4/6 | NO CLASS - SPRING BREAK| | |
-| 4/8 | [Enumerability](https://moodle.smith.edu/mod/lti/view.php?id=725725) | Erin W. and Elda C. | |
+| 4/8 | [Enumerability](https://moodle.smith.edu/mod/lti/view.php?id=725725) | [Erin W. and Elda C.](https://moodle.smith.edu/pluginfile.php/1096660/mod_folder/content/0/04-08-2021%20-%20Enumerability.pdf?forcedownload=1) | |
 | 4/13 | [Mapping reductions](https://moodle.smith.edu/mod/lti/view.php?id=727757) | | |
 | 4/15 | [Rice's theorem](https://moodle.smith.edu/mod/lti/view.php?id=728850) | | A6 |
 | 4/20 | [Computational complexity](https://moodle.smith.edu/mod/lti/view.php?id=730922) | | |
@@ -61,7 +61,7 @@ The following schedule is subject to change at any time.
 | 5/4 | Nonstandard TMs | | Final Project Video / Post |
 | 5/6 | Student presentations | | |
 | 5/11 | Student presentations | | |
-| 5/13 | Semester review | | A8 |
+| 5/13 | Semester review | [Rithika D.](https://moodle.smith.edu/pluginfile.php/1096660/mod_folder/content/0/05-13-21%20Semester%20Review.pdf?forcedownload=1) | A8 |
 </div>
 
 
