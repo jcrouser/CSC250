@@ -36,7 +36,7 @@ The following schedule is subject to change at any time.
 <div class="ox-hugo-table two-axis-table">
 | **Date** | **Topic**  |    **Out**    | **Due** |
 |----------|------------|--------------------|---------|
-| 01/26    | Introduction |                  |         |
+| 01/26    | [Introduction and Course Overview](https://moodle.smith.edu/mod/resource/view.php?id=1151794&forceview=1) |                  |         |
 | 01/29    | Logic and Proofs |              |         |
 | 01/31    | Regular Expressions |           |         |
 | 02/02    | W02 UC, start HW01  |   HW01    |         |
