@@ -1,0 +1,24 @@
+name: "CSC250-website"
+output_dir: "docs"
+navbar:
+  title: "CSC250 - Spring 2024"
+  left:
+    - text: "Home"
+      href: index.html
+      icon: fa-home
+    - text: "Syllabus"
+      href: syllabus.html
+      icon: fa-file
+    - text: "Schedule"
+      href: schedule.html
+      icon: fa-calendar
+    - text: "Moodle"
+      href: https://moodle.smith.edu/course/view.php?id=49386
+      icon: fa-graduation-cap
+    - text: "Slack"
+      href: https://smi-csc250-01-202103.slack.com
+      icon: fa-slack
+output:
+  html_document:
+    theme: flatly
+    css: style.css

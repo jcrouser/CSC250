@@ -1,0 +1,64 @@
+<!DOCTYPE html><html><head><meta charset="utf-8"><title>CTM</title><style></style></head><body id="preview">
+<h1><a id="Computational_Theory_of_Mind_0"></a>Computational Theory of Mind</h1>
+<h3><a id="Karen_Santamaria__Mariama_Jaiteh_1"></a>Karen Santamaria &amp; Mariama Jaiteh</h3>
+<h2><a id="Introduction_4"></a>Introduction</h2>
+<p>The computational theory of mind (CTM) is the theory that the mind can be understood as a computer, or roughly, as the software program of the brain. The main question of this paper is whether computers can ever replicate human intelligence. In the 1960’s and 1970’s, under the assumption that computers could replicate human intelligence, CTM played an important role in AI research, such as, perception, decision making, and linguistics.</p>
+<p>CTM involves a number of important ideas:</p>
+<ol>
+<li>
+<p>Computations can be carried out with symbols (aka syntax) that carry meaning.</p>
+</li>
+<li>
+<p>Computations can be analyzed into ‘algorithms’ or simple step-by-step procedures, each of which could  be carried out by a machine.</p>
+</li>
+<li>
+<p>Computation can be generalized to include not only arithmetic, but deductive logic and other forms of reasoning, including induction, abduction and decision making.</p>
+</li>
+</ol>
+<h2><a id="Syntax_and_Semantics_18"></a>Syntax and Semantics</h2>
+<p>When children are taught how to add with pencil and paper, they are taught an algorithm in which one adds from the least significant digit to the most significant digit. When there is overflow one should “carry” a 1 to the next significant digit. This algorithm is defined in part syntactically because most children do not know exactly why it is important to carry a 1, only that it works. However, the idea that for example 7 and 2 yields in 9 carries semantic meaning where one can visualize blocks being added together. When adding with computers, operations are carried out entirely with syntax and instead of base 10, they work with binary and instead of understanding what it means to “add” two things together, logic gates are used to yield the expected result. In the end, although procedures differ, humans and computers are able to yield the same result.</p>
+<h2><a id="Classical_AI_22"></a>Classical AI</h2>
+<p>In 1936, Alan Turing developed a general account of algorithms called Turing machines. Turing machines are computing devices that arrive at a determinate answer given a certain input. The “Church-Turing thesis” states that all procedures defined by humans can be completed by a Turing machine and is powerful enough to capture all humanly executable mechanical procedures through symbolic procedures.<sup class="footnote-ref"><a href="#fn1" id="fnref1">[1]</a></sup> For example, if we, as humans, wanted to figure out if a word is a palindrome we would begin by scanning the first character of the word and comparing it the last character in the word and if they match then we’re set to move on. The next step is to look at the second character and the second-to-last character and see if they’re a match. These steps will be repeated until we have no other characters to compare or when two characters aren’t a match. This ‘algorithm’ that the human performed can be given to a machine, like the Turing machine, to compute.</p>
+<p>Over the years, many, including Turing, contemplated whether they can build a computer that is capable of thought. Artificial Intelligence (AI) aimed to construct ‘thinking machines’ that can execute core mental tasks such as reasoning, decision making, and problem-solving. Early research on AI focused on specified tasked entirely driven by logic gates. AI that is focused on logic is known as classical AI.</p>
+<p>A ‘toy’ example of one simple type of classical AI program (a production system) might look something like this:</p>
+<p>If thirsty then set goal to drink.</p>
+<p>If current goal is drink and weather is cool then set goal to seek kettle.</p>
+<p>If current goal is seek kettle and not in kitchen then go to kitchen and locate kettle.</p>
+<p>If kettle is empty then fill kettle with water.</p>
+<p>If kettle is full then put kettle on hob and heat hob and locate teapot.</p>
+<p>(and so on)</p>
+<p>This example suggests that every action and every condition for action has to be specified.<sup class="footnote-ref"><a href="#fn2" id="fnref2">[2]</a></sup><br>
+&lt;hr&gt;</p>
+<p>It is often thought that classical AI is comparable human thinking, but this is not true. Classical AI begins with the assumption that symbolic logic is a standard model for both human and automated reasoning. Unlike machines however, humans are able to recognize illogical things such as superstitions like “If you step on a crack you break your momma’s back”.This is because humans have the ability to base their reasoning on logic or on their world knowledge.</p>
+<p>Classical AI is limited by the number of operations they are designed to perform as well the the types of input they are designed to operate on. Early on in computation, this was seen as a problem because nearly all reasoning and decision making operates under conditions of uncertainty. Bayesian decision theory is commonly employed in order to deal with uncertainty. Uncertainty is turned into probability. Probabilities are also updated based new information and as the machine receives more stimulus and adjustment it becomes better at dealing with uncertainty. Machines that employ Bayesian decision theory are a step closer to the theoretical machine that exists inside of the human brain but there are still some very large limitations. These machines execute purely symbolic computation and are unable to operate semantically.</p>
+<h2><a id="Connectionist_Machines_and_Hybrid_Systems_52"></a>Connectionist Machines and Hybrid Systems</h2>
+<p>Researchers have emerged with “non-symbolic” approaches that use networks in order to generate an output. These machines carry out operations in parallel rather than sequentially and the most ‘probable’ outcome is generate based on the different connections in the network. These connectionist system are able to take in continuous input and generate continuous output. These machines are able to “learn” by using a back-propagation algorithms however, this method very different from the way living things learn.</p>
+<p>Despite this, connectionist models have been used in philosophy to explain how words and concepts acquire meaning.</p>
+<p>The downside of connectionist machines is that they are not able to employ hierarchical task because everything happens in parallel. However, connectionist and serial machines can be put together to create hybrid systems which exploit the advantages of both.</p>
+<h2><a id="Discussion_62"></a>Discussion</h2>
+<p>AI’s attempt to model human intelligence can reveal a lot about how the human mind works. Since classical AI operates sequentially it is unlikely to create a true model for human intelligence. With the connectionist model, there is an improvement with the machine employing Bayesian decision similar to how humans think but does this really model the human mind. How do we know that the machines understand and think?</p>
+<p>Jordan mentioned in class that his informal for CTM being false is that machines are only able to take in digital values aka discrete values and humans are able to take in continuous and discrete values. This is a valid criticism because it is true that many machines are only able to take in discrete inputs, however, there exist connectionist machines that are able to take in continuous values and there are hybrid systems that allow for hierarchical and parallel processing and technology is always progressing.</p>
+<p>I believe the most valid criticism is CTM is this idea that even if machines are capable of becoming indistinguishable from human beings, passing the Turing test does not necessary mean that symbols have acquired meaning to the machine because humans first and foremost operate semantically and used syntax as a way to exploit the patterns in semantics. Somethings build on syntax is unlikely to ever have this capability. However, the paper does touch on this by stating that connectionist machines do not operate on syntax rather it was stated that they operate with ‘non-symbolic’ approaches. Despite this though, this ability to deal with ‘non-symbolic’ input does not directly lend itself to the idea that a machine is able to  semantically understand input from the environment. Furthermore, people do not yet know how consciousness works and so it is difficult still to asses it.</p>
+<p>After going through this paper multiple times, Mariama and I still struggle to understand connectionist machines and situated robotics. These topics were very outside of the type of machines we have dealt with. We watched Youtube videos on these concepts and read other papers and although we feel like we have a surface level understanding, we found it difficult still to write about.</p>
+<p>In the end, we believe we were able to a gain an appreciation of how machines can be used to mimic the human mind as well as understand how difficult of a task it is to create machines with human intelligence. CTM today plays an important role in building AI because in many ways, AI has been improved under the assumption that the human mind is a machine and so much research is done in finding a mechanized approach to human intelligence like how classical Turing machines and connectionist machines are built to deal with uncertainty.</p>
+<h2><a id="Team_Member_Contributions_76"></a>Team Member Contributions</h2>
+<p>Since we live in the same house we just met up and worked on the paper and presentation at the same time. We discussed and clarified concepts together and wrote each paragraph together, alternating between who the driver and controller were similar to pair-programming.</p>
+<h3><a id="Resources_80"></a>Resources</h3>
+<ol>
+<li>Mind, computational theories of - (Original Paper): <a href="http://www2.fiit.stuba.sk/~kvasnicka/CognitiveScience/1.prednaska/Mind_RoutledgeEncyclopedia.pdf">http://www2.fiit.stuba.sk/~kvasnicka/CognitiveScience/1.prednaska/Mind_RoutledgeEncyclopedia.pdf</a></li>
+<li>Alternative paper from Stanford: <a href="https://plato.stanford.edu/entries/computational-mind/">https://plato.stanford.edu/entries/computational-mind/</a></li>
+<li>Computational Theory of Mind video - <a href="https://www.youtube.com/watch?v=cUhrK82seVY">https://www.youtube.com/watch?v=cUhrK82seVY</a></li>
+</ol>
+<h3><a id="References_86"></a>References</h3>
+<p>All concepts from this webpage were taken from “Mind, computational theories of” by Ned Block &amp; Georges Rey</p>
+<hr class="footnotes-sep">
+<section class="footnotes">
+<ol class="footnotes-list">
+<li id="fn1"  class="footnote-item"><p><a href="http://www2.fiit.stuba.sk/~kvasnicka/CognitiveScience/1.prednaska/Mind_RoutledgeEncyclopedia.pdf">http://www2.fiit.stuba.sk/~kvasnicka/CognitiveScience/1.prednaska/Mind_RoutledgeEncyclopedia.pdf</a>, Pg 9 <a href="#fnref1" class="footnote-backref">↩</a></p>
+</li>
+<li id="fn2"  class="footnote-item"><p><a href="http://www2.fiit.stuba.sk/~kvasnicka/CognitiveScience/1.prednaska/Mind_RoutledgeEncyclopedia.pdf">http://www2.fiit.stuba.sk/~kvasnicka/CognitiveScience/1.prednaska/Mind_RoutledgeEncyclopedia.pdf</a>, Pg 11 <a href="#fnref2" class="footnote-backref">↩</a></p>
+</li>
+</ol>
+</section>
+
+</body></html>

@@ -1,0 +1,28 @@
+---
+title: "CSC250 - Theory of Computation"
+---
+
+
+**Course meeting times:** MWF 9:25am - 10:40am
+
+**Location:** [Bass 204](https://maps.app.goo.gl/QHGZwnCdatHUXj959)
+
+<!--**Virtual Classroom:** https://smith.zoom.us/j/209592518 (password required, see Slack/Moodle)-->
+
+**Instructor:** [R. Jordan Crouser](http://jcrouser.github.io/)
+
+**Jordan's Office Hours:** Tuesdays 8:30-10am and Fridays 11-12pm in [Bass 105](https://goo.gl/maps/h6MQbQNM38bELqpK6)
+
+<!--**Teaching Assistant:** [Sivan Nachum](https://www.linkedin.com/in/sivan-nachum)
+
+**Sivan's Office Hours:** Sundays 1-3pm EST
+
+**Grader:** [Ajinkya Ghage (UMass)](https://ajinkyaghadge.github.io/)-->
+
+
+
+## Course Description:
+This course provides a challenging introduction to some of the core theoretical ideas that underlie the computational sciences. The objective of this course is to develop an understanding of "computer science outside the box" -- to begin to think of CS not only as the science of computers, but as the science of what can be computed. We'll begin with very simple computational machinery (automata and finite state machines, regular sets, context-free languages). We'll then move on to Turing machines and computability, efficient algorithms and reducibility, NP-completeness, the P versus NP problem, the power of randomness. We'll draw on real world examples from the domains of cryptography, machine learning, and more. Finally, we'll talk about the present and future of computing theory, with potential topics including interactive proofs, quantum computing and the physical limits of computation. Class participation is important, as the class will include discussion and debate about many of these topics.
+
+## Prerequisites:
+CSC111 and MTH153. The latter may be taken concurrently with permission of the instructor. Most importantly, I will assume you have basic "mathematical maturity": i.e., that you are comfortable both reading and writing mathematical proofs.
