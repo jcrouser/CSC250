@@ -46,9 +46,15 @@ Even if you're not used to slack at first, it's not too hard to learn. The advan
 
 This course assumes that you have a solid foundation in computational thinking, either through successful completion of CSC110, high school curriculum at at AP or IB level, or dedicated self-study. We also assume that you are familiar with logical reasoning and writing proofs, to the degree that it is covered in courses like MTH153: Discrete Mathematics. Check out the following links to supplemental online courses through LinkedIn Learning if you’d like some additional support, which are available for free to all members of the Smith community:
 
+<<<<<<< HEAD
  - [Programming Foundations: Fundamentals](https://www.linkedin.com/learning/programming-foundations-fundamentals-3)  <br/>
 <sup>Been awhile since you took 110? This 2hr crash course will remind you of the key points. Taught in Python.</sup>
  - [Programming Foundations: Discrete Mathematics ](https://www.linkedin.com/learning/programming-foundations-discrete-mathematics/welcome?u=50599105)<br/>
+=======
+ - [Programming Foundations: Fundamentals](https://www.linkedin.com/learning/programming-foundations-fundamentals-3)  
+<sup>Been awhile since you took 110? This 2hr crash course will remind you of the key points. Taught in Python.</sup>
+ - [Programming Foundations: Discrete Mathematics ](https://www.linkedin.com/learning/programming-foundations-discrete-mathematics/welcome?u=50599105)
+>>>>>>> 3e7b22ca9510ad4138579f872f3d0007e18e231c
  <sup>Feeling a little rusty on Discrete Math? This 3hr course covers many of the topics and techniques you'll need for this course.</sup>
  
 <hr>

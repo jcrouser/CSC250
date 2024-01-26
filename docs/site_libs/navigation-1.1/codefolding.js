@@ -31,7 +31,11 @@ window.initializeCodeFolding = function(show) {
     $(this).detach().appendTo(div);
 
     // add a show code button right above
+<<<<<<< HEAD
     var showCodeText = $('<span>' + (showThis ? 'Hide' : 'Show') + '</span>');
+=======
+    var showCodeText = $('<span>' + (showThis ? 'Hide' : 'Code') + '</span>');
+>>>>>>> 3e7b22ca9510ad4138579f872f3d0007e18e231c
     var showCodeButton = $('<button type="button" class="btn btn-default btn-xs btn-secondary btn-sm code-folding-btn pull-right float-right"></button>');
     showCodeButton.append(showCodeText);
     showCodeButton
@@ -57,7 +61,11 @@ window.initializeCodeFolding = function(show) {
     //   * Change text
     //   * add a class for intermediate states styling
     div.on('hide.bs.collapse', function () {
+<<<<<<< HEAD
       showCodeText.text('Show');
+=======
+      showCodeText.text('Code');
+>>>>>>> 3e7b22ca9510ad4138579f872f3d0007e18e231c
       showCodeButton.addClass('btn-collapsing');
     });
     div.on('hidden.bs.collapse', function () {
