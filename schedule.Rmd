@@ -6,11 +6,11 @@ The following schedule is subject to change at any time.
 
 <style>
 
-.two-axis-table tr:nth-child(4n), .two-axis-table tr:nth-child(4n-1) {
+.two-axis-table tr:nth-child(6n-2), .two-axis-table tr:nth-child(6n-3), .two-axis-table tr:nth-child(6n-4) {
     background: #eeeeee;
 }
 
-.two-axis-table tr:nth-child(15){
+.two-axis-table tr:nth-child(23), .two-axis-table tr:nth-child(24), .two-axis-table tr:nth-child(25){
   background: #2c3e50;
   color: white;
 }
@@ -34,34 +34,50 @@ The following schedule is subject to change at any time.
 </style>
 
 <div class="ox-hugo-table two-axis-table">
-| **Date** | **Topic**  | **Scribes** |  **Assignment Due** |
-|----------|------------|-------------|-----------------|
-| 2/16 | [Introduction](https://moodle.smith.edu/mod/resource/view.php?id=707130) | | |
-| 2/18 | [Logic & Proofs](https://moodle.smith.edu/mod/lti/view.php?id=710414) | Emma V. | |
-| 2/23 | [Regular languages & expressions](https://moodle.smith.edu/mod/lti/view.php?id=711268) | [Chaia Y.](https://moodle.smith.edu/pluginfile.php/1096660/mod_folder/content/0/02-23-2021%20-%20Regular%20Expressions.pdf?forcedownload=1) | |
-| 2/25 | [Finite Automata](https://moodle.smith.edu/mod/lti/view.php?id=712568) | [Kathleen H.](https://moodle.smith.edu/pluginfile.php/1096660/mod_folder/content/0/02-25-2021%20-%20Finite%20Automata.pdf?forcedownload=1) | A1 |
-| 3/2 | [DFAs, NFAs, and REs](https://moodle.smith.edu/mod/lti/view.php?id=714115) | [Xiaowen (Winnie) Z.](https://moodle.smith.edu/pluginfile.php/1096660/mod_folder/content/0/03-02-2021%20-%20DFAs%2C%20NFAs%2C%20and%20REs.pdf?forcedownload=1)| |
-| 3/4 | [Non-regular languages and the PL](https://moodle.smith.edu/mod/lti/view.php?id=715040) | [Glory U. and Sara M.](https://moodle.smith.edu/pluginfile.php/1096660/mod_folder/content/0/03-04-2021%20-%20Nonregular%20Languages%20and%20the%20PL.pdf?forcedownload=1) | A2 |
-| 3/9 | [Context-free grammars](https://moodle.smith.edu/mod/lti/view.php?id=716734) | [Rhys V. and Sethatevy B.](https://moodle.smith.edu/pluginfile.php/1096660/mod_folder/content/0/03-09-2021%20-%20Context-Free%20Grammars.pdf?forcedownload=1) | |
-| 3/11 | [Push-Down Automata](https://moodle.smith.edu/mod/lti/view.php?id=717649) | [Yesugen B. and Yanning T.](https://moodle.smith.edu/pluginfile.php/1096660/mod_folder/content/0/03-11-2021%20-%20Push-Down%20Automata.pdf?forcedownload=1) | A3 |
-| 3/16 | [Turing Machines](https://moodle.smith.edu/mod/lti/view.php?id=719033) | [Addie H. and Yujun S.](https://moodle.smith.edu/pluginfile.php/1096660/mod_folder/content/0/03-16-2021%20-%20Turing%20Machines.pdf?forcedownload=1) | |
-| 3/18 | [Decidability](https://moodle.smith.edu/mod/lti/view.php?id=719829) | [Addie](https://moodle.smith.edu/pluginfile.php/1096660/mod_folder/content/0/03-18-2021%20-%20Decidability.pdf?forcedownload=1) | A4 |
-| 3/23 | [Reductions](https://moodle.smith.edu/mod/lti/view.php?id=721167) | Allison W. | |
-| 3/25 | [Undecidable problems](https://moodle.smith.edu/mod/lti/view.php?id=721971) | | A5 |
-| 3/30 | [Midterm review](https://moodle.smith.edu/mod/lti/view.php?id=725509) | Jessica A. | |
-| 4/1 | Office Hours - No New Topic | | Midterm (Monday 5pm EST)|
-| 4/6 | NO CLASS - SPRING BREAK| | |
-| 4/8 | [Enumerability](https://moodle.smith.edu/mod/lti/view.php?id=725725) | [Erin W. and Elda C.](https://moodle.smith.edu/pluginfile.php/1096660/mod_folder/content/0/04-08-2021%20-%20Enumerability.pdf?forcedownload=1) | |
-| 4/13 | [Mapping reductions](https://moodle.smith.edu/mod/lti/view.php?id=727757) | | |
-| 4/15 | [Rice's theorem](https://moodle.smith.edu/mod/lti/view.php?id=728850) | | A6 |
-| 4/20 | [Computational complexity](https://moodle.smith.edu/mod/lti/view.php?id=730922) | | |
-| 4/22 | [Application: cryptography](https://moodle.smith.edu/mod/lti/view.php?id=730935) | | A7 |
-| 4/27 | [NP-completeness](https://moodle.smith.edu/mod/lti/view.php?id=732784) | | |
-| 4/29 | Pseudorandom Generators and One-Way Functions | | |
-| 5/4 | Nonstandard TMs | | Final Project Video / Post |
-| 5/6 | Student presentations | | |
-| 5/11 | Student presentations | | |
-| 5/13 | Semester review | [Rithika D.](https://moodle.smith.edu/pluginfile.php/1096660/mod_folder/content/0/05-13-21%20Semester%20Review.pdf?forcedownload=1) | A8 |
+| **Date** | **Topic**  |    **Out**    | **Due** |
+|----------|------------|--------------------|---------|
+| 01/26    | Introduction |                  |         |
+| 01/29    | Logic and Proofs |              |         |
+| 01/31    | Regular Expressions |           |         |
+| 02/02    | W02 UC, start HW01  |   HW01    |         |
+| 02/05    | Finite Automata     |           |         |
+| 02/07    | Non-deterministic FAs |         |         |
+| 02/09    | W03 UC, start HW02  |   HW02    |  HW01   |
+| 02/12    | More on nondeterminism |        |         |
+| 02/14    | DFA-NFA and RE-FA Equivalence | |         |
+| 02/16    | W04 UC, start HW03  |   HW03    |  HW02   |
+| 02/19    | Regular/Non-Regular Languages and Pumping Lemma | | |
+| 02/21    | More Pumping Lemma Proofs |     |         |
+| 02/23    | W05 UC, start HW04  |   HW04    |  HW03   |
+| 02/26    | Context-Free Grammars	|        |         |
+| 02/28    | Push-Down Automata	 	  |        |         |
+| 03/01    | W06 UC, start HW05  |   HW05    |  HW04   |
+| 03/04    | Turing Machines	 	 	  |        |         |
+| 03/06    | Decidability	 	 	 	 	  |        |         |
+| 03/08    | W07 UC, start HW06	  |  HW06   |  HW05   |
+| 03/11    | Undecidability and Intro to Reductions	||
+| 03/13    | More on Reductions		||
+| 03/15    | W08 UC, mid-semester recap 	||HW06|
+| 03/18    | |||
+| 03/20    | NO CLASSES: SPRING BREAK|       |         |
+| 03/22    | |||
+| 03/25    | Midterm Opens | Midterm ||
+| 03/27    | Practice: Reductions	 |||
+| 03/29    | W10 UC, start HW07  |   HW07    | Midterm |
+| 04/01    | Enumeration  |||
+| 04/03    | Mapping Reducibitlity  |||
+| 04/05    | W11 UC, start HW08  |   HW08    |  HW07   |
+| 04/08    | Rice's theorem	  |||
+| 04/10    | Introduction to Complexity	  |||
+| 04/12    | W12 UC, P vs NP, start HW09 |	HW09 | HW08 |
+| 04/15    | NP-Completeness	 |||
+| 04/17    | Poly-Time Reductions	 	 |||
+| 04/19    | W13 UC, start HW10  | HW10 | HW09 |
+| 04/22    | Additional Subjects + Student presentations	 |||
+| 04/24    | Additional Subjects + Student presentations	 |||
+| 04/26    | Additional Subjects + Student presentations	|HW10||
+| 04/29    | Additional Subjects + Student presentations	|||
+| 05/01    | Wrap-Up |||
 </div>
 
 

@@ -1,0 +1,431 @@
+<!DOCTYPE html>
+
+<html>
+
+<head>
+
+<meta charset="utf-8" />
+<meta name="generator" content="pandoc" />
+<meta http-equiv="X-UA-Compatible" content="IE=EDGE" />
+
+
+
+
+<title>Final Projects</title>
+
+<script src="site_libs/jquery-1.11.3/jquery.min.js"></script>
+<meta name="viewport" content="width=device-width, initial-scale=1" />
+<link href="site_libs/bootstrap-3.3.5/css/flatly.min.css" rel="stylesheet" />
+<script src="site_libs/bootstrap-3.3.5/js/bootstrap.min.js"></script>
+<script src="site_libs/bootstrap-3.3.5/shim/html5shiv.min.js"></script>
+<script src="site_libs/bootstrap-3.3.5/shim/respond.min.js"></script>
+<script src="site_libs/navigation-1.1/tabsets.js"></script>
+<link href="site_libs/highlightjs-9.12.0/default.css" rel="stylesheet" />
+<script src="site_libs/highlightjs-9.12.0/highlight.js"></script>
+<link href="site_libs/font-awesome-5.1.0/css/all.css" rel="stylesheet" />
+<link href="site_libs/font-awesome-5.1.0/css/v4-shims.css" rel="stylesheet" />
+
+<style type="text/css">code{white-space: pre;}</style>
+<style type="text/css">
+  pre:not([class]) {
+    background-color: white;
+  }
+</style>
+<script type="text/javascript">
+if (window.hljs) {
+  hljs.configure({languages: []});
+  hljs.initHighlightingOnLoad();
+  if (document.readyState && document.readyState === "complete") {
+    window.setTimeout(function() { hljs.initHighlighting(); }, 0);
+  }
+}
+</script>
+
+
+
+<style type="text/css">
+h1 {
+  font-size: 34px;
+}
+h1.title {
+  font-size: 38px;
+}
+h2 {
+  font-size: 30px;
+}
+h3 {
+  font-size: 24px;
+}
+h4 {
+  font-size: 18px;
+}
+h5 {
+  font-size: 16px;
+}
+h6 {
+  font-size: 12px;
+}
+.table th:not([align]) {
+  text-align: left;
+}
+</style>
+
+<link rel="stylesheet" href="style.css" type="text/css" />
+
+
+
+<style type = "text/css">
+.main-container {
+  max-width: 940px;
+  margin-left: auto;
+  margin-right: auto;
+}
+code {
+  color: inherit;
+  background-color: rgba(0, 0, 0, 0.04);
+}
+img {
+  max-width:100%;
+}
+.tabbed-pane {
+  padding-top: 12px;
+}
+.html-widget {
+  margin-bottom: 20px;
+}
+button.code-folding-btn:focus {
+  outline: none;
+}
+summary {
+  display: list-item;
+}
+</style>
+
+
+<style type="text/css">
+/* padding for bootstrap navbar */
+body {
+  padding-top: 60px;
+  padding-bottom: 40px;
+}
+/* offset scroll position for anchor links (for fixed navbar)  */
+.section h1 {
+  padding-top: 65px;
+  margin-top: -65px;
+}
+.section h2 {
+  padding-top: 65px;
+  margin-top: -65px;
+}
+.section h3 {
+  padding-top: 65px;
+  margin-top: -65px;
+}
+.section h4 {
+  padding-top: 65px;
+  margin-top: -65px;
+}
+.section h5 {
+  padding-top: 65px;
+  margin-top: -65px;
+}
+.section h6 {
+  padding-top: 65px;
+  margin-top: -65px;
+}
+.dropdown-submenu {
+  position: relative;
+}
+.dropdown-submenu>.dropdown-menu {
+  top: 0;
+  left: 100%;
+  margin-top: -6px;
+  margin-left: -1px;
+  border-radius: 0 6px 6px 6px;
+}
+.dropdown-submenu:hover>.dropdown-menu {
+  display: block;
+}
+.dropdown-submenu>a:after {
+  display: block;
+  content: " ";
+  float: right;
+  width: 0;
+  height: 0;
+  border-color: transparent;
+  border-style: solid;
+  border-width: 5px 0 5px 5px;
+  border-left-color: #cccccc;
+  margin-top: 5px;
+  margin-right: -10px;
+}
+.dropdown-submenu:hover>a:after {
+  border-left-color: #ffffff;
+}
+.dropdown-submenu.pull-left {
+  float: none;
+}
+.dropdown-submenu.pull-left>.dropdown-menu {
+  left: -100%;
+  margin-left: 10px;
+  border-radius: 6px 0 6px 6px;
+}
+</style>
+
+<script>
+// manage active state of menu based on current page
+$(document).ready(function () {
+  // active menu anchor
+  href = window.location.pathname
+  href = href.substr(href.lastIndexOf('/') + 1)
+  if (href === "")
+    href = "index.html";
+  var menuAnchor = $('a[href="' + href + '"]');
+
+  // mark it active
+  menuAnchor.parent().addClass('active');
+
+  // if it's got a parent navbar menu mark it active as well
+  menuAnchor.closest('li.dropdown').addClass('active');
+});
+</script>
+
+<!-- tabsets -->
+
+<style type="text/css">
+.tabset-dropdown > .nav-tabs {
+  display: inline-table;
+  max-height: 500px;
+  min-height: 44px;
+  overflow-y: auto;
+  background: white;
+  border: 1px solid #ddd;
+  border-radius: 4px;
+}
+
+.tabset-dropdown > .nav-tabs > li.active:before {
+  content: "";
+  font-family: 'Glyphicons Halflings';
+  display: inline-block;
+  padding: 10px;
+  border-right: 1px solid #ddd;
+}
+
+.tabset-dropdown > .nav-tabs.nav-tabs-open > li.active:before {
+  content: "&#xe258;";
+  border: none;
+}
+
+.tabset-dropdown > .nav-tabs.nav-tabs-open:before {
+  content: "";
+  font-family: 'Glyphicons Halflings';
+  display: inline-block;
+  padding: 10px;
+  border-right: 1px solid #ddd;
+}
+
+.tabset-dropdown > .nav-tabs > li.active {
+  display: block;
+}
+
+.tabset-dropdown > .nav-tabs > li > a,
+.tabset-dropdown > .nav-tabs > li > a:focus,
+.tabset-dropdown > .nav-tabs > li > a:hover {
+  border: none;
+  display: inline-block;
+  border-radius: 4px;
+  background-color: transparent;
+}
+
+.tabset-dropdown > .nav-tabs.nav-tabs-open > li {
+  display: block;
+  float: none;
+}
+
+.tabset-dropdown > .nav-tabs > li {
+  display: none;
+}
+</style>
+
+<!-- code folding -->
+
+
+
+
+</head>
+
+<body>
+
+
+<div class="container-fluid main-container">
+
+
+
+
+<div class="navbar navbar-default  navbar-fixed-top" role="navigation">
+  <div class="container">
+    <div class="navbar-header">
+      <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#navbar">
+        <span class="icon-bar"></span>
+        <span class="icon-bar"></span>
+        <span class="icon-bar"></span>
+      </button>
+      <a class="navbar-brand" href="index.html">CSC250 - Spring 2021</a>
+    </div>
+    <div id="navbar" class="navbar-collapse collapse">
+      <ul class="nav navbar-nav">
+        <li>
+  <a href="index.html">
+    <span class="fa fa-home"></span>
+     
+    Home
+  </a>
+</li>
+<li>
+  <a href="syllabus.html">
+    <span class="fa fa-file"></span>
+     
+    Syllabus
+  </a>
+</li>
+<li>
+  <a href="schedule.html">
+    <span class="fa fa-calendar"></span>
+     
+    Schedule
+  </a>
+</li>
+<li>
+  <a href="https://moodle.smith.edu/course/view.php?id=40651">
+    <span class="fa fa-graduation-cap"></span>
+     
+    Moodle
+  </a>
+</li>
+<li>
+  <a href="https://smi-csc250-01-202103.slack.com">
+    <span class="fa fa-slack"></span>
+     
+    Slack
+  </a>
+</li>
+      </ul>
+      <ul class="nav navbar-nav navbar-right">
+        
+      </ul>
+    </div><!--/.nav-collapse -->
+  </div><!--/.container -->
+</div><!--/.navbar -->
+
+<div class="fluid-row" id="header">
+
+
+
+<h1 class="title toc-ignore">Final Projects: 2020</h1>
+
+</div>
+
+
+<p>EPISODE 1: Puzzles and Games</p>
+<ul>
+<li>Ali, Emily K., Annika, and Rocio: <a href="https://medium.com/smith-hcv/can-you-effectively-solve-sudoku-290d9b6fd77c">Soduku and Graph Theory</a></li>
+<li>Kendra: Go is PSPACE-hard</li>
+<li>Naomi: <a href="https://medium.com/smith-hcv/computational-complexity-of-a-game-of-nxn-chess-e000f2070d8a">Computational complexity of Chess</a></li>
+<li>Abby: <a href="https://medium.com/smith-hcv/solving-hard-instances-of-nonograms-35c68e4a26df">Nonograms: Combinatorial questions and algorithms</a></li>
+<li>Sasha and Ileanna: <a href="https://medium.com/smith-hcv/np-completeness-of-tetris-ebbb24c7ba7a">Tetris is Hard, Even to Approximate</a></li>
+<li>Sophie: <a href="https://medium.com/smith-hcv/minesweeper-is-np-complete-47e37895cc52">Minesweeper is NP-Complete</a></li>
+<li>Tess: <a href="https://medium.com/smith-hcv/the-computational-complexity-of-portal-and-other-3d-video-games-bd747963e1a9">The Computational Complexity of Portal and Other 3D Video Games</a></li>
+</ul>
+<hr>
+<p>EPISODE 2: Math and Technology</p>
+<ul>
+<li>Tzu-Chin (Laetitia) and Eleni: <a href="https://medium.com/what-are-quantum-computers-and-why-should-you-care/what-are-quantum-computers-and-why-should-you-ca-7ab5f5cfb0f7">What are Quantum Computers, how do they work and where will we use them?</a></li>
+<li>Sivan: <a href="https://medium.com/smith-hcv/pollards-rho-algorithm-for-prime-factorization-9002bf71d281">Pollard's Rho Algorithm for Prime Factorization</a></li>
+<li>Lucy: <a href="https://medium.com/smith-hcv/the-diffie-hellman-public-key-exchange-373a25c1a055">New Directions in Cryptography (Diffie-Hellman Key Exchange)</a></li>
+<li>Chenhui (Ivy), Helena, and Zihan: <a href="https://medium.com/smith-hcv/convex-hull-algorithms-in-2d-976803538452">Computational complexity of convex hull algorithms</a></li>
+<li>Jack: <a href="https://medium.com/smith-hcv/reverse-mathematics-8f407affd8a1">Different Problems, Common Threads: Computing the Difficulty of Mathematical Problems</a></li>
+<li>Phuong: <a href="https://medium.com/smith-hcv/quantum-finite-automata-523157390faf">Quantum finite automata</a></li>
+<li>Ananda and Sunshine: <a href="https://medium.com/smith-hcv/randomness-information-theory-and-kolmogorov-complexity-6471e873bcd7">Algorithmic complexity and Randomness</a></li>
+</ul>
+<hr>
+<p>EPISODE 3: Language, Music, and Thinking</p>
+<ul>
+<li>Kaia: The Zodiac Killer Ciphers</li>
+<li>Ellen: <a href="https://medium.com/smith-hcv/natural-languages-and-context-free-languages-23ffd3a0f04e">Natural Languages and Context-Free Languages</a></li>
+<li>Elise: <a href="https://medium.com/smith-hcv/the-complexity-of-natural-language-the-recognition-problem-47c33617aa9">A Practical Approach to Language Complexity: A Wikipedia Case Study</a></li>
+<li>Rebecca: <a href="https://medium.com/smith-hcv/250-final-project-recursion-in-pragmatics-7b57ad6e79f0">Recursion in Pragmatics</a></li>
+<li>Jenna: <a href="https://medium.com/smith-hcv/an-overview-of-clarion-a-general-purpose-cognitive-model-e09460cd02bb">Computational Cognitive Modeling</a></li>
+<li>Michele: <a href="https://medium.com/smith-hcv/music-arrangement-is-computationally-hard-8f5e231faaba">Computational complexity of arranging music</a></li>
+</ul>
+<hr>
+<p>EPISODE 4: More Puzzles, Games, and History</p>
+<ul>
+<li>Isabel: <a href="https://medium.com/smith-hcv/the-last-game-frontier-why-alphagos-2015-defeat-of-lee-sedol-mattered-b0276ada1ef1">Computer Go: what AlphaGo meant for AI</a></li>
+<li>Syrine: <a href="https://medium.com/smith-hcv/computational-complexity-of-checkers-d62fa4cc2d8c">Computational complexity of checkers</a></li>
+<li>Sakina, Maha, Eileen, and Neamat: <a href="https://medium.com/smith-hcv/super-mario-bros-is-harder-easier-than-we-thought-2d2c31f79bbb">P-Space Hardness of Super Mario Brothers</a></li>
+<li>Sophia: <a href="https://medium.com/smith-hcv/how-hard-is-pokemon-2343fdcfc75f">Classic Nintendo Games are (Computationally) Hard</a></li>
+<li>Fay: Cryptography</li>
+<li>Maggie: <a href="https://medium.com/smith-hcv/cracking-the-enigma-9e37e0fd8ca0">Cracking the Enigma</a></li>
+<li>Nikki: Computational Complexity of the Enigma Machine</li>
+</ul>
+<hr>
+<p>EPISODE 5: The Grand Finale</p>
+<ul>
+<li>Sarah: <a href="https://medium.com/smith-hcv/these-noodles-sure-are-complex-734145e84729">A Gentle Introduction to Computational Complexity Through an Examination of Noodle Making</a></li>
+<li>Belen: <a href="https://medium.com/smith-hcv/the-job-shop-scheduling-problem-25afdaa8bc65">Job shop problem complexity</a></li>
+<li>Mariem: <a href="https://medium.com/smith-hcv/presentation-of-the-computational-complexity-of-motion-planning-10267bc5904b">Motion Planning and PSPACE-completeness</a></li>
+<li>Katie: <a href="https://medium.com/smith-hcv/the-art-gallery-problem-b162e840408f">Art Gallery Problem</a></li>
+<li>Anushree: <a href="https://medium.com/smith-hcv/the-art-gallery-problem-49b776cd786">Art Gallery Problem</a></li>
+<li>Arris, Denise, and Alicia: <a href="https://medium.com/smith-hcv/chvatals-art-gallery-theorem-f1911970b570">Art Gallery Problem</a></li>
+<li>You Jeen: <a href="https://medium.com/smith-hcv/computational-complexity-of-ray-tracing-1db936e6aba4">Computational complexity of the Ray Tracing Problem</a></li>
+</ul>
+<hr>
+<p>Want more? Check out the projects from <a href="projects-2018.html">2018</a> and <a href="projects-2019.html">2019</a>.</p>
+
+
+
+
+</div>
+
+<script>
+
+// add bootstrap table styles to pandoc tables
+function bootstrapStylePandocTables() {
+  $('tr.header').parent('thead').parent('table').addClass('table table-condensed');
+}
+$(document).ready(function () {
+  bootstrapStylePandocTables();
+});
+
+
+</script>
+
+<!-- tabsets -->
+
+<script>
+$(document).ready(function () {
+  window.buildTabsets("TOC");
+});
+
+$(document).ready(function () {
+  $('.tabset-dropdown > .nav-tabs > li').click(function () {
+    $(this).parent().toggleClass('nav-tabs-open')
+  });
+});
+</script>
+
+<!-- code folding -->
+
+
+<!-- dynamically load mathjax for compatibility with self-contained -->
+<script>
+  (function () {
+    var script = document.createElement("script");
+    script.type = "text/javascript";
+    script.src  = "https://mathjax.rstudio.com/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML";
+    document.getElementsByTagName("head")[0].appendChild(script);
+  })();
+</script>
+
+</body>
+</html>

@@ -4,6 +4,14 @@ output:
   html_document:
     df_print: paged
 ---
+
+This course provides a challenging introduction to some of the core theoretical ideas that underlie the computational sciences. Through successful completion of this course, you will:
+
+ - Develop an understanding of “computer science outside the box” – to begin to think of CS not only as the science of _computers_, but as the science of **what can be computed**.
+- Demonstrate familiarity with key concepts in logic, proofs, and the definitions of multiple computational paradigms.
+- Explain core computer science topics, such as automata, grammars, Turing machines, complexity, and more.
+- Propose algorithms in order to transform and analyze problems using the tools and structures we will develop in class.
+
 <hr>
 
 ## Course Materials
@@ -16,18 +24,57 @@ There is no required textbook for the course. However, there are several recomme
 
 <hr>
 ## Communication expectations
-All written communication regarding this course will take place via [slack](https://smi-csc250-01-202103.slack.com){target="_blank"} (a cloud-based team
-collaboration tool used by many tech companies for internal communication). This includes:
+All written communication regarding this course will take place via slack. <!--[slack](https://smi-csc250-01-202103.slack.com){target="_blank"} (a cloud-based team
+collaboration tool used by many tech companies for internal communication).--> This includes:
 
-- announcements (in the [#general](https://smi-csc250-01-202103.slack.com/archives/C01JQ49R11V){target="_blank"} channel)
-- questions about the material (in the [#questions](https://smi-csc250-01-202103.slack.com/archives/C01KP1BLX1R){target="_blank"} channel)
+- announcements (in the [#general](){target="_blank"} channel)
+- questions about the material (in the [#questions](){target="_blank"} channel)
 - messages between individual students and the instructor (via DM to @jordan)
 
-Email is hard to search, response rate is slow, and messages are likely to get lost. Use slack!
+Even if you're not used to slack at first, it's not too hard to learn. The advantages of having all course communications in one place are compelling. Use slack!
+
+<hr>
+
+## What We'll Cover
+
+ - We’ll begin with very simple computational machinery (automata and finite state machines, regular sets, context-free languages).
+ - Next, we'll move on to Turing machines and computability, efficient algorithms and reducibility, NP-completeness, the P versus NP problem, the power of randomness.
+ - Time permitting, we’ll draw on real world examples from the domains of cryptography, machine learning, and more.
+ - Finally, we’ll talk about the present and future of computing theory, with potential topics including interactive proofs, quantum computing and the physical limits of computation.
+ 
+## What We **Won't** Cover
+
+This course assumes that you have a solid foundation in computational thinking, either through successful completion of CSC110, high school curriculum at at AP or IB level, or dedicated self-study. We also assume that you are familiar with logical reasoning and writing proofs, to the degree that it is covered in courses like MTH153: Discrete Mathematics. Check out the following links to supplemental online courses through LinkedIn Learning if you’d like some additional support, which are available for free to all members of the Smith community:
+
+ - [Programming Foundations: Fundamentals](https://www.linkedin.com/learning/programming-foundations-fundamentals-3)  
+<sup>Been awhile since you took 110? This 2hr crash course will remind you of the key points. Taught in Python.</sup>
+ - [Programming Foundations: Discrete Mathematics ](https://www.linkedin.com/learning/programming-foundations-discrete-mathematics/welcome?u=50599105)
+ <sup>Feeling a little rusty on Discrete Math? This 3hr course covers many of the topics and techniques you'll need for this course.</sup>
+ 
+<hr>
+
+## Class Mechanics
+
+We will discuss concepts using blackboard annotations as well as projected presentations, animations, and videos. 
+
+Optional readings will be available and are recommended material before each designated lecture. This will help prepare you for the day’s discussion.
+
+Friday classes will be used to practice the techniques seen during the week by solving exercises and discussing subjects that remain confusing. This will include a weekly **Understanding Check** -- a low-stakes, in-class exercise designed to see how weel we are able to transfer the week's topic to new (but similar) problems. 
+
+Note: class participation is important, as the class will include discussion and debate about many of these topics.
 
 <hr>
 ## Assignments
-There will be 8 problem sets assigned during the semester. Problem sets will be due by 5pm on Thursday evenings. These problem sets will often ask you to prove theorems, but it is more important to demonstrate understanding than to employ rigor for rigor's sake. For example: a brief description of an algorithm including an illustrative diagram is better than complicated spaghetti code. Additionally, a clear explanation of how you tried to solve a problem and were unsuccessful will receive partial credit. All assignment submissions must be in PDF format, and must be organized and legible (typed is preferable). A [LaTeX template](https://moodle.smith.edu/mod/resource/view.php?id=682230){target="_blank"} is available for typesetting your assignments.
+There will be 10 problem sets assigned during the semester. Problem sets will be due before class on Fridays. These problem sets will often ask you to prove theorems, but it is more important to demonstrate understanding than to employ rigor for rigor's sake. For example: a brief description of an algorithm including an illustrative diagram is better than complicated spaghetti code. Additionally, a clear explanation of how you tried to solve a problem and were unsuccessful will receive partial credit. 
+
+Use the following checklist to guide your answers:
+
+ - Is my answer **Correct**? (if not, re work it until you find the correct answer)
+ - Is my answer **Complete**? (if not, explore edge cases and possible gaps in your logic)
+ - Is my answer **Concise**? (if not, find a way to explain it in fewer words/steps)
+ - Is my answer **Clear**? (if not, re-word it or add an illustration that clarifies your meaning)
+
+All assignments must be submitted in PDF format, and should be organized and legible (typed is preferable). For convenience, a LaTeX template will be provided for each assignment.
 
 <hr>
 ## Collaboration and Academic Integrity
@@ -36,31 +83,71 @@ Students are strongly encouraged to form study groups and to collaborate on prob
 1.	The names of all collaborating students be listed at the top of the submission. If you worked alone, please state: "*I did not collaborate with anyone on this assignment.*"
 2. A "**References**" section, with in-line citations to any resources you used. Citations should include page numbers (if a printed resource) or a direct URL (if an online resource). If you did not use any resources in completing the assignment, please state: "*I did not utilize any external resources in completing this assignment.*"
 
+### Use of AI Tools with Attribution
+
+In this course, students are permitted to utilize AI-powered tools, provided you do so while adhering to responsible and ethical practices. These tools can provide valuable assistance in enhancing your proof-writing efficiency and proficiency. You are permitted to incorporate AI suggestions into your assignments and projects, as long as proper attribution is given. ***Generative AI (e.g. ChatGPT or similar) cannot be used for written reflections, understanding checks, or exams in CSC250.***
+
+**Guidelines for Using AI Tools:**
+
+1. **Attribution:** We'll treat AI tools as "collaborators" in this class. Whenever you get help with your assignment, it is crucial to provide clear and transparent attribution. Include a comment or annotation in your code specifying that certain sections were generated with the help of AI.
+
+2. **Originality:** While AI can offer valuable insights and suggestions, it is important that the final code reflects *your* understanding of the material. For this reason, you should avoid  copying generated code without understanding what it does; instead, use it as a reference to enhance your own skills.
+
+3. **Learning Opportunity:** View AI as a supplementary learning resource. Take the time to assess the suggestions provided by the tool and compare them to your own intuition. This process can contribute to a deeper understanding of the concepts we cover.
+
+4. **Honor Code:** Always prioritize academic integrity. Plagiarism, which includes submitting someone else's work (including AI-generated content) without proper attribution, is a violation of our community's ethical standards and course policy.
+
+5. **Discussion and Collaboration:** While using AI tools, feel free to engage in discussions with peers and instructors about the generated output and how it aligns with course concepts. Collaborative learning and constructive feedback can enrich the educational experience.
+
+6. **Diverse Approaches:** Keep in mind that there are generally many "right" ways to solve a programming problem. AI-generated suggestions might present one approach, but exploring alternative solutions on your own or through discussions is highly encouraged.
+
+7. **Human Power:** All AI is developed by other humans and trained on data generated by millions of our peers. Generative AI regurgitates and remixes existing information. Do not be fooled into thinking it "knows" more than you.
+
+Remember: the primary goal of this course is to enhance your skills and understanding of the subject matter. Utilizing AI tools with attribution can support this goal, but the responsibility lies with you to ensure that your work reflects your own efforts and comprehension.
+
+
 <hr>
 ## Examinations and Projects
-There will be two take-home final examinations, and one (low-stakes) final project in this course. The project may be conducted independently, or in a small group.
+There will be two take-home examinations, and one (low-stakes) final project in this course. The project may be conducted independently, or in a small group.
 
 <hr>
 ## Grading	
 | **Component**       | **Weight**  |
 | ------------------- |:---:|
-| Problem sets	      | 50% | 
-| Exams	      | 30% | 
-| Final project	      | 15% | 
-| Class participation	| 5% |
+| Homework Assignments| 45% | 
+| Weekly Understanding Checks | 10% (score) + 5% (completion)|
+| Exams	      | 20% | 
+| Final project	      | 10% | 
+| Engagement and participation	| 10% |
 | TOTAL               | 100%|
 
 <hr>
 ## Policy on Late Work
 
-Submissions received after the posted deadline will incur a penalty of **-10% per day for up to three days** (after which they will be ineligible for credit). Unless otherwise specified as part of a student's documented accommodations, requests for extensions outside of the three-day grace period will be granted only under the following conditions: the request is made in writing (via Slack DM to the instructor) at least 48 hours in advance of the due date (or) the professor has been notified by the student's dean that the student requires an extension for personal or health reasons.
+Because we will review assignments together each Friday during class, late homework will not be accepted for credit unless arrangements for an extension are made in advance (though you're welcome to submit it for qualitative feedback). Not having completed an assignment on time means you won't be able to participate in Friday's exercises, and this is where much of the actual learning happens. Submitting what you were able to get done is **always** better than submitting nothing.
+
+While staying on top of your work in this class is important, we also have the following ``stress release'' policies in place:
+
+ - If you are _overwhelmed_, come talk to me **before the due date** and we will find a solution.
+ - If something **catastrophic** happens, contact your Class Dean and we'll work together to arrange alternative deadlines that make sense for your individual circumstances.
+
+### Recovery modes:
+
+That said, sometimes life happens. We will have a few ways of alleviating grade pressure:
+
+- Your lowest score in HW01-HW08 will be dropped.
+- Your lowest score in the Understanding Checks through Week 11 will be dropped.
 
 <hr>
-## Accommodation
-Smith is committed to providing support services and reasonable accommodations to all students with disabilities. To request an accommodation, please register with the Disability Services Office at the beginning of the semester. To do so, call (413) 585-2071 to arrange an appointment with Laura Rauscher, Director of Disability Services. 
+## Accessibility & Accommodations
+We aim to make this course accessible to all and welcome feedback about changes we can make to meet that goal. If you encounter barriers to participation in this or any other course, please [register with the Disability Services Office](https://www.smith.edu/about-smith/disability-services/register) to request support and accommodations.
 
-<mark>**COVID-19 Policy Update**<br/>
-I am acutely aware that the shift to remote instruction may require accommodations that have not previously been verified by Disability Services (e.g. increased screen time may exacerbate eye strain, etc.) Please know that I am committed to figuring this out together. If there's something I can do to make this material more accessible for you and you have the spoons to do so, please bring it to my attention.</mark>
+<hr>
+## Comfy Class Policy
+Everyone is welcome to make themselves comfortable in our classroom and asked to be respectful of one another. When you are communicating, please practice active listening by focusing on understanding what others are expressing rather than thinking of how you will respond. Additionally, keep in mind that our wide array of individual backgrounds shape our unique perspectives, so please respect one another when we have sincere differences of opinion.
+
+You may bring beverages or snacks, but please use closed containers to avoid spills and keep messy foods away from computers. Everyone is free to use concentration accommodations like fidget toys, knitting, doodling, moving around, or sitting on the floor; just be mindful your focus does not disrupt others. Parents and caregivers may bring their babies and children to class whenever necessary. Learners of all stages are invited to join us.
+
 
 <hr>
 ## Acknowledgement

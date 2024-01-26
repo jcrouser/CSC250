@@ -3,19 +3,21 @@ title: "CSC250 - Theory of Computation"
 ---
 
 
-**Course meeting times:** Tuesday and Thursday 10:55am - 12:10pm
+**Course meeting times:** MWF 9:25am - 10:40am
+
+**Location:** [Bass 204](https://maps.app.goo.gl/QHGZwnCdatHUXj959)
 
 <!--**Virtual Classroom:** https://smith.zoom.us/j/209592518 (password required, see Slack/Moodle)-->
 
 **Instructor:** [R. Jordan Crouser](http://jcrouser.github.io/)
 
-**Jordan's Office Hours:** Wednesdays 9-11am EST (CSC250 priority) and 1-3pm EST (CSC/SDS235 priority)
+**Jordan's Office Hours:** Tuesdays 8:30-10am and Fridays 11-12pm in [Bass 105](https://goo.gl/maps/h6MQbQNM38bELqpK6)
 
-**Teaching Assistant:** [Sivan Nachum](https://www.linkedin.com/in/sivan-nachum)
+<!--**Teaching Assistant:** [Sivan Nachum](https://www.linkedin.com/in/sivan-nachum)
 
 **Sivan's Office Hours:** Sundays 1-3pm EST
 
-**Grader:** [Ajinkya Ghage (UMass)](https://ajinkyaghadge.github.io/)
+**Grader:** [Ajinkya Ghage (UMass)](https://ajinkyaghadge.github.io/)-->
 
 
 

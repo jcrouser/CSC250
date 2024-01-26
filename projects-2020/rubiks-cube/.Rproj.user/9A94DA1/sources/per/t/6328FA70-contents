@@ -1,0 +1,286 @@
+---
+title: 'Rubik’s Cube Problem is NP-Complete'
+author: "CSC 250 - Final Project Group: Nukhbah Majid, Imane Berrada, & Wakana Ninohira"
+date: "4/29/2019"
+output:
+  html_document: 
+   code_folding: hide 
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+#Solving the Rubik's Cube Optimally is NP-complete
+
+
+##Introduction
+
+Rubik’s Cube is an example of a really hard puzzle invented in 1974, by [**Ernő Rubik**](https://en.wikipedia.org/wiki/Ern%C5%91_Rubik). This puzzle has attracted people trying to solve it as well as scientists. Stephen Cook (1984) uses Rubik’s Cube as an example of a problem that is easy to verify if a solution is correct, but is difficult to find a solution. However, he does not provide a proof that Rubik’s Cube is NP-Complete. In July 2010, [**Tomas Rokicki et al.**](https://tomas.rokicki.com/rubik20.pdf) found that $3 \times 3 \times 3$ Rubik’s Cube with any starting configuration can be solved **in 20 moves**. Since there are $43,252,003,274,489,856,000$ possible valid configurations for a standard $3 \times 3 \times 3$ cube, it has taken as long as almost $30$ years for scientists to find this number, called 
+**God’s Number**. However, until recently, the NP-completeness of $n \times n \times n$ Rubik’s Cube had not been shown.
+
+The NP-Completeness of the Rubik's Cube was recently proved in the  research paper by [**Erik Demaine et al.**](https://arxiv.org/pdf/1706.06708.pdf) Although, diverting from the proof process adopted in the paper, we established our proof from multiple resources and with the inspriation from last year's group that took on the same approach to the problem.
+
+Although our project briefly discusses the approach can be adopted in order to solve any degree, $n$ s.t. $n \in \mathbb{N}^{+}$, we mainly focus our computational analysis of the Rubik's Cube to a standard $3 \times 3 \times 3$ Rubik's Cube. 
+
+<center>
+![](image1.png){width=30%}
+</center>
+
+### Definition of the Rubik's Cube problem: 
+
+In order to state the definition, the following terms must be introduced: 
+
+1. **STM (Slice Turn Metric) Move**: a rotation of a single slice of the cube for any multiple of 90 degrees in a particular direction.
+2. **SQTM (Slice Quarter Turn Metric) Move**: a rotation of a single slice of the cube for any multiple of 90 degrees in either direction. 
+
+This rule limits us to move only one slice at a time. Examples of a single move is shown in pictures below.
+
+<CENTER>
+![](image2.gif){width=40%} ![](image3.gif){width=40%}
+</CENTER>
+
+
+\n
+\n
+
+\n From Demaine's paper, the Rubik's Cube problem is defined as follows:
+
+
+> "The STM/SQTM Rubik’s Cube problem takes as input a configuration of a Rubik’s Cube together with a number **k**. The goal is to decide whether a Rubik’s Cube in configuration $C_{x}$ can be solved in at most **k** STM/SQTM moves."
+
+
+
+### Definition of Group STM and SQTM Rubik’s Cube Problem:
+
+In the paper, Group STM/SQTM Rubik’s Cube problem is defined as below:
+
+<DIV>
+"The Group STM/SQTM Rubik’s Cube problem has as **input** a transformation $t \in  RC_{n}$ and a value $k$ (where $RC_{n}$ is the group of possible sticker permutations in an $n \times n \times n$ Rubik’s Cube). The goal is to decide whether the transformation $t$ can be reversed by a sequence of at most $k$ transformations corresponding with legal Rubik’s Cube moves under move count metric STM/SQTM."
+</DIV>
+
+
+In Groups STM/SQTM Rubik’s Cube Problem, we seek that each cubie takes the same **position** as well as **color/pattern** in the resulting configuration the same as the one in the original configuration, $C_{0}$. In a standard Rubik’s cube, the goal is to achieve a **monochromatic face** on all $6$ sides. This doesn't necessarily mean that each cubie is in its same position (occupies the same vertex). Though monochromatic, the faces of the Rubik’s cube in that sense could be **scrambled**.
+
+Applications in Rubik’s with pictures more descriptively depicts the distinction between the **STM/SQTM** and **Group STM/SQTM** problems. For example, in this following Rubik’s Cube, there’s a famous painting on each face. If, for instance, the Mona Lisa had all the cubies associated with it on the same face, but in different positions, then the **STM/SQTM** problem would have been a **“yes”** instance and the **Group STM/SQTM** instance would still have been **“no”**.
+
+<CENTER>
+![](image4.png){width=50%}
+</CENTER>
+
+
+### Proving membership of (Group) STM/SQTM in NP:
+
+We start the process of proving membership in NP by redefining our allowed permutations. As we can’t take off all the stickers and redistribute them (the problem wouldn’t be as hard, would it?), we are restrained by rotations of a single slice by any multiple of $90$ degrees (as we defined STM/SQTM moves above). We will call the **group of all allowed sticker permutations in an $n \times n \times n$ Rubik’s Cube, $RC_{n}$**.
+
+
+$RC_{n}$ can be generated by the set of group elements $U_{i \in I} \{x_i, y_i, z_i\}$, such that $x_i$, $y_i$, $z_i$ are the transformations corresponding to clockwise turns of $x$, $y$, $z$ slices with index $i$ ($I$ is the set of slice indices in an $n \times n \times n$ Rubik’s Cube).
+
+
+$Q_1$: Let’s consider $C_0$, a solved configuration of a Rubik’s Cube. What happens when we apply any permutation $t$ in $RC_n$ to our solved configuration?
+
+
+$A_1$: We transform the initial configuration, $C_0$, into a new (unsolved) one **$C_t = t(C_0)$**.
+
+
+$Q_2$: So, if I give you a transformation $t$ in $RC_n$ and a value $k$, would you be able to decide whether the transformation $t$ can be reversed by a sequence of at most $k$ transformations? 
+
+
+$A_2$: Get ready for some graph theory!
+Let’s construct a graph as follows:
+
+* Draw a vertex for each transformation in $RC_n$.
+* Draw an edge between two transformations $a$ and $b$ if the transformation $a^{-1}b$ corresponds to a single (Cube’s) move, i.e: the rotation of a slice by any multiple of $90$ degrees. 
+
+
+<CENTER>
+![](image5.png){width=50%}
+</CENTER>
+\n
+\n
+\n
+
+As Demaine’s [**paper**](https://arxiv.org/pdf/1106.5736.pdf) proved, the diameter of this graph (i.e: the largest possible distance between some two nodes $v,w$ in the graph) is **$O(\frac{n^{2}}{log(n)})$**. Hence, we can get from any vertex to another in polynomial time. That is, any transformation in $RC_n$ can be achieved using a polynomial number of moves **$p(n)$**, $n$ representing the degree of our puzzle.
+
+Gathering all our proofs, we will construct a **nondeterministic polynomial-time decider** for our (Group) Rubik’s Cube problem. \n
+
+Consider $D_{Rubik’s}$ defined below:
+For each branch (of move sequences):
+
+* Make $min(k, p(n))$ moves. (#if $k>p(n)$, you only need to make $p(n)$ moves).
+* Check whether the move sequence solves the puzzle configuration.
+* If it accepts, **ACCEPT**.
+* Else, **REJECT**.
+
+<CENTER>
+![](image6.png){width=50%}
+</CENTER>
+
+
+
+For each sequence of moves, our decider makes **min($k$, $p(n)$)** moves, checks if the resulting configuration $C_t = C_0$, then accepts or rejects based off of the truth value of the equality. It repeats the same process for every branch (and there are finitely many of them since our sequences of moves are finite) and accepts if any branch accepts. Hence, our nondeterministic decider takes polynomial time ($k$, or $p(n)$, both of which are in $P$) to decide whether or not we’ve gotten to a solved configuration $C_0$.
+
+**Our (Group) Rubik’s Cube problem is therefore in NP.**
+
+## Proof: Rubik's Cube Problem is NP-Hard
+
+### Reductions leading up to the reduction of the Rubik’s Cube Problem
+
+* **Hamiltonian Cycle Problem** to **Hamiltonian Path Problem**:
+Showing that the problem, Hamiltonian Path problem, is in NP: Make a polynomial time decider which takes an input $G$ and determines whether $G$ contains a Hamiltonian Path. The definition would be as follows: 
+
+    “For a given graph: \n
+
+
+    1. **Nondeterministically** chose a certain number of edges from $G$ (the number of possible finite length branches will be equal to all possible combinations of the existing edges) and add to the assumed Hamiltonian path. 
+    2. Then **traverse** the path and check whether: 
+        i) all vertices are included in the path and; 
+        ii) each vertex is only visited once.“  
+    
+    
+    
+    
+    Since this decider takes polynomial time to determine if graph $G$ has a Hamiltonian Path, **Hamiltonian Path problem is in NP**.  
+    
+    We must reduce it to a known NP-complete problem, in this instance, **Hamiltonian Cycle Problem**. Given a graph $G = {V, E_i}$ we construct a graph **$G’$** such that $G$ contains a Hamiltonian cycle **if and only if** $G’$ contains a Hamiltonian path. This is done by choosing an arbitrary vertex $u$ in $G$ and adding a copy, **$u’$**, of it together with all its edges. Then add vertices **$v$** and **$v’$** to the graph and connect $v$ with $u$ and $v’$ with $u’$, as shown below:
+    
+    
+    <CENTER>
+    ![](image7.png){width=80%}
+    </CENTER>
+    
+    
+    Suppose first that $G$ **contains a Hamiltonian Cycle**. Then we get a Hamiltonian path in $G’$ if we start in $v$, follow the cycle that we got from $G$ back to $u’$ instead of $u$ and finally end in $v’$. For example, consider the left graph, $G$, which contains the Hamiltonian cycle 1, 2, 5, 6, 4, 3, 1. In $G’$ this corresponds to the path $v$, 1, 2, 5, 6, 4, 3, 1’, $v’$. Conversely, suppose $G’$ contains a Hamiltonian path. In that case, the path must necessarily have endpoints in $v$ and $v’$. This path can be **transformed to a cycle in $G$**. Namely, if we disregard $v$ and $v’$, the path must have endpoints in $u$ and $u’$ and if we remove $u’$ we get a cycle in $G$ if we close the path back to $u$ instead of $u’$. Hence, we have shown that $G$ contains a Hamiltonian cycle if and only if $G’$ contains a Hamiltonian path, this concludes the proof that **Hamiltonian Path is NP-complete**.
+  
+  
+    
+
+* **Hamiltonian Path** to **Cayley Graph** to **Rubik’s Cube**:
+
+
+    **Lemma:** A Cayley Graph is a directed graph that has some **finite** set of generators, which are edges of the graph, that lead to a certain vertex of the graph. And by Lovasz’s Conjecture, we know that each Cayley Graph contains a **Hamiltonian Cycle** with a few exceptions, e.g. K2 graph and the Petersen graph and more, which **always** contain a Hamiltonian Path if not a Hamiltonian Cycle. 
+
+    Before we proceed further with this proof, note that in order to determine the difference between certain scrambled configurations we represented the Rubik’s Cube as a **cubical graph**. For each **vertex** in this graph, which signifies a certain transformation, we have the **description** of that Rubik’s Cube configuration as a **bitstring**, this is depicted as below: 
+
+    <CENTER>
+    ![](image8.gif){width=40%} ![](image9.png){width=40%}
+
+
+    **Figure description**: Cayley graphs of Rubik’s Cube Cubical graph (incomplete)
+    </CENTER>
+    
+    <br />
+
+
+
+    In this cubical graph, each edge represents a **transition** from one configuration to another. A graph in which for two given vertices, there is an **automorphism** between them is called a **vertex-transitive** graph. Here the edges represent the “action”, which can take the form of a function that receives a certain configuration as **input (vertex 1)** and **outputs** a different configuration **(vertex 2)**. By the definitions of Cayley Graph and vertex-transitive graphs, all Cayley graphs are vertex-transitive graphs which have the following property: Given an automorphism between a pair of vertices, the automorphism is **closed under inverses**, meaning the opposite of the steps taken to get to a configuration, $C_x$, will get us back to $C_0$ .The complete version of a Rubik’s Cube’s cubical graph, if this graph existed, will hence be Cayley graph since you can go back to the original configuration from any possible configuration. Note that this is not a complete depiction of the cubical graph of a Rubik’s Cube as there are more than $4.3 x 10^19$ **configurations**, and such a depiction of the Rubik’s Cube has not yet been conjured. 
+
+
+    So how do we know that there is **always** a way to get back from some configuration, $C_x$, to the original configuration, $C_0$? 
+
+
+    Because there exists a Hamiltonian path in the Cayley graph of a Rubik’s Cube! This is depicted by the generalized, incomplete Cayley graph of the Rubik’s Cube below:
+
+    <CENTER>
+    ![](image10.png){width=50%}
+    </CENTER>
+
+
+    This means that even in the **worst case** if you tried all configurations of the Rubik’s Cube, there’s still a way back. As mentioned earlier, Demaine’s paper proved the **diameter**, the most number of moves required to be of **$O(\frac{n^{2}}{log(n)})$**, where $n$ is the degree of the cube. (For a general $3 \times 3 \times 3$ Rubik’s Cube, the diameter was found out to be $20$. This means that even the **hardest** configuration of $3 \times 3 \times 3$ Rubik’s Cube can be solved in just 20 moves - this is called the **God’s Number**).
+
+
+    The hardest configuration in a Rubik’s is called a **Super Flip** and it requires at least $20$ moves to go back to the original configuration, C0. The **superflip** or **12-flip** is a Rubik's Cube configuration in which all 20 of the movable subcubes (or "cubies") are in the correct permutation, and the eight corners are correctly oriented, but all twelve of the edges are oriented incorrectly ("flipped").
+
+
+    <CENTER>
+    ![](image11.png){width=45%}
+    </CENTER>
+    
+    <br />
+
+
+
+* **Conclusion**: Since **all Cayley Graphs** have **Hamiltonian Paths**, Hamiltonian Path problem reduces to Cayley Graphs. And since it is possible for **every configuration** and **every move** of the Rubik’s Cube to be represented by a Cayley Graph, the Cayley Graph reduces to **Rubik’s Cube**.
+
+$$ HAMILTONIAN\_PATH \leq_{p} CAYLEY\_GRAPH \leq_{p} RUBIK’S\_CUBE $$
+
+Therefore, the Rubik’s Cube is NP-Hard. Since we earlier proved that the Rubik’s Cube is in NP, the **Rubik’s Cube Problem is NP-Complete**.
+
+
+## Applications
+
+* **How can we turn this NP-complete puzzle into a useful device? **
+The cited examples demonstrate how a Rubik’s Cube can be used to build a touchscreen display (The Cubimorph) and a modular smartphone (the Fairphone), as part of many other real-life applications.
+
+    1. **A Rubik’s cube-like touchscreen display - The Cubimorph**:
+    
+    
+        The Cubimorph is an example of a modular device made of six-sided cubes that are chained together, shapeshifting into arbitrary shapes such as a phone, a game console, or an origami. While the Cubimorph is still in prototype mode, it aims to fit different functionalities through a single device.
+
+    <CENTER>
+    ![](image12.png){width=90%}
+    </CENTER>
+    
+    2. **Fairphone’s modular smartphone**:
+    
+    
+        Another application of the Rubik’s Cube is Fairphone’s modular smartphone (the Fairphone), an ethically-responsible phone that could be broken down into 6 parts (battery, PCB, display module, main camera, selfie shooter, and microphone) in no more than 30 seconds, and put back together in 5 minutes. Through its easily repairable and upgradable design, the smartphone tackles electronic waste and facilitates the shift into a durable smartphone model.
+        
+        
+    <CENTER>
+    ![](image13.png){width=60%}
+    </CENTER> 
+    
+    <br />
+    
+    3. **Self-solving Rubik's Cube (also our WOW factor)**:
+    
+    
+        Over the years, multiple algorithms to develop a self-solving Rubik's Cube have been developed. Once such algorithm is seen af work in the [YouTube video](http://www.youtube.com/watch?v=xCoH2AORcEQ) below: 
+    
+    <CENTER>
+    [![](http://img.youtube.com/vi/xCoH2AORcEQ/0.jpg)](http://www.youtube.com/watch?v=xCoH2AORcEQ "")
+    </CENTER>
+    
+    
+ >   “The internal mechanism of the original cube had been replaced by a spherical assembly around which the cube’s faces rotate. The sphere, which appears to be 3D-printed, houses six motors and gear trains, along with a microcontroller board and what appear to be Hall sensor boards to detect the position of each face. Everything is wired up with magnet wire to keep bundles to a minimum size, and buried deep inside is a LiPo battery pack. [...] Once the cube senses that it has been scrambled, it sets to work on the solution, walking all over the table in the process. **It’s clearly not just recording the scrambling steps and playing them back in reverse; the video below shows far more moves to solve the cube than the 15 it took to scramble it**.”
+
+
+## Discussion and Contributions
+
+We divided our project into **four** main sections: 
+
+
+The first one consisted in presenting the Rubik’s Cube and the Group Rubik’s Cube problems, with all the definitions and concepts they entailed (including the allowed STM/SQTM moves, and the different lemmas used to simplify them). The above-mentioned parts were formulated and presented by **Wakana**. 
+
+
+
+Next, we proved our problem’s membership in NP as a first step towards proving its NP-completeness. This part was completed by **Imane**, who also made the original draft for the Google presentation, and some of the graphs and gifs it included. To prove that our problem was NP hard, we collaborated together in understanding the series of polynomial reductions listed above, but decided to view the problem from a different perspective, using Cayley graphs as an alternative “intermediary” NP-complete problem. 
+
+
+
+The chain of reductions were implemented and explained by **Nukhbah**, who created the Google slides for her NP-hardness proof, edited the graphs that were used to clarify it (using a $3 \times 3 \times 3$ model), and also created this R Project for the blog post. Finally, **Imane** was in charge of finding real-life applications of the Rubik’s Cube, and writing the paragraph that you are reading at the moment.
+
+
+
+Most importantly, while the work has been “divided to conquer”, the three group members frequently met and held Skype calls to understand the proofs fully, rearrange them, edit them, and discuss their results. The discussion was a collaborative work from the three of us. We genuinely hope that you enjoyed reading our blog post and/or watching us present on the Rubik’s Cube Problem, which in pioneering words of our teammate, is:
+
+
+>“A love child of graph theory and group theory” - **(Nukhbah Majid, 2019)**.
+
+
+## Resources and Citations: 
+
+1. [Erik Demaine et al.: Solving the Rubik’s Cube Optimally is NP-Complete](https://arxiv.org/pdf/1706.06708.pdf)
+2. [Rubik's Cube Simulation](http://iamthecu.be/)
+3. [The Number of Possible Configurations for the Rubik’s Cube Calculation](https://www.youtube.com/watch?v=QV9k6dRQQe4)
+4. [Hamiltonian Cycle to Hamiltonian Path Reduction](http://www.csc.kth.se/utbildning/kth/kurser/DD2354/algokomp10/Ovningar/Exercise6_Sol.pdf)
+5. [Lovasz’s Conjecture - Relationship between vertex-transitive graphs, Cayley graphs, and Hamiltonian Paths and Cycles](https://cp4space.wordpress.com/2013/07/07/lovasz-conjecture-and-devils-algorithm/)
+6. [Cayley Graphs and God’s Algorithm in relation to the Rubik’s Cube](https://yetanothermathblog.com/permutation-puzzles/lecture-notes-on-the-rubiks-cube/rubiks-cube-notes-cayley-graphs-and-gods-algorithm/)
+7. [Hardest configuration in the 3x3x3 Rubik’s Cube: the Super Flip](http://cube20.org/)
+8. [How can a Rubik’s Cube Graph be a Cayley Graph (pg. 18-21)](https://jfuchs.hotell.kau.se/kurs/sgat/prst/s11_cubR.pdf)
+9. [The Cubimorph](https://www.engadget.com/2016/05/17/cubimorph-rubiks-cube-foldable-touchscreen-display/)
+10. [Fairphone’s Modular Smartphone](https://www.engadget.com/2015/09/25/fairphone-2/#/)
+11. [Guidance from last year's Rubik's Cube Project](https://jcrouser.github.io/CSC250/projects/RubiksCube.html)
+
+
