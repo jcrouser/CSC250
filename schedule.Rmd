@@ -43,40 +43,40 @@ The following schedule is subject to change at any time.
 | 02/05    | Finite Automata     |           |         |
 | 02/07    | Non-deterministic FAs |         |         |
 | 02/09    | W03 UC, start HW02  |   HW02    |  HW01   |
-| 02/12    | More on nondeterminism |        |         |
-| 02/14    | DFA-NFA and RE-FA Equivalence | |         |
+| 02/12    | DFA-NFA and RA-RA Equivalence |        |         |
+| 02/14    | Regular/Non-Regular Languages and Pumping Lemma | |         |
 | 02/16    | W04 UC, start HW03  |   HW03    |  HW02   |
-| 02/19    | Regular/Non-Regular Languages and Pumping Lemma | | |
-| 02/21    | More Pumping Lemma Proofs |     |         |
+| 02/19    | Context-Free Grammars | | |
+| 02/21    | Push-Down Automata |     |         |
 | 02/23    | W05 UC, start HW04  |   HW04    |  HW03   |
-| 02/26    | Context-Free Grammars	|        |         |
-| 02/28    | Push-Down Automata	 	  |        |         |
+| 02/26    | Turing Machines	|        |         |
+| 02/28    | PDecidability	 	  |        |         |
 | 03/01    | W06 UC, start HW05  |   HW05    |  HW04   |
-| 03/04    | Turing Machines	 	 	  |        |         |
-| 03/06    | Decidability	 	 	 	 	  |        |         |
-| 03/08    | W07 UC, start HW06	  |  HW06   |  HW05   |
-| 03/11    | Undecidability and Intro to Reductions	||
-| 03/13    | More on Reductions		||
-| 03/15    | W08 UC, mid-semester recap 	||HW06|
+| 03/04    | Undecidability and Intro to Reductions	 	 	  |        |         |
+| 03/06    | More on Reductions	 	 	 	 	  |        |         |
+| 03/08    | W07 UC	  |  Study for Midterm   |  HW05   |
+| 03/11    | Midterm Review / Start	||
+| 03/13    | Midterm (in-class working time)		||
+| 03/15    | Catch up, midterm grading 	|||
 | 03/18    | |||
 | 03/20    | NO CLASSES: SPRING BREAK|       |         |
 | 03/22    | |||
-| 03/25    | Midterm Opens | Midterm ||
-| 03/27    | Practice: Reductions	 |||
-| 03/29    | W10 UC, start HW07  |   HW07    | Midterm |
-| 04/01    | Enumeration  |||
-| 04/03    | Mapping Reducibitlity  |||
-| 04/05    | W11 UC, start HW08  |   HW08    |  HW07   |
-| 04/08    | Rice's theorem	  |||
-| 04/10    | Introduction to Complexity	  |||
-| 04/12    | W12 UC, P vs NP, start HW09 |	HW09 | HW08 |
+| 03/25    | Enumeration ||
+| 03/27    | Mapping Reducibitlity	 |||
+| 03/29    | W10 UC, start HW06  |       | HW06 |
+| 04/01    | Rice's theorem  |||
+| 04/03    | Wrapping up Computability  |||
+| 04/05    | W11 UC, start HW07  |   HW06    |  HW07   |
+| 04/08    | Introduction to Complexity	  |||
+| 04/10    | P vs NP	  |||
+| 04/12    | W12 UC, start HW08 |	HW08 | HW07 |
 | 04/15    | NP-Completeness	 |||
 | 04/17    | Poly-Time Reductions	 	 |||
-| 04/19    | W13 UC, start HW10  | HW10 | HW09 |
+| 04/19    | W13 UC, start HW09  | HW09 | HW08 |
 | 04/22    | Additional Subjects + Student presentations	 |||
 | 04/24    | Additional Subjects + Student presentations	 |||
-| 04/26    | Additional Subjects + Student presentations	|HW10||
-| 04/29    | Additional Subjects + Student presentations	|||
+| 04/26    | Interesting Applications I + HW09 Grading	|||
+| 04/29    | Interesting Applications II	|||
 | 05/01    | Wrap-Up |||
 </div>
 
