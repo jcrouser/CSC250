@@ -13,6 +13,12 @@
 \definecolor{smithblue}{HTML}{002855}
 \definecolor{smithyellow}{HTML}{F2A900}
 
+\usepackage[framemethod=TikZ]{mdframed}
+\mdfsetup{%
+backgroundcolor=gray!20,
+roundcorner=4pt}
+\newmdenv[frametitle={\textbf{\textit{Hint:}}}]{tip}
+
 \usepackage[parfill]{parskip}
 \parskip=\baselineskip
  \usepackage{tikz}
@@ -87,7 +93,9 @@ Prove that the language
 
 $OneFewerOne = \{w \in \{0,1\}^* \; \vert \; w = 1^i0^j, i = j-1\}$ is not regular.
 
-\textit{Hint: use the Pumping Lemma.}
+\begin{tip}
+    Try the Pumping Lemma!
+\end{tip}
 \end{exercise}
 
 % -------------------------------------------
