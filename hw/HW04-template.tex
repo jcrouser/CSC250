@@ -13,6 +13,12 @@
 \definecolor{smithblue}{HTML}{002855}
 \definecolor{smithyellow}{HTML}{F2A900}
 
+\usepackage[framemethod=TikZ]{mdframed}
+\mdfsetup{%
+backgroundcolor=gray!20,
+roundcorner=4pt}
+\newmdenv[frametitle={\textbf{\textit{Hint:}}}]{tip}
+
 \usepackage[parfill]{parskip}
 \parskip=\baselineskip
  \usepackage{tikz}
@@ -29,7 +35,7 @@
 \pagestyle{fancy}
 \lhead{Submitted by: \studentName\\
 \collaborators}
-\rhead{CSC250 Spring 2023 - Assignment 5\\
+\rhead{CSC250 Spring 2024 - Assignment 4\\
 \today{}}
 \cfoot{p. \thepage}
 \renewcommand{\headrulewidth}{0.4pt}
@@ -87,7 +93,13 @@ Prove that the language
 
 $OneFewerOne = \{w \in \{0,1\}^* \; \vert \; w = 1^i0^j, i = j-1\}$ is not regular.
 
+<<<<<<< HEAD
 \textit{Hint: use the Pumping Lemma.}
+=======
+\begin{tip}
+    Try the Pumping Lemma!
+\end{tip}
+>>>>>>> 2e6201ecae86458331e2f0375ddb11c929c6e80b
 \end{exercise}
 
 % -------------------------------------------
