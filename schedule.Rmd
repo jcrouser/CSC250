@@ -69,13 +69,13 @@ The following schedule is subject to change at any time.
 | 04/05    | W11 UC, start HW07  |   HW07    |  HW06   |
 | 04/08    | Introduction to Complexity	  |||
 | 04/10    | P vs NP	  |||
-| 04/12    | W12 UC, start HW08 |	HW08 | HW07 |
+| 04/12    | W12 UC, start project |	Project | HW07 |
 | 04/15    | NP-Completeness	 |||
 | 04/17    | Poly-Time Reductions	 	 |||
-| 04/19    | W13 UC, start HW09  | HW09 | HW08 |
+| 04/19    | Interesting Applications I, W13 UC | HW08 | Project |
 | 04/22    | Additional Subjects + Student presentations	 |||
 | 04/24    | Additional Subjects + Student presentations	 |||
-| 04/26    | Interesting Applications I + HW09 Grading	||HW09|
+| 04/26    | W14 UC, HW08 Grading	||HW08|
 | 04/29    | Interesting Applications II	|||
 | 05/01    | Wrap-Up |||
 </div>
