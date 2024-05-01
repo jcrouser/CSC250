@@ -55,5 +55,5 @@ title: "Final Projects"
  - Arris, Denise, and Alicia:	[Art Gallery Problem](https://medium.com/smith-hcv/chvatals-art-gallery-theorem-f1911970b570)
  - You Jeen:	[Computational complexity of the Ray Tracing Problem](https://medium.com/smith-hcv/computational-complexity-of-ray-tracing-1db936e6aba4)
 
-<hr>
-Want more? Check out the projects from [2018](projects-2018.html) and [2019](projects-2019.html).
+<!--<hr>
+Want more? Check out the projects from [2018](projects-2018.html) and [2019](projects-2019.html).-->
